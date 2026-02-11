@@ -1,0 +1,711 @@
+Unnamed: 0,sofifa_id,short_name,overall,potential,age,height_cm,weight_kg,club_name,league_name,club_contract_valid_until,preferred_foot,pace,shooting,passing,dribbling,defending,physic,formation,player_tags,value_eur,is_star
+28,223618,H. Boumous,70,73,25,173,72,ATK Mohun Bagan FC,Indian Super League,2026,Right,79.0,64.0,67.0,75.0,40.0,68.0,mid,#Acrobat,2100000.0,1
+34,230475,Adilson Edrada,76,76,29,176,72,Santos,Campeonato Brasileiro Série A,2024,Right,77.0,71.0,70.0,80.0,32.0,55.0,mid,#Dribbler,7500000.0,1
+40,203483,D. Klaassen,79,79,28,179,70,Ajax,Holland Eredivisie,2024,Right,71.0,80.0,73.0,76.0,72.0,78.0,mid,#Engine,17500000.0,1
+46,231027,A. Marchesano,70,70,30,168,62,FC Zürich,Swiss Super League,2023,Right,68.0,65.0,70.0,74.0,48.0,48.0,mid,#Acrobat,1500000.0,1
+53,210406,P. Zieliński,81,82,27,180,75,Napoli,Italian Serie A,2024,Right,81.0,75.0,81.0,85.0,70.0,61.0,mid,#Dribbler,29500000.0,1
+57,216594,N. Fekir,84,84,27,173,75,Real Betis Balompié,Spain Primera Division,2023,Left,83.0,83.0,82.0,87.0,38.0,79.0,mid,#Dribbler,,1
+71,211110,P. Dybala,87,88,27,177,75,Juventus,Italian Serie A,2022,Left,84.0,86.0,86.0,90.0,40.0,60.0,mid,"#Dribbler, #Playmaker, #FK Specialist, #Acrobat, #Complete Midfielder",,1
+73,173030,Ó. Trejo,75,75,33,180,79,Rayo Vallecano,Spain Primera Division,2023,Right,71.0,72.0,75.0,78.0,69.0,77.0,mid,#Acrobat,2800000.0,1
+77,189730,F. Di Tacchio,66,66,31,186,81,US Salernitana 1919,Italian Serie A,2023,Left,51.0,50.0,58.0,59.0,64.0,86.0,mid,#Strength,700000.0,1
+81,211267,R. Centurión,75,75,28,174,71,Vélez Sarsfield,Argentina Primera División,2023,Right,87.0,68.0,69.0,83.0,41.0,65.0,mid,#Acrobat,5500000.0,1
+89,212207,N. Stanciu,78,78,28,170,63,SK Slavia Praha,Czech Republic Gambrinus Liga,2023,Right,72.0,75.0,80.0,80.0,59.0,68.0,mid,#Acrobat,,1
+90,204850,T. Nguen,74,75,27,174,60,Ferencvárosi TC,Hungarian Nemzeti Bajnokság I,2022,Right,88.0,69.0,64.0,80.0,45.0,59.0,mid,#Acrobat,4900000.0,1
+92,230269,Claudio Coíntra,77,77,25,174,71,Palmeiras,Campeonato Brasileiro Série A,2024,Left,79.0,73.0,76.0,78.0,27.0,60.0,mid,#Acrobat,11500000.0,1
+96,168542,David Silva,85,85,35,173,67,Real Sociedad,Spain Primera Division,2022,Left,63.0,74.0,87.0,87.0,52.0,53.0,mid,"#Dribbler, #Playmaker, #Complete Midfielder",,1
+101,189596,T. Müller,87,87,31,185,76,FC Bayern München,German 1. Bundesliga,2023,Right,67.0,84.0,83.0,80.0,56.0,71.0,mid,"#Engine, #Clinical Finisher",,1
+104,206469,T. Fountas,73,76,25,170,65,SK Rapid Wien,Austrian Football Bundesliga,2022,Right,88.0,75.0,66.0,75.0,48.0,65.0,mid,#Acrobat,4000000.0,1
+121,231150,Jamiro Monteiro,75,75,27,175,72,Philadelphia Union,USA Major League Soccer,2022,Right,75.0,63.0,73.0,78.0,64.0,76.0,mid,#Engine,6000000.0,1
+125,213777,I. Fossum,71,75,24,180,73,Aalborg BK,Danish Superliga,2023,Right,70.0,67.0,68.0,71.0,62.0,73.0,mid,#Engine,2700000.0,1
+151,214250,M. Palacios,68,68,28,183,75,Pohang Steelers,Korean K League 1,2022,Right,92.0,61.0,57.0,69.0,45.0,75.0,mid,#Speedster,1200000.0,1
+158,41,Iniesta,79,79,37,171,68,Vissel Kobe,Japanese J. League Division 1,2024,Right,51.0,69.0,84.0,84.0,59.0,57.0,mid,#Playmaker ,5500000.0,1
+159,230481,Ronaldo Cabrais,83,83,29,177,75,Grêmio,Campeonato Brasileiro Série A,2024,Right,88.0,77.0,83.0,84.0,35.0,72.0,mid,#Acrobat,35500000.0,1
+166,212523,Anderson Talisca,82,83,27,190,80,Al Nassr,Saudi Abdul L. Jameel League,2024,Left,80.0,83.0,81.0,83.0,52.0,75.0,mid,#FK Specialist,35500000.0,1
+175,230426,Arturo Inálcio,78,78,21,170,60,Flamengo,Campeonato Brasileiro Série A,2024,Right,83.0,72.0,75.0,78.0,52.0,48.0,mid,#Acrobat,16500000.0,1
+182,212198,Bruno Fernandes,88,89,26,179,69,Manchester United,English Premier League,2025,Right,75.0,86.0,89.0,84.0,70.0,77.0,mid,"#Playmaker, #Engine, #Distance Shooter, #Crosser, #FK Specialist, #Complete Midfielder",107500000.0,1
+183,224330,N. Stefanelli,69,71,26,166,71,AIK,Swedish Allsvenskan,2023,Right,88.0,67.0,59.0,75.0,33.0,69.0,mid,#Acrobat,1700000.0,1
+185,207421,L. Trossard,77,78,26,172,67,Brighton & Hove Albion,English Premier League,2023,Right,82.0,76.0,74.0,80.0,30.0,61.0,mid,#Acrobat,12500000.0,1
+186,237496,D. Mihailovic,73,77,22,178,69,Club de Foot Montréal,USA Major League Soccer,2022,Right,66.0,65.0,73.0,74.0,60.0,68.0,mid,#Engine,4400000.0,1
+192,208822,Marcos Júnior,73,73,28,167,66,Yokohama F. Marinos,Japanese J. League Division 1,2022,Right,88.0,73.0,70.0,75.0,32.0,65.0,mid,#Acrobat,3100000.0,1
+198,221120,R. Vloet,72,74,26,188,75,Heracles Almelo,Holland Eredivisie,2023,Right,66.0,73.0,70.0,70.0,49.0,75.0,mid,#Engine,2900000.0,1
+208,216354,A. Kramarić,83,83,30,177,73,TSG Hoffenheim,German 1. Bundesliga,2022,Right,71.0,86.0,76.0,86.0,30.0,71.0,mid,"#Dribbler, #Clinical Finisher, #Complete Forward",35500000.0,1
+233,192342,E. Cardona,77,77,28,183,92,Boca Juniors,Argentina Primera División,2021,Right,54.0,78.0,81.0,76.0,36.0,77.0,mid,#Strength,10500000.0,1
+241,228887,T. Mrčela,65,65,30,195,88,SC East Bengal FC,Indian Super League,2022,Right,44.0,32.0,44.0,45.0,64.0,80.0,def,#Strength,575000.0,1
+255,236690,M. Ngadeu,73,73,30,190,93,KAA Gent,Belgian Jupiler Pro League,2023,Right,60.0,44.0,52.0,50.0,72.0,83.0,def,#Strength,2500000.0,1
+262,198176,S. de Vrij,85,85,29,189,78,Inter,Italian Serie A,2023,Right,72.0,41.0,64.0,70.0,87.0,79.0,def,"#Tackling, #Tactician ",,1
+265,184183,S. Dewaest,72,72,30,188,91,Oud-Heverlee Leuven,Belgian Jupiler Pro League,2022,Right,43.0,41.0,48.0,41.0,72.0,81.0,def,#Strength,1900000.0,1
+279,198538,B. Paulsen,69,69,29,191,85,Hammarby IF,Swedish Allsvenskan,2024,Right,56.0,58.0,57.0,57.0,67.0,81.0,def,#Strength,1200000.0,1
+280,231828,F. Tingager,69,70,28,198,94,Aarhus GF,Danish Superliga,2025,Right,41.0,25.0,49.0,49.0,69.0,77.0,def,"#Aerial Threat, #Strength",1300000.0,1
+284,216460,J. Giménez,84,88,26,185,79,Atlético de Madrid,Spain Primera Division,2025,Right,69.0,45.0,57.0,59.0,86.0,80.0,def,#Tackling ,,1
+298,194003,A. Niewulis,66,66,32,187,77,Raków Częstochowa,Polish T-Mobile Ekstraklasa,2022,Right,55.0,39.0,52.0,52.0,64.0,81.0,def,#Strength,550000.0,1
+301,184873,I. Traoré,75,75,34,184,87,Angers SCO,French Ligue 1,2022,Right,40.0,39.0,58.0,50.0,75.0,86.0,def,#Strength,1800000.0,1
+308,230386,Césario Limberg,69,69,25,191,87,São Paulo,Campeonato Brasileiro Série A,2024,Left,56.0,50.0,57.0,49.0,70.0,72.0,def,#Strength,1300000.0,1
+309,219145,G. Maripán,77,79,27,193,83,AS Monaco,French Ligue 1,2024,Right,34.0,41.0,54.0,51.0,78.0,80.0,def,#Strength,,1
+318,232581,Eduardo,64,66,28,184,84,Sagan Tosu,Japanese J. League Division 1,2022,Left,58.0,33.0,44.0,51.0,62.0,81.0,def,#Strength,600000.0,1
+322,219582,S. Fortes,70,70,29,192,85,KV Oostende,Belgian Jupiler Pro League,2022,Right,34.0,41.0,54.0,49.0,70.0,80.0,def,#Strength,1300000.0,1
+329,209413,M. Matras,63,63,30,193,88,PGE FKS Stal Mielec,Polish T-Mobile Ekstraklasa,2022,Right,33.0,49.0,55.0,50.0,61.0,80.0,def,#Strength,400000.0,1
+341,194201,P. Jansson,75,75,30,194,86,Brentford,English Premier League,2022,Right,59.0,42.0,53.0,62.0,75.0,80.0,def,#Strength,4600000.0,1
+356,197655,S. Coates,83,83,30,196,92,Sporting CP,Portuguese Liga ZON SAGRES,2023,Right,68.0,49.0,55.0,63.0,84.0,87.0,def,"#Aerial Threat, #Tackling, #Strength",30000000.0,1
+358,217196,J. Palomino,77,77,31,188,87,Atalanta,Italian Serie A,2022,Left,46.0,32.0,55.0,59.0,79.0,81.0,def,#Strength,7000000.0,1
+360,230400,Allison Sireo,70,70,21,194,85,Associação Chapecoense de Futebol,Campeonato Brasileiro Série A,2024,Right,75.0,35.0,42.0,41.0,72.0,71.0,def,#Aerial Threat,1600000.0,1
+378,200754,T. Ciğerci,70,70,29,185,85,İstanbul Başakşehir FK,Turkish Süper Lig,2022,Right,66.0,65.0,69.0,69.0,69.0,79.0,mid,#Engine,1600000.0,1
+384,206563,J. Holt,66,66,28,164,70,Livingston FC,Scottish Premiership,2023,Right,74.0,60.0,61.0,66.0,62.0,56.0,mid,#Acrobat,750000.0,1
+391,234457,O. Etebo,72,76,25,176,70,Watford,English Premier League,2022,Right,77.0,65.0,68.0,75.0,71.0,81.0,mid,#Engine,3200000.0,1
+392,210533,João Schmidt,72,72,28,183,83,Kawasaki Frontale,Japanese J. League Division 1,2022,Left,48.0,60.0,70.0,68.0,70.0,77.0,mid,#Strength,2100000.0,1
+410,176266,Lucas Leiva,81,81,34,179,78,Lazio,Italian Serie A,2022,Right,56.0,65.0,73.0,76.0,82.0,69.0,mid,#Tactician ,9000000.0,1
+419,218339,M. Dahoud,79,82,25,178,68,Borussia Dortmund,German 1. Bundesliga,2023,Right,70.0,69.0,76.0,83.0,67.0,70.0,mid,#Engine,,1
+424,211093,C. McGregor,75,75,28,174,74,Celtic,Scottish Premiership,2024,Left,80.0,70.0,73.0,77.0,70.0,76.0,mid,#Engine,5500000.0,1
+432,231089,I. Sissoko,72,78,23,193,90,RC Strasbourg Alsace,French Ligue 1,2024,Right,50.0,55.0,65.0,66.0,71.0,84.0,mid,#Strength,3700000.0,1
+447,243015,L. Romo,77,82,26,182,84,Cruz Azul,Mexican Liga MX,2022,Right,72.0,61.0,65.0,65.0,75.0,85.0,mid,#Strength,,1
+449,200145,Casemiro,89,89,29,185,84,Real Madrid CF,Spain Primera Division,2025,Right,65.0,73.0,76.0,73.0,86.0,90.0,mid,"#Engine, #Tackling, #Tactician, #Strength, #Complete Defender",,1
+466,186801,C. Kouyaté,78,78,31,189,83,Crystal Palace,English Premier League,2022,Right,64.0,64.0,62.0,69.0,78.0,85.0,mid,#Engine,9500000.0,1
+476,201455,G. Kondogbia,79,79,28,188,76,Atlético de Madrid,Spain Primera Division,2024,Left,68.0,74.0,75.0,77.0,78.0,89.0,mid,#Strength,17500000.0,1
+478,209499,Fabinho,86,88,27,188,78,Liverpool,English Premier League,2026,Right,67.0,69.0,78.0,78.0,85.0,83.0,mid,"#Tackling, #Tactician ",73500000.0,1
+497,165153,K. Benzema,89,89,33,185,81,Real Madrid CF,Spain Primera Division,2023,Right,76.0,86.0,81.0,87.0,39.0,77.0,att,#Poacher,,1
+498,201942,Roberto Firmino,85,85,29,181,76,Liverpool,English Premier League,2023,Right,77.0,78.0,79.0,89.0,59.0,78.0,att,"#Dribbler, #Engine",,1
+500,202477,Deulofeu,79,79,27,177,73,Udinese Calcio,Italian Serie A,2024,Right,88.0,73.0,73.0,83.0,30.0,64.0,att,#Acrobat,18500000.0,1
+535,193061,R. Pereyra,80,80,30,182,77,Udinese Calcio,Italian Serie A,2023,Right,76.0,74.0,79.0,81.0,68.0,73.0,mid,#Engine,20000000.0,1
+538,178518,R. Nainggolan,80,80,33,176,65,Royal Antwerp FC,Belgian Jupiler Pro League,2023,Right,71.0,84.0,78.0,74.0,73.0,80.0,mid,#Distance Shooter,,1
+543,193474,I. Gueye,82,82,31,174,66,Paris Saint-Germain,French Ligue 1,2023,Right,69.0,62.0,71.0,78.0,83.0,77.0,mid,#Tactician ,21500000.0,1
+1121,232411,C. Nkunku,81,86,23,179,72,RB Leipzig,German 1. Bundesliga,2024,Right,79.0,74.0,81.0,85.0,69.0,65.0,mid,#Dribbler,,1
+1127,231077,M. Frýdek,74,74,29,178,73,FC Luzern,Swiss Super League,2022,Left,75.0,67.0,70.0,69.0,68.0,80.0,def,#Engine,3700000.0,1
+1135,212187,P. Max,80,81,27,177,77,PSV,Holland Eredivisie,2024,Left,82.0,67.0,79.0,75.0,73.0,75.0,def,#Crosser,,1
+1177,254909,O. Dorley,75,82,22,174,63,SK Slavia Praha,Czech Republic Gambrinus Liga,2023,Left,85.0,55.0,73.0,79.0,68.0,69.0,def,#Engine,,1
+1178,211195,L. Woudenberg,67,68,27,186,70,SC Heerenveen,Holland Eredivisie,2022,Left,66.0,38.0,58.0,59.0,63.0,74.0,def,#Engine,1100000.0,1
+1185,215160,F. Angileri,77,78,27,184,84,River Plate,Argentina Primera División,2023,Left,80.0,68.0,74.0,74.0,70.0,79.0,def,#Engine,,1
+1190,234396,A. Davies,82,89,20,183,75,FC Bayern München,German 1. Bundesliga,2025,Left,96.0,67.0,71.0,82.0,75.0,75.0,def,#Speedster,,1
+1199,209889,R. Guerreiro,84,84,27,170,71,Borussia Dortmund,German 1. Bundesliga,2023,Left,75.0,77.0,85.0,88.0,76.0,58.0,def,"#Dribbler, #Acrobat",40500000.0,1
+1211,216267,A. Robertson,87,88,27,178,64,Liverpool,English Premier League,2026,Left,84.0,61.0,81.0,81.0,82.0,76.0,def,"#Engine, #Crosser",83500000.0,1
+1237,189332,Jordi Alba,86,86,32,170,68,FC Barcelona,Spain Primera Division,2024,Left,86.0,69.0,81.0,83.0,77.0,71.0,def,#Acrobat,,1
+1244,232656,T. Hernández,84,90,23,184,81,AC Milan,Italian Serie A,2024,Left,93.0,71.0,76.0,81.0,77.0,82.0,def,#Speedster,62500000.0,1
+1252,171875,C. Erkin,75,75,32,181,72,Fatih Karagümrük S.K.,Turkish Süper Lig,2022,Left,69.0,72.0,77.0,76.0,68.0,72.0,def,#Crosser,3900000.0,1
+1263,210603,Y. Al Shahrani,75,75,29,170,64,Al Hilal,Saudi Abdul L. Jameel League,2025,Right,90.0,54.0,67.0,73.0,70.0,66.0,def,"#Speedster, #Engine",4900000.0,1
+1266,207593,J. Uronen,73,74,26,177,69,Stade Brestois 29,French Ligue 1,2024,Left,72.0,57.0,69.0,67.0,69.0,75.0,def,#Engine,3300000.0,1
+1276,230184,Ronaldo Esler,79,79,21,168,65,Fortaleza,Campeonato Brasileiro Série A,2024,Left,89.0,58.0,70.0,77.0,74.0,59.0,def,#Acrobat,,1
+1283,226491,K. Tierney,80,86,24,178,70,Arsenal,English Premier League,2024,Left,84.0,60.0,75.0,77.0,75.0,79.0,def,#Engine,,1
+1296,230256,Adryan Zonta,81,81,29,172,68,RB Bragantino,Campeonato Brasileiro Série A,2024,Left,93.0,66.0,75.0,76.0,72.0,77.0,def,#Speedster,22500000.0,1
+1304,224334,M. Acuña,84,84,29,172,69,Sevilla FC,Spain Primera Division,2024,Left,76.0,74.0,82.0,87.0,79.0,82.0,def,"#Dribbler, #Engine, #Crosser",,1
+1319,191333,K. Noborizato,71,71,30,168,68,Kawasaki Frontale,Japanese J. League Division 1,2022,Left,90.0,57.0,64.0,72.0,61.0,69.0,def,#Speedster,1600000.0,1
+1336,220651,Angeliño,83,86,24,175,69,RB Leipzig,German 1. Bundesliga,2025,Left,78.0,71.0,82.0,84.0,76.0,70.0,def,#Crosser,,1
+1370,210514,João Cancelo,86,87,27,182,74,Manchester City,English Premier League,2025,Right,85.0,71.0,83.0,84.0,80.0,72.0,def,#Crosser,71500000.0,1
+1373,230337,Andeson Trigo,77,77,33,175,68,Fluminense,Campeonato Brasileiro Série A,2024,Left,82.0,63.0,75.0,77.0,71.0,64.0,def,#Acrobat,5500000.0,1
+1379,205069,Juan Bernat,82,82,28,170,67,Paris Saint-Germain,French Ligue 1,2025,Left,82.0,65.0,78.0,82.0,76.0,68.0,def,#Acrobat,27500000.0,1
+1456,190815,D. Blind,82,82,31,180,72,Ajax,Holland Eredivisie,2023,Left,45.0,64.0,82.0,79.0,83.0,72.0,def,#Tactician ,,1
+1466,258168,J. Oosterwolde,66,80,20,186,74,FC Twente,Holland Eredivisie,2023,Left,90.0,37.0,56.0,59.0,60.0,73.0,def,#Speedster,2000000.0,1
+1468,200458,L. Digne,84,84,27,178,74,Everton,English Premier League,2023,Left,79.0,69.0,80.0,80.0,80.0,76.0,def,#Crosser,40500000.0,1
+1470,224885,Guilherme Sityá,72,72,31,180,79,İttifak Holding Konyaspor,Turkish Süper Lig,2023,Left,82.0,44.0,68.0,70.0,65.0,78.0,def,#Engine,1700000.0,1
+1479,231318,R. Perraud,77,83,23,173,68,Southampton,English Premier League,2025,Left,74.0,72.0,75.0,74.0,72.0,73.0,def,#Engine,15500000.0,1
+1517,206006,E. Alioski,73,73,29,172,63,Al Ahli,Saudi Abdul L. Jameel League,2023,Left,78.0,71.0,69.0,70.0,66.0,75.0,def,#Engine,2700000.0,1
+1536,217199,P. Matricardi,63,66,27,189,85,Gaz Metan Mediaş,Romanian Liga I,2026,Right,51.0,32.0,38.0,39.0,62.0,76.0,def,#Strength,550000.0,1
+1541,189899,V. Wormgoor,71,71,32,188,81,Columbus Crew,USA Major League Soccer,2021,Right,32.0,38.0,56.0,53.0,70.0,81.0,def,#Strength,1200000.0,1
+1544,212419,T. Mings,78,80,28,196,77,Aston Villa,English Premier League,2024,Left,72.0,44.0,67.0,66.0,78.0,81.0,def,#Aerial Threat,,1
+1550,190637,I. Armaș,63,63,33,194,86,FC Voluntari,Romanian Liga I,2022,Left,34.0,39.0,49.0,39.0,62.0,78.0,def,#Strength,230000.0,1
+1555,203929,J. Fjóluson,70,70,32,193,85,Hammarby IF,Swedish Allsvenskan,2023,Left,40.0,48.0,58.0,52.0,69.0,78.0,def,#Strength,1000000.0,1
+1556,194947,J. Vuković,72,72,33,195,93,Qingdao FC,Chinese Super League,2022,Left,33.0,46.0,55.0,51.0,73.0,76.0,def,"#Aerial Threat, #Strength",1100000.0,1
+1557,203376,V. van Dijk,89,89,29,193,92,Liverpool,English Premier League,2025,Right,78.0,60.0,71.0,72.0,91.0,84.0,def,"#Tackling, #Tactician, #Strength, #Complete Defender",,1
+1570,248295,M. Fall,71,71,33,192,87,Mumbai City FC,Indian Super League,2022,Right,63.0,36.0,48.0,46.0,70.0,83.0,def,#Strength,900000.0,1
+1584,247148,J. Segovia,70,70,32,185,89,Puebla FC,Mexican Liga MX,2023,Left,50.0,26.0,45.0,47.0,70.0,80.0,def,#Strength,1000000.0,1
+1593,251336,M. Jarjué,65,71,23,188,88,IF Elfsborg,Swedish Allsvenskan,2021,Right,63.0,35.0,46.0,55.0,63.0,77.0,def,#Strength,1000000.0,1
+1596,233643,S. Camara,67,69,28,190,84,Demir Grup Sivasspor,Turkish Süper Lig,2022,Left,63.0,39.0,51.0,52.0,65.0,78.0,def,#Strength,1000000.0,1
+1600,258575,E. Agbadou,68,75,24,192,86,KAS Eupen,Belgian Jupiler Pro League,2025,Right,65.0,30.0,50.0,57.0,66.0,79.0,def,#Strength,2200000.0,1
+1602,253170,A. Szalai,75,83,23,192,83,Fenerbahçe SK,Turkish Süper Lig,2025,Left,72.0,33.0,56.0,55.0,75.0,83.0,def,#Strength,11500000.0,1
+1603,258464,L. Lochoshvili,68,75,23,191,84,RZ Pellets Wolfsberger AC,Austrian Football Bundesliga,2022,Left,56.0,28.0,39.0,44.0,67.0,79.0,def,#Strength,2200000.0,1
+1639,198135,D. Lachman,66,66,31,189,75,Perth Glory,Australian Hyundai A-League,2022,Right,66.0,50.0,55.0,57.0,63.0,80.0,def,#Strength,575000.0,1
+1640,155862,Sergio Ramos,88,88,35,184,82,Paris Saint-Germain,French Ligue 1,2023,Right,70.0,70.0,76.0,74.0,88.0,84.0,def,"#Aerial Threat, #Tackling, #Tactician, #Complete Defender",,1
+1649,206553,S. Falette,70,70,29,184,91,Atakaş Hatayspor,Turkish Süper Lig,2024,Left,68.0,44.0,46.0,47.0,69.0,80.0,def,#Strength,1300000.0,1
+1655,233647,Neris,70,70,29,192,86,Al Hazem,Saudi Abdul L. Jameel League,2023,Right,48.0,39.0,45.0,45.0,70.0,83.0,def,#Strength,1300000.0,1
+1672,229773,G. Dzhikiya,77,79,27,188,86,Spartak Moskva,Russian Premier League,2022,Left,80.0,53.0,61.0,64.0,79.0,81.0,def,#Strength,,1
+1677,235553,Y. Salmier,72,73,28,188,85,ESTAC Troyes,French Ligue 1,2022,Right,43.0,28.0,45.0,53.0,72.0,80.0,def,#Strength,2200000.0,1
+1684,240034,L. Štetina,72,72,29,185,88,AC Sparta Praha,Czech Republic Gambrinus Liga,2022,Right,67.0,38.0,52.0,62.0,71.0,78.0,def,#Strength,2000000.0,1
+1701,244963,Ivanildo Fernandes,71,76,25,193,83,FC Vizela,Portuguese Liga ZON SAGRES,2024,Left,62.0,28.0,47.0,49.0,70.0,81.0,def,#Strength,2500000.0,1
+1713,198581,Ó. Murillo,76,76,33,184,84,Pachuca,Mexican Liga MX,2022,Left,67.0,39.0,56.0,52.0,77.0,80.0,def,#Strength,3600000.0,1
+1714,189391,Juanan,65,65,34,192,90,Hyderabad FC,Indian Super League,2022,Left,32.0,35.0,47.0,43.0,65.0,76.0,def,#Strength,230000.0,1
+1721,202849,J. Vestergaard,78,79,28,199,96,Leicester City,English Premier League,2024,Right,32.0,48.0,62.0,49.0,79.0,82.0,def,"#Aerial Threat, #Strength",13500000.0,1
+1735,199895,L. Lacroix,67,68,29,197,95,Western United FC,Australian Hyundai A-League,2022,Right,31.0,44.0,58.0,53.0,67.0,76.0,def,#Strength,950000.0,1
+1739,201208,D. Henry,70,71,28,188,88,Suwon Samsung Bluewings,Korean K League 1,2021,Right,66.0,44.0,50.0,52.0,68.0,84.0,def,#Strength,1500000.0,1
+1748,199845,F. Acerbi,83,83,33,192,88,Lazio,Italian Serie A,2023,Left,63.0,50.0,62.0,64.0,86.0,83.0,def,"#Tackling, #Tactician ",17500000.0,1
+1751,186101,E. Hovland,68,68,32,191,90,Rosenborg BK,Norwegian Eliteserien,2021,Right,61.0,25.0,47.0,45.0,67.0,77.0,def,#Strength,775000.0,1
+1755,178603,M. Hummels,86,86,32,191,96,Borussia Dortmund,German 1. Bundesliga,2022,Right,56.0,59.0,77.0,73.0,89.0,77.0,def,"#Tackling, #Tactician, #Strength, #Complete Defender",,1
+1760,208432,T. Pettersson,68,68,31,190,83,Lillestrøm SK,Norwegian Eliteserien,2022,Left,43.0,49.0,56.0,57.0,66.0,80.0,def,#Strength,825000.0,1
+1762,200065,A. Nukan,70,72,27,196,86,Göztepe SK,Turkish Süper Lig,2024,Left,40.0,37.0,54.0,51.0,70.0,78.0,def,"#Aerial Threat, #Strength",1700000.0,1
+1765,169623,P. Hartley,66,66,33,187,90,Jamshedpur FC,Indian Super League,2022,Left,35.0,32.0,48.0,38.0,65.0,84.0,def,#Strength,400000.0,1
+1772,188182,L. Balogun,74,74,33,190,88,Rangers FC,Scottish Premiership,2022,Right,70.0,45.0,59.0,60.0,73.0,79.0,def,#Strength,2000000.0,1
+1793,152729,Piqué,84,84,34,194,85,FC Barcelona,Spain Primera Division,2024,Right,58.0,61.0,71.0,68.0,85.0,78.0,def,"#Aerial Threat, #Strength",13500000.0,1
+1794,192641,K. Vogt,76,76,29,194,87,TSG Hoffenheim,German 1. Bundesliga,2022,Right,71.0,57.0,72.0,68.0,77.0,75.0,def,#Aerial Threat,6500000.0,1
+1795,200395,M. Silva,68,68,32,185,82,Real Salt Lake,USA Major League Soccer,2021,Right,32.0,35.0,50.0,51.0,65.0,80.0,def,#Strength,775000.0,1
+1797,183285,M. Sakho,75,75,31,187,83,Montpellier Hérault SC,French Ligue 1,2024,Left,47.0,33.0,64.0,55.0,74.0,79.0,def,#Strength,3800000.0,1
+1802,214038,S. Mosquera,69,72,27,185,77,Club Deportes Tolima,Colombian Liga Postobón,2026,Right,58.0,46.0,42.0,51.0,70.0,74.0,def,#Strength,1600000.0,1
+1804,232580,Gabriel,79,84,23,190,87,Arsenal,English Premier League,2025,Left,68.0,36.0,60.0,58.0,80.0,80.0,def,#Strength,,1
+1810,246098,Vítor Tormena,75,78,25,192,84,SC Braga,Portuguese Liga ZON SAGRES,2024,Right,53.0,36.0,58.0,60.0,77.0,77.0,def,#Strength,6500000.0,1
+1812,203263,H. Maguire,84,86,28,194,100,Manchester United,English Premier League,2024,Right,50.0,55.0,69.0,70.0,85.0,87.0,def,"#Aerial Threat, #Tactician, #Strength",42500000.0,1
+1813,228124,M. Jonjić,73,73,30,187,83,Shanghai Shenhua FC,Chinese Super League,2021,Right,68.0,45.0,49.0,49.0,76.0,78.0,def,#Strength,2500000.0,1
+1828,201024,K. Koulibaly,86,86,30,187,89,Napoli,Italian Serie A,2023,Right,81.0,28.0,51.0,65.0,87.0,85.0,def,"#Tackling, #Strength",55500000.0,1
+1829,235243,M. de Ligt,85,90,21,189,89,Juventus,Italian Serie A,2024,Right,73.0,59.0,60.0,69.0,84.0,87.0,def,#Strength,,1
+1835,212218,A. Laporte,86,89,27,191,85,Manchester City,English Premier League,2024,Left,63.0,50.0,72.0,69.0,86.0,80.0,def,"#Tackling, #Tactician ",,1
+1841,226536,O. Colley,74,75,28,191,87,U.C. Sampdoria,Italian Serie A,2025,Left,68.0,31.0,48.0,54.0,72.0,83.0,def,#Strength,4000000.0,1
+1863,203795,B. Romo,68,68,32,185,88,Club Deportivo Palestino,Chilian Campeonato Nacional,2021,Left,43.0,28.0,46.0,46.0,67.0,80.0,def,#Strength,775000.0,1
+1864,258396,C. Özkacar,62,75,20,190,90,Oud-Heverlee Leuven,Belgian Jupiler Pro League,2022,Left,51.0,30.0,49.0,52.0,60.0,72.0,def,#Strength,900000.0,1
+1868,209329,Dória,76,79,26,188,82,Santos Laguna,Mexican Liga MX,2025,Left,54.0,59.0,59.0,59.0,75.0,85.0,def,#Strength,8500000.0,1
+1871,226628,E. Šipović,65,65,30,199,99,Kerala Blasters FC,Indian Super League,2022,Right,35.0,31.0,39.0,41.0,65.0,79.0,def,#Strength,575000.0,1
+1872,228732,H. Moukoudi,75,80,23,191,74,AS Saint-Étienne,French Ligue 1,2023,Right,53.0,32.0,51.0,49.0,75.0,80.0,def,#Strength,7500000.0,1
+1874,207910,Douglas Grolli,67,67,31,189,84,Avispa Fukuoka,Japanese J. League Division 1,2022,Right,39.0,47.0,39.0,42.0,67.0,73.0,def,#Strength,700000.0,1
+1876,221990,Y. Cabral,71,72,29,188,84,Atlético Tucumán,Argentina Primera División,2023,Right,41.0,29.0,46.0,44.0,73.0,69.0,def,#Strength,1700000.0,1
+1879,232521,L. Merolla,66,71,26,193,85,Club Atlético Huracán,Argentina Primera División,2023,Left,47.0,26.0,38.0,44.0,67.0,72.0,def,#Strength,1100000.0,1
+1881,248470,J. Handl,67,75,23,196,86,FK Austria Wien,Austrian Football Bundesliga,2023,Right,55.0,30.0,43.0,44.0,66.0,77.0,def,"#Aerial Threat, #Strength",2100000.0,1
+1893,203363,G. Valsvik,68,70,28,196,91,Strømsgodset IF,Norwegian Eliteserien,2023,Left,43.0,47.0,49.0,40.0,68.0,81.0,def,#Strength,1200000.0,1
+1897,209210,A. Grant,66,66,27,191,88,Pohang Steelers,Korean K League 1,2021,Left,50.0,33.0,43.0,41.0,66.0,77.0,def,#Strength,800000.0,1
+1899,244915,M. Salisu,76,84,22,191,85,Southampton,English Premier League,2024,Left,67.0,36.0,51.0,55.0,76.0,79.0,def,#Strength,15500000.0,1
+1902,199393,N. Pallois,76,76,33,189,89,FC Nantes,French Ligue 1,2022,Left,41.0,53.0,60.0,59.0,76.0,85.0,def,#Strength,3600000.0,1
+1907,241970,H. Delbridge,67,67,29,193,90,Incheon United FC,Korean K League 1,2022,Left,58.0,32.0,41.0,45.0,63.0,87.0,def,#Strength,850000.0,1
+1911,223064,F. Noguera,70,72,28,193,97,Estudiantes de La Plata,Argentina Primera División,2022,Right,42.0,38.0,43.0,48.0,70.0,81.0,def,#Strength,1600000.0,1
+1912,237570,T. Plavotic,64,72,24,197,92,SV Ried,Austrian Football Bundesliga,2023,Left,47.0,29.0,35.0,38.0,63.0,78.0,def,#Strength,1200000.0,1
+1913,212980,B. Dabanlı,65,65,31,190,88,SC Rheindorf Altach,Austrian Football Bundesliga,2022,Right,32.0,34.0,54.0,48.0,63.0,80.0,def,#Strength,500000.0,1
+1924,262704,Guilherme Garutti,60,63,27,192,86,CS Mioveni,Romanian Liga I,2022,Right,53.0,45.0,43.0,38.0,56.0,79.0,def,#Strength,275000.0,1
+1925,200353,A. Soumaoro,75,76,29,187,91,Bologna,Italian Serie A,2024,Right,56.0,37.0,55.0,55.0,74.0,80.0,def,#Strength,5000000.0,1
+1935,213331,J. Tah,78,82,25,195,98,Bayer 04 Leverkusen,German 1. Bundesliga,2023,Right,67.0,27.0,55.0,57.0,79.0,81.0,def,"#Aerial Threat, #Strength",17500000.0,1
+1937,202335,E. Dier,79,80,27,190,90,Tottenham Hotspur,English Premier League,2024,Right,53.0,64.0,69.0,64.0,79.0,83.0,def,#Strength,17500000.0,1
+1951,219693,Diego Carlos,82,84,28,185,86,Sevilla FC,Spain Primera Division,2024,Right,76.0,47.0,63.0,68.0,81.0,83.0,def,#Strength,30500000.0,1
+1956,220665,G. Wüthrich,71,75,26,192,88,SK Sturm Graz,Austrian Football Bundesliga,2022,Right,55.0,35.0,49.0,52.0,71.0,80.0,def,#Strength,2300000.0,1
+1959,190962,T. Aldred,67,67,30,188,84,Brisbane Roar,Australian Hyundai A-League,2024,Right,63.0,30.0,39.0,41.0,63.0,88.0,def,#Strength,825000.0,1
+1967,205565,D. Bulthuis,70,70,31,192,78,Ulsan Hyundai FC,Korean K League 1,2021,Left,49.0,37.0,52.0,43.0,69.0,84.0,def,#Strength,1100000.0,1
+1980,205452,A. Rüdiger,83,84,28,190,85,Chelsea,English Premier League,2022,Right,75.0,43.0,68.0,64.0,84.0,84.0,def,#Strength,34500000.0,1
+1989,228386,P. Cissé,76,81,25,197,90,Olympiacos CFP,Greek Super League,2022,Right,79.0,32.0,46.0,45.0,74.0,86.0,def,"#Aerial Threat, #Strength",10000000.0,1
+1991,229628,Fali,75,77,27,186,84,Cádiz CF,Spain Primera Division,2024,Right,55.0,53.0,66.0,59.0,74.0,87.0,def,#Strength,6000000.0,1
+2003,221972,Sun Jie,65,66,29,191,87,Changchun Yatai FC,Chinese Super League,2022,Right,43.0,40.0,51.0,56.0,64.0,80.0,def,#Strength,650000.0,1
+2006,212190,N. Süle,82,87,25,195,99,FC Bayern München,German 1. Bundesliga,2022,Right,65.0,42.0,59.0,51.0,83.0,81.0,def,"#Aerial Threat, #Strength",40500000.0,1
+2023,231498,D. Bergqvist,63,65,28,185,87,Kalmar FF,Swedish Allsvenskan,2021,Right,53.0,31.0,50.0,54.0,58.0,81.0,def,#Strength,475000.0,1
+2026,229749,A. Barboza,75,78,26,193,70,Club Libertad,Paraguayan Primera División,2023,Left,51.0,57.0,60.0,64.0,73.0,85.0,def,#Strength,6500000.0,1
+2035,242578,B. Badiashile,76,84,20,194,75,AS Monaco,French Ligue 1,2024,Left,62.0,39.0,63.0,58.0,77.0,76.0,def,#Aerial Threat,15500000.0,1
+2042,234229,R. McCrorie,68,77,23,187,80,Aberdeen,Scottish Premiership,2024,Right,77.0,53.0,61.0,67.0,67.0,82.0,def,#Engine,2700000.0,1
+2045,210648,A. Hegazi,75,75,30,193,88,Al Ittihad,Saudi Abdul L. Jameel League,2023,Right,48.0,20.0,50.0,55.0,76.0,82.0,def,#Strength,4600000.0,1
+2054,181479,A. Wilkinson,71,71,36,187,85,Sydney FC,Australian Hyundai A-League,2022,Right,32.0,46.0,54.0,51.0,71.0,82.0,def,#Strength,325000.0,1
+2069,242359,Jorge Fernandes,71,78,24,191,91,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2025,Right,40.0,34.0,44.0,57.0,70.0,78.0,def,#Strength,3500000.0,1
+2072,184703,L. Montes,77,77,35,166,68,Club León,Mexican Liga MX,2022,Left,62.0,73.0,77.0,80.0,59.0,69.0,mid,#Acrobat,4200000.0,1
+2094,229391,Palhinha,82,87,25,190,82,Sporting CP,Portuguese Liga ZON SAGRES,2025,Right,60.0,65.0,70.0,72.0,85.0,88.0,mid,#Tackling ,,1
+2115,143076,A. Gómez,85,85,33,167,68,Sevilla FC,Spain Primera Division,2024,Right,87.0,78.0,84.0,87.0,39.0,55.0,mid,#Acrobat,33500000.0,1
+2126,199556,M. Verratti,87,87,28,165,60,Paris Saint-Germain,French Ligue 1,2024,Right,64.0,61.0,87.0,91.0,79.0,67.0,mid,"#Dribbler, #Playmaker, #Acrobat, #Complete Midfielder",79500000.0,1
+2129,221001,U. Saltnes,74,74,28,187,78,FK Bodø/Glimt,Norwegian Eliteserien,2023,Right,72.0,67.0,71.0,72.0,66.0,84.0,mid,#Engine,4200000.0,1
+2130,216520,J. Güemez,71,71,29,176,80,Club Atlético de San Luis,Mexican Liga MX,2021,Right,57.0,67.0,67.0,66.0,68.0,85.0,mid,#Strength,1600000.0,1
+2133,208437,M. Eriksson,69,69,31,180,79,Djurgårdens IF,Swedish Allsvenskan,2023,Left,51.0,69.0,72.0,68.0,51.0,81.0,mid,#Engine,1200000.0,1
+2140,221643,Kim Do Hyeok,68,68,29,173,70,Incheon United FC,Korean K League 1,2022,Left,59.0,61.0,67.0,66.0,57.0,76.0,mid,#Engine,1200000.0,1
+2146,205498,Jorginho,85,85,29,180,68,Chelsea,English Premier League,2023,Right,55.0,67.0,86.0,81.0,73.0,73.0,mid,#Playmaker ,52500000.0,1
+2172,182521,T. Kroos,88,88,31,183,76,Real Madrid CF,Spain Primera Division,2023,Right,53.0,81.0,91.0,81.0,71.0,68.0,mid,"#Playmaker, #Distance Shooter, #Crosser, #Complete Midfielder",,1
+2173,187961,Paulinho,83,83,32,183,80,Al Ahli,Saudi Abdul L. Jameel League,2024,Right,72.0,81.0,77.0,81.0,80.0,85.0,mid,#Engine,28500000.0,1
+2184,186942,İ. Gündoğan,85,85,30,180,80,Manchester City,English Premier League,2023,Right,65.0,80.0,85.0,86.0,73.0,72.0,mid,"#Dribbler, #Playmaker, #Complete Midfielder",51500000.0,1
+2211,242201,Luis Milla,78,82,26,175,67,Granada CF,Spain Primera Division,2024,Right,72.0,70.0,76.0,74.0,74.0,75.0,mid,#Engine,17500000.0,1
+2215,244399,T. Cognat,68,74,23,173,67,Servette FC,Swiss Super League,2024,Right,79.0,60.0,68.0,72.0,61.0,67.0,mid,#Acrobat,1900000.0,1
+2248,176944,M. Fellaini,75,75,33,194,85,Shandong Taishan,Chinese Super League,2021,Right,36.0,72.0,69.0,70.0,75.0,87.0,mid,"#Aerial Threat, #Strength",3500000.0,1
+2251,189509,Thiago,86,86,30,174,70,Liverpool,English Premier League,2024,Right,63.0,72.0,86.0,90.0,70.0,66.0,mid,"#Dribbler, #Acrobat",,1
+2252,229354,A. Ferati,66,72,23,168,71,Fortuna Sittard,Holland Eredivisie,2023,Left,73.0,56.0,69.0,72.0,38.0,50.0,mid,#Acrobat,1400000.0,1
+2262,246548,O. Sahraoui,65,80,20,164,53,Vålerenga Fotball,Norwegian Eliteserien,2023,Right,78.0,48.0,63.0,72.0,41.0,52.0,mid,#Acrobat,1700000.0,1
+2274,188942,V. Wanyama,75,75,30,188,79,Club de Foot Montréal,USA Major League Soccer,2022,Right,50.0,65.0,66.0,71.0,74.0,87.0,mid,#Strength,4700000.0,1
+2278,222970,E. Öztümer,66,66,30,160,60,Fatih Karagümrük S.K.,Turkish Süper Lig,2023,Left,70.0,64.0,65.0,70.0,30.0,50.0,mid,#Acrobat,825000.0,1
+2281,230767,Renato Sanches,80,86,23,176,70,LOSC Lille,French Ligue 1,2023,Right,84.0,74.0,77.0,84.0,72.0,84.0,mid,#Engine,,1
+2315,252308,A. Musrati,77,81,25,189,83,SC Braga,Portuguese Liga ZON SAGRES,2022,Right,59.0,54.0,68.0,68.0,74.0,82.0,mid,#Strength,13500000.0,1
+2339,162240,M. Dembélé,79,79,33,185,85,Guangzhou City,Chinese Super League,2021,Left,70.0,68.0,76.0,85.0,73.0,77.0,mid,#Dribbler,,1
+2344,203067,D. Chará,75,75,35,172,68,Portland Timbers,USA Major League Soccer,2021,Right,77.0,60.0,66.0,71.0,71.0,80.0,mid,#Engine,1600000.0,1
+2351,216385,R. Ortiz,74,74,31,174,75,Club Olimpia,Paraguayan Primera División,2022,Left,79.0,68.0,67.0,72.0,71.0,84.0,mid,#Engine,3000000.0,1
+2368,251854,Pedri,81,91,18,174,61,FC Barcelona,Spain Primera Division,2022,Right,78.0,65.0,79.0,84.0,66.0,63.0,mid,"#Engine, #Acrobat",,1
+2369,223307,J. Kubicki,67,69,25,179,69,Lechia Gdańsk,Polish T-Mobile Ekstraklasa,2023,Right,72.0,56.0,62.0,66.0,62.0,76.0,mid,#Engine,1300000.0,1
+2374,224336,T. Romanczuk,69,69,29,186,77,Jagiellonia Białystok,Polish T-Mobile Ekstraklasa,2023,Left,60.0,63.0,62.0,62.0,69.0,77.0,mid,#Engine,1200000.0,1
+2375,216350,A. Ademi,76,76,30,185,79,Dinamo Zagreb,Croatian Prva HNL,2023,Right,66.0,64.0,65.0,71.0,75.0,83.0,mid,#Engine,6500000.0,1
+2378,200155,H. Vanaken,78,78,28,195,80,Club Brugge KV,Belgian Jupiler Pro League,2025,Right,47.0,78.0,79.0,75.0,59.0,73.0,mid,#Aerial Threat,,1
+2383,244373,V. Buyalskyi,76,76,28,175,68,Dynamo Kyiv,Ukrainian Premier League,2023,Right,75.0,69.0,72.0,79.0,70.0,56.0,mid,#Acrobat,7500000.0,1
+2386,215735,Willie,69,69,28,169,66,Club The Strongest,Liga de Fútbol Profesional Boliviano,2021,Right,85.0,68.0,61.0,81.0,35.0,45.0,mid,#Acrobat,1400000.0,1
+2397,198706,Luis Alberto,84,84,28,183,74,Lazio,Italian Serie A,2025,Right,60.0,76.0,86.0,84.0,57.0,59.0,mid,#Playmaker ,42500000.0,1
+2400,193847,Osmar,74,74,33,192,86,FC Seoul,Korean K League 1,2021,Left,38.0,60.0,69.0,57.0,71.0,87.0,mid,#Strength,2100000.0,1
+2408,251026,P. Schwarz,67,67,29,174,70,Śląsk Wrocław,Polish T-Mobile Ekstraklasa,2023,Right,69.0,61.0,67.0,65.0,61.0,72.0,mid,#Engine,1000000.0,1
+2410,236264,P. Aquino,76,80,26,175,74,Club América,Mexican Liga MX,2024,Right,76.0,59.0,66.0,68.0,73.0,80.0,mid,#Engine,9500000.0,1
+2417,208128,H. Çalhanoğlu,82,83,27,178,76,Inter,Italian Serie A,2024,Right,67.0,78.0,84.0,85.0,59.0,57.0,mid,#Dribbler,,1
+2420,213565,T. Lemar,83,86,25,171,66,Atlético de Madrid,Spain Primera Division,2023,Left,82.0,76.0,82.0,86.0,59.0,63.0,mid,"#Dribbler, #Acrobat",,1
+2421,235467,M. Moreno,75,77,26,168,65,Atlanta United,USA Major League Soccer,2022,Right,89.0,68.0,73.0,83.0,59.0,63.0,mid,#Acrobat,7000000.0,1
+2422,189513,Parejo,86,86,32,182,74,Villarreal CF,Spain Primera Division,2024,Right,50.0,83.0,90.0,81.0,71.0,69.0,mid,"#Playmaker, #Crosser, #FK Specialist, #Complete Midfielder",53500000.0,1
+2424,220925,A. Schöpf,71,72,27,178,74,DSC Arminia Bielefeld,German 1. Bundesliga,2023,Right,70.0,66.0,69.0,71.0,63.0,71.0,mid,#Engine,2100000.0,1
+2429,243222,B. Slisz,67,78,22,180,76,Legia Warszawa,Polish T-Mobile Ekstraklasa,2024,Right,69.0,54.0,62.0,65.0,67.0,73.0,mid,#Engine,2300000.0,1
+2433,198031,Sérgio Oliveira,80,80,29,181,78,FC Porto,Portuguese Liga ZON SAGRES,2025,Right,58.0,79.0,82.0,77.0,72.0,70.0,mid,#Distance Shooter,20500000.0,1
+2438,209297,Fred,81,81,28,169,62,Manchester United,English Premier League,2023,Left,77.0,66.0,77.0,81.0,75.0,71.0,mid,"#Engine, #Acrobat",22500000.0,1
+2442,230234,Everton Andrão,79,79,25,177,75,Fluminense,Campeonato Brasileiro Série A,2024,Right,67.0,62.0,74.0,75.0,78.0,76.0,mid,#Engine,,1
+2457,226790,W. Ndidi,85,88,24,183,74,Leicester City,English Premier League,2024,Right,67.0,62.0,69.0,74.0,87.0,83.0,mid,"#Tackling, #Tactician ",66500000.0,1
+2459,230249,Marlinito Dias,70,70,25,189,84,Fortaleza,Campeonato Brasileiro Série A,2024,Right,56.0,44.0,64.0,57.0,66.0,71.0,mid,#Strength,1600000.0,1
+2467,240471,F. Gorriarán,77,80,26,168,68,Santos Laguna,Mexican Liga MX,2022,Right,74.0,68.0,75.0,77.0,73.0,71.0,mid,#Engine,12500000.0,1
+2479,195365,K. Kampl,81,81,30,178,66,RB Leipzig,German 1. Bundesliga,2023,Right,70.0,67.0,81.0,85.0,63.0,62.0,mid,"#Engine, #Acrobat",24500000.0,1
+2489,206511,M. Arnold,81,82,27,184,74,VfL Wolfsburg,German 1. Bundesliga,2026,Left,65.0,81.0,79.0,78.0,76.0,74.0,mid,#Distance Shooter,26500000.0,1
+2513,205983,D. Đoković,71,71,31,190,86,Çaykur Rizespor,Turkish Süper Lig,2022,Left,65.0,64.0,69.0,68.0,65.0,82.0,mid,#Strength,1300000.0,1
+2524,246646,M. Caqueret,78,86,21,174,63,Olympique Lyonnais,French Ligue 1,2023,Right,73.0,58.0,72.0,81.0,72.0,69.0,mid,#Engine,31500000.0,1
+2528,209658,L. Goretzka,87,88,26,189,82,FC Bayern München,German 1. Bundesliga,2026,Right,81.0,82.0,82.0,84.0,81.0,86.0,mid,#Tactician ,,1
+2564,230938,F. Kessié,84,86,24,183,88,AC Milan,Italian Serie A,2022,Right,78.0,74.0,74.0,80.0,82.0,87.0,mid,"#Engine, #Strength",49500000.0,1
+2571,224030,M. Lopez,75,79,23,167,58,U.S. Sassuolo Calcio,Italian Serie A,2025,Right,71.0,66.0,77.0,77.0,65.0,57.0,mid,#Acrobat,8000000.0,1
+2580,216334,P. Gerkens,72,74,26,180,72,Royal Antwerp FC,Belgian Jupiler Pro League,2023,Right,57.0,70.0,70.0,70.0,65.0,71.0,mid,#Engine,2900000.0,1
+2594,235173,I. Sangaré,77,84,23,191,77,PSV,Holland Eredivisie,2025,Right,66.0,65.0,70.0,70.0,77.0,84.0,mid,#Strength,20000000.0,1
+2600,201303,R. Falk,75,75,29,177,65,F.C. København,Danish Superliga,2025,Right,85.0,65.0,72.0,81.0,64.0,75.0,mid,#Acrobat,5500000.0,1
+2607,234698,C. Songkrasin,71,71,27,158,56,Hokkaido Consadole Sapporo,Japanese J. League Division 1,2025,Right,82.0,63.0,71.0,77.0,26.0,46.0,att,#Acrobat,2000000.0,1
+2608,244186,Luquinhas,71,76,24,166,67,Legia Warszawa,Polish T-Mobile Ekstraklasa,2024,Right,82.0,64.0,68.0,77.0,30.0,55.0,att,#Acrobat,2900000.0,1
+2616,224520,R. Kent,76,81,24,172,65,Rangers FC,Scottish Premiership,2023,Right,91.0,72.0,70.0,79.0,30.0,62.0,att,"#Speedster, #Acrobat",11500000.0,1
+2629,256370,G. Ludwigson,68,68,27,182,75,Hammarby IF,Swedish Allsvenskan,2022,Right,86.0,63.0,59.0,66.0,30.0,79.0,att,#Engine,1300000.0,1
+2630,202848,G. Caprari,75,75,27,176,72,Hellas Verona,Italian Serie A,2022,Right,84.0,70.0,70.0,81.0,20.0,49.0,att,#Acrobat,6000000.0,1
+2632,225663,A. Golovin,79,83,25,180,69,AS Monaco,French Ligue 1,2024,Right,81.0,72.0,79.0,83.0,67.0,69.0,att,"#Engine, #Acrobat",24500000.0,1
+2633,228614,G. Holtmann,72,73,26,185,77,VfL Bochum 1848,German 1. Bundesliga,2023,Left,94.0,64.0,63.0,70.0,57.0,59.0,mid,#Speedster,2800000.0,1
+2636,222492,L. Sané,84,87,25,183,80,FC Bayern München,German 1. Bundesliga,2025,Left,90.0,81.0,79.0,85.0,38.0,68.0,mid,"#Speedster, #Dribbler",,1
+2653,207892,J. Gyau,68,68,28,175,75,FC Cincinnati,USA Major League Soccer,2021,Right,91.0,58.0,61.0,69.0,57.0,68.0,mid,#Speedster,1200000.0,1
+2655,233049,J. Sancho,87,91,21,180,76,Manchester United,English Premier League,2026,Right,81.0,76.0,82.0,91.0,36.0,65.0,mid,"#Dribbler, #Acrobat",116500000.0,1
+2660,213488,D. De Silva,67,70,24,170,60,Macarthur FC,Australian Hyundai A-League,2023,Right,76.0,58.0,62.0,70.0,31.0,68.0,mid,#Engine,1400000.0,1
+2667,208418,Y. Carrasco,84,84,27,185,73,Atlético de Madrid,Spain Primera Division,2024,Right,88.0,81.0,78.0,85.0,45.0,67.0,mid,#Acrobat,,1
+2672,221174,M. Oršić,77,77,28,179,69,Dinamo Zagreb,Croatian Prva HNL,2025,Right,90.0,82.0,71.0,77.0,56.0,62.0,mid,"#Speedster, #Acrobat",10500000.0,1
+2676,189575,Muniain,83,83,28,170,66,Athletic Club de Bilbao,Spain Primera Division,2024,Right,81.0,76.0,82.0,87.0,51.0,61.0,mid,"#Dribbler, #Acrobat",36500000.0,1
+2685,205114,T. Inui,75,75,33,169,69,Cerezo Osaka,Japanese J. League Division 1,2024,Right,78.0,69.0,71.0,82.0,46.0,54.0,mid,#Acrobat,3500000.0,1
+2688,229469,J. Meneses,76,76,28,163,65,Club León,Mexican Liga MX,2022,Right,85.0,68.0,69.0,76.0,35.0,69.0,mid,#Acrobat,7500000.0,1
+2693,239482,Galeno,77,84,23,179,62,SC Braga,Portuguese Liga ZON SAGRES,2026,Right,91.0,70.0,66.0,82.0,32.0,66.0,mid,#Speedster,,1
+2700,263288,J. Pešek,73,73,28,174,63,AC Sparta Praha,Czech Republic Gambrinus Liga,2024,Right,90.0,63.0,68.0,74.0,28.0,49.0,mid,#Speedster,3100000.0,1
+2717,230846,R. Charles-Cook,62,68,24,175,69,Ross County FC,Scottish Premiership,2022,Right,86.0,54.0,57.0,66.0,53.0,67.0,mid,#Engine,625000.0,1
+2718,237239,E. Bardhi,79,80,25,172,64,Levante Unión Deportiva,Spain Primera Division,2022,Right,75.0,81.0,78.0,82.0,63.0,56.0,mid,#FK Specialist,,1
+2724,224739,P. Olayinka,76,78,25,188,77,SK Slavia Praha,Czech Republic Gambrinus Liga,2023,Right,84.0,69.0,70.0,76.0,57.0,78.0,mid,#Engine,9500000.0,1
+2734,216820,M. Simon,75,76,25,168,69,FC Nantes,French Ligue 1,2024,Right,92.0,70.0,66.0,79.0,34.0,65.0,mid,"#Speedster, #Acrobat",6500000.0,1
+2751,237960,Mama Baldé,75,77,25,176,69,ESTAC Troyes,French Ligue 1,2025,Right,91.0,72.0,67.0,73.0,50.0,79.0,mid,#Speedster,7000000.0,1
+2752,208574,F. Kostić,84,84,28,184,82,Eintracht Frankfurt,German 1. Bundesliga,2023,Left,88.0,77.0,82.0,83.0,68.0,80.0,mid,#Engine,42500000.0,1
+2767,216447,Álvaro García,75,75,28,167,61,Rayo Vallecano,Spain Primera Division,2023,Left,92.0,64.0,70.0,73.0,30.0,45.0,mid,#Speedster,5500000.0,1
+2780,252238,A. Velasco,73,85,18,167,63,Club Atlético Independiente,Argentina Primera División,2023,Right,79.0,66.0,66.0,80.0,52.0,54.0,mid,#Acrobat,7000000.0,1
+2784,227939,J. Kouassi,73,74,26,180,88,Wuhan FC,Chinese Super League,2021,Right,88.0,71.0,59.0,74.0,31.0,67.0,mid,#Acrobat,3600000.0,1
+2802,210537,R. Steffen,78,78,29,170,65,VfL Wolfsburg,German 1. Bundesliga,2023,Left,79.0,75.0,74.0,80.0,48.0,65.0,mid,#Acrobat,,1
+2815,214026,J. Mojica,74,74,28,185,73,Elche CF,Spain Primera Division,2024,Left,91.0,65.0,70.0,71.0,68.0,72.0,mid,#Speedster,3800000.0,1
+2816,237539,L. Singh,74,80,23,171,60,F.C. København,Danish Superliga,2025,Right,88.0,70.0,67.0,77.0,38.0,43.0,mid,#Acrobat,6500000.0,1
+2823,217606,E. Boateng,65,65,27,168,68,New England Revolution,USA Major League Soccer,2021,Left,90.0,59.0,58.0,67.0,41.0,63.0,mid,"#Speedster, #Acrobat",750000.0,1
+2824,209769,B. Başaçıkoğlu,67,68,26,179,70,Heracles Almelo,Holland Eredivisie,2023,Right,83.0,65.0,60.0,72.0,45.0,57.0,mid,#Acrobat,1200000.0,1
+2833,233531,Y. Soteldo,77,83,24,158,55,Toronto FC,USA Major League Soccer,2024,Right,83.0,71.0,74.0,82.0,35.0,57.0,mid,#Acrobat,16500000.0,1
+2839,235996,N. Moumi Ngamaleu,74,74,26,181,74,BSC Young Boys,Swiss Super League,2023,Right,91.0,70.0,65.0,75.0,34.0,74.0,mid,#Speedster,4600000.0,1
+2840,233372,B. Merlini,72,73,25,179,71,Club Libertad,Paraguayan Primera División,2023,Right,83.0,65.0,68.0,75.0,41.0,56.0,mid,#Acrobat,2800000.0,1
+2853,226747,B. Perlaza,72,72,29,187,86,Atlético Nacional,Colombian Liga Postobón,2022,Right,58.0,51.0,59.0,61.0,73.0,85.0,mid,#Strength,2000000.0,1
+2857,238050,C. Ejuke,74,81,23,174,72,PFC CSKA Moscow,Russian Premier League,2024,Right,94.0,68.0,63.0,78.0,37.0,59.0,mid,#Speedster,8500000.0,1
+2865,228093,M. Thuram,79,85,23,192,88,Borussia Mönchengladbach,German 1. Bundesliga,2023,Right,82.0,78.0,70.0,79.0,48.0,77.0,mid,#Strength,27500000.0,1
+2867,241084,L. Díaz,80,86,24,180,73,FC Porto,Portuguese Liga ZON SAGRES,2024,Right,92.0,77.0,70.0,82.0,32.0,71.0,mid,#Speedster,33500000.0,1
+2868,222716,Everton,80,83,25,174,72,SL Benfica,Portuguese Liga ZON SAGRES,2025,Right,86.0,75.0,73.0,85.0,32.0,62.0,mid,#Dribbler,,1
+2874,214434,M. Cuero,73,73,28,178,83,Club Atlético Banfield,Argentina Primera División,2021,Right,91.0,68.0,65.0,74.0,28.0,63.0,mid,#Speedster,3100000.0,1
+2899,229167,M. Rashica,77,82,25,177,73,Norwich City,English Premier League,2025,Right,83.0,77.0,71.0,83.0,46.0,65.0,mid,#Acrobat,15500000.0,1
+2905,238581,R. Vargas,75,83,22,179,68,FC Augsburg,German 1. Bundesliga,2025,Right,83.0,69.0,67.0,79.0,54.0,65.0,mid,#Acrobat,12500000.0,1
+2909,235805,F. Chiesa,83,91,23,175,70,Juventus,Italian Serie A,2022,Right,91.0,81.0,74.0,85.0,48.0,73.0,mid,"#Speedster, #Dribbler, #Acrobat",80500000.0,1
+2917,255876,A. Trezza,66,74,22,166,59,Club Nacional de Football,Uruguayan Primera División,2022,Right,86.0,55.0,58.0,61.0,50.0,65.0,mid,#Engine,1900000.0,1
+2921,233924,M. Lovera,72,78,22,170,65,Racing Club,Argentina Primera División,2021,Right,87.0,61.0,63.0,79.0,31.0,62.0,mid,#Acrobat,3800000.0,1
+2927,241508,M. Damsgaard,77,87,20,180,71,U.C. Sampdoria,Italian Serie A,2024,Right,85.0,69.0,72.0,82.0,48.0,63.0,mid,#Acrobat,,1
+2929,247354,B. Michel,64,72,23,178,75,Orlando City Soccer Club,USA Major League Soccer,2021,Right,90.0,59.0,37.0,63.0,22.0,58.0,mid,#Speedster,1300000.0,1
+2934,212096,V. Grifo,79,79,28,180,76,Sport-Club Freiburg,German 1. Bundesliga,2025,Right,70.0,74.0,79.0,81.0,41.0,62.0,mid,#Crosser,17500000.0,1
+2946,252495,J. Kamiński,68,83,19,179,68,Lech Poznań,Polish T-Mobile Ekstraklasa,2024,Right,91.0,62.0,61.0,67.0,47.0,53.0,mid,#Speedster,2900000.0,1
+2952,234906,H. Aouar,81,86,23,175,70,Olympique Lyonnais,French Ligue 1,2023,Right,75.0,75.0,81.0,85.0,66.0,71.0,mid,#Dribbler,38500000.0,1
+2962,231478,L. Martínez,85,89,23,174,72,Inter,Italian Serie A,2023,Right,84.0,81.0,72.0,85.0,48.0,84.0,att,#Acrobat,,1
+2972,219733,L. Ajorque,78,79,27,197,92,RC Strasbourg Alsace,French Ligue 1,2024,Left,60.0,78.0,60.0,70.0,26.0,81.0,att,"#Aerial Threat, #Strength",16500000.0,1
+2974,230296,Cristian Lodeira,70,70,29,172,66,Juventude,Campeonato Brasileiro Série A,2024,Right,78.0,69.0,58.0,76.0,29.0,52.0,att,#Acrobat,1600000.0,1
+2982,213013,F. Acheampong,77,77,27,170,60,Shenzhen FC,Chinese Super League,2022,Left,94.0,76.0,68.0,81.0,49.0,77.0,att,"#Speedster, #Acrobat",,1
+2984,194765,A. Griezmann,85,85,30,176,73,Atlético de Madrid,Spain Primera Division,2022,Left,80.0,84.0,84.0,87.0,52.0,72.0,att,#Acrobat,,1
+2992,251852,K. Adeyemi,71,85,19,177,69,FC Red Bull Salzburg,Austrian Football Bundesliga,2024,Left,92.0,72.0,65.0,76.0,24.0,62.0,att,#Speedster,4500000.0,1
+2993,200826,M. Quiroga,74,74,31,188,80,Club Necaxa,Mexican Liga MX,2025,Left,67.0,70.0,51.0,68.0,29.0,81.0,att,#Strength,3600000.0,1
+2996,224540,E. Boateng,76,80,25,175,70,Dalian Professional Football Club,Chinese Super League,2022,Right,91.0,74.0,58.0,75.0,40.0,77.0,att,"#Speedster, #Acrobat",10500000.0,1
+3005,223857,O. Salinas,68,68,33,169,72,Club de Deportes Cobresal,Chilian Campeonato Nacional,2022,Right,91.0,64.0,56.0,69.0,28.0,77.0,att,"#Speedster, #Engine",750000.0,1
+3007,195620,R. Krishna,72,72,33,169,70,ATK Mohun Bagan FC,Indian Super League,2022,Right,90.0,72.0,66.0,73.0,46.0,79.0,att,"#Speedster, #Engine",1500000.0,1
+3011,229793,B. Tetteh,72,77,23,193,91,Yeni Malatyaspor,Turkish Süper Lig,2025,Right,78.0,67.0,53.0,70.0,24.0,78.0,att,#Strength,3600000.0,1
+3024,219496,Simy,74,74,29,198,84,US Salernitana 1919,Italian Serie A,2022,Right,59.0,77.0,45.0,61.0,29.0,78.0,att,"#Aerial Threat, #Strength",4200000.0,1
+3026,208153,L. Veldwijk,68,68,29,197,94,Suwon FC,Korean K League 1,2022,Right,51.0,67.0,52.0,61.0,32.0,76.0,att,"#Aerial Threat, #Strength",1200000.0,1
+3027,221841,A. Armstrong,76,82,24,172,69,Southampton,English Premier League,2025,Right,90.0,77.0,66.0,76.0,35.0,71.0,att,#Speedster,,1
+3031,243401,André Vidigal,70,78,22,176,67,Clube Sport Marítimo,Portuguese Liga ZON SAGRES,2024,Right,83.0,63.0,62.0,74.0,27.0,56.0,att,#Acrobat,3600000.0,1
+3037,231447,D. Malen,80,85,22,179,78,Borussia Dortmund,German 1. Bundesliga,2026,Right,90.0,79.0,72.0,83.0,30.0,74.0,att,#Speedster,,1
+3050,188042,M. Suárez,79,79,33,183,75,River Plate,Argentina Primera División,2023,Right,79.0,77.0,77.0,83.0,44.0,75.0,att,#Acrobat,,1
+3057,216388,A. Saint-Maximin,79,84,24,173,67,Newcastle United,English Premier League,2026,Right,91.0,69.0,70.0,87.0,25.0,61.0,att,"#Speedster, #Dribbler, #Acrobat",26500000.0,1
+3065,198951,C. Bakambu,80,80,30,182,74,Beijing Guoan FC,Chinese Super League,2021,Right,90.0,80.0,71.0,76.0,36.0,77.0,att,#Speedster,20500000.0,1
+3066,225955,M. Kvasina,66,71,24,195,88,KV Oostende,Belgian Jupiler Pro League,2023,Right,51.0,66.0,50.0,63.0,29.0,70.0,att,"#Aerial Threat, #Strength",1300000.0,1
+3073,242998,Klauss,72,77,24,190,84,Standard de Liège,Belgian Jupiler Pro League,2022,Right,65.0,72.0,63.0,66.0,35.0,84.0,att,#Strength,3600000.0,1
+3084,226495,Sergio Santos,71,72,26,180,77,Philadelphia Union,USA Major League Soccer,2021,Left,90.0,66.0,55.0,72.0,26.0,70.0,att,#Speedster,2200000.0,1
+3085,207877,J. Martínez,80,80,28,170,69,Atlanta United,USA Major League Soccer,2023,Right,87.0,80.0,61.0,79.0,25.0,67.0,att,#Acrobat,21500000.0,1
+3088,229816,F. Schubert,63,64,26,194,84,FC St. Gallen 1879,Swiss Super League,2023,Right,71.0,63.0,46.0,54.0,34.0,73.0,att,#Strength,575000.0,1
+3091,200454,Paco Alcácer,81,81,27,175,70,Villarreal CF,Spain Primera Division,2025,Right,77.0,84.0,69.0,81.0,35.0,61.0,att,#Poacher,,1
+3092,184845,Wellington,68,68,33,188,90,Shonan Bellmare,Japanese J. League Division 1,2022,Right,50.0,67.0,57.0,63.0,36.0,83.0,att,#Strength,775000.0,1
+3093,216201,Iñaki Williams,81,82,27,186,80,Athletic Club de Bilbao,Spain Primera Division,2028,Right,94.0,78.0,72.0,78.0,37.0,81.0,att,#Speedster,30000000.0,1
+3105,237509,B. Lasme,67,78,22,188,85,DSC Arminia Bielefeld,German 1. Bundesliga,2025,Left,83.0,66.0,52.0,62.0,24.0,71.0,att,#Strength,2300000.0,1
+3115,244179,N. Niemann,61,74,21,171,60,TSV Egger Glas Hartberg,Austrian Football Bundesliga,2022,Right,81.0,55.0,55.0,67.0,27.0,53.0,att,#Acrobat,800000.0,1
+3121,216475,Morales,81,81,33,180,70,Levante Unión Deportiva,Spain Primera Division,2023,Right,86.0,82.0,75.0,85.0,52.0,68.0,att,#Dribbler,16500000.0,1
+3124,243580,L. Openda,71,81,21,174,78,Vitesse,Holland Eredivisie,2022,Right,93.0,67.0,62.0,71.0,25.0,72.0,att,#Speedster,4200000.0,1
+3129,233141,T. Hasegawa,68,68,27,164,60,Kawasaki Frontale,Japanese J. League Division 1,2022,Right,91.0,59.0,59.0,73.0,29.0,49.0,att,"#Speedster, #Acrobat",1300000.0,1
+3136,202556,M. Depay,85,86,27,176,78,FC Barcelona,Spain Primera Division,2023,Right,82.0,83.0,82.0,84.0,30.0,79.0,att,#Dribbler,,1
+3140,204820,G. Mackay-Steven,67,67,30,175,70,Heart of Midlothian,Scottish Premiership,2023,Left,83.0,61.0,61.0,71.0,36.0,56.0,att,#Acrobat,975000.0,1
+3143,199434,D. Tadić,84,84,32,181,76,Ajax,Holland Eredivisie,2024,Left,69.0,81.0,85.0,85.0,43.0,76.0,att,"#Playmaker, #Crosser, #Complete Midfielder",33500000.0,1
+3148,208722,S. Mané,89,89,29,175,69,Liverpool,English Premier League,2023,Right,91.0,83.0,80.0,89.0,44.0,77.0,att,"#Speedster, #Dribbler, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+3150,239493,M. Baku,68,76,23,177,73,Göztepe SK,Turkish Süper Lig,2024,Right,90.0,63.0,54.0,73.0,27.0,62.0,att,"#Speedster, #Acrobat",2700000.0,1
+3165,227642,S. Adegbenro,71,72,25,178,75,IFK Norrköping,Swedish Allsvenskan,2022,Right,90.0,66.0,60.0,76.0,39.0,73.0,att,"#Speedster, #Acrobat",2300000.0,1
+3167,231836,J. Karlsson,75,82,22,171,70,AZ Alkmaar,Holland Eredivisie,2025,Right,82.0,72.0,68.0,79.0,35.0,54.0,att,#Acrobat,11500000.0,1
+3169,190871,Neymar Jr,91,91,29,175,68,Paris Saint-Germain,French Ligue 1,2025,Right,91.0,83.0,86.0,94.0,37.0,63.0,att,"#Speedster, #Dribbler, #Playmaker, #FK Specialist, #Acrobat, #Complete Midfielder",,1
+3172,213301,S. Horvath,70,73,24,168,60,LASK Linz,Austrian Football Bundesliga,2024,Right,86.0,63.0,66.0,72.0,44.0,50.0,att,#Acrobat,2200000.0,1
+3174,183277,E. Hazard,85,85,30,175,74,Real Madrid CF,Spain Primera Division,2024,Right,84.0,80.0,82.0,88.0,35.0,63.0,att,#Dribbler,,1
+3176,233500,L. Sinisterra,75,82,22,172,60,Feyenoord,Holland Eredivisie,2024,Right,89.0,64.0,69.0,81.0,52.0,64.0,att,#Acrobat,11500000.0,1
+3181,241771,A. Nwakaeme,77,77,32,185,80,Trabzonspor,Turkish Süper Lig,2022,Right,80.0,76.0,74.0,79.0,39.0,80.0,att,#Strength,8500000.0,1
+3185,248061,C. Bărbuț,68,68,26,166,60,Sepsi OSK Sf. Gheorghe,Romanian Liga I,2023,Right,92.0,64.0,59.0,68.0,32.0,56.0,att,#Speedster,1300000.0,1
+3192,209449,Gerso,70,70,30,173,64,Jeju United FC,Korean K League 1,2021,Left,92.0,65.0,61.0,73.0,41.0,52.0,att,"#Speedster, #Acrobat",1500000.0,1
+3193,198219,L. Insigne,86,86,30,163,59,Napoli,Italian Serie A,2022,Right,87.0,78.0,85.0,90.0,36.0,45.0,att,"#Dribbler, #FK Specialist",65500000.0,1
+3195,213280,C. Pain,64,64,27,175,68,Western United FC,Australian Hyundai A-League,2023,Left,87.0,62.0,54.0,66.0,54.0,69.0,att,#Acrobat,625000.0,1
+3202,213956,Adama Traoré,78,81,25,178,72,Wolverhampton Wanderers,English Premier League,2023,Right,96.0,66.0,67.0,86.0,38.0,81.0,att,"#Speedster, #Dribbler",18500000.0,1
+3203,200104,H. Son,89,89,28,183,78,Tottenham Hotspur,English Premier League,2025,Right,88.0,87.0,82.0,86.0,43.0,69.0,att,"#Dribbler, #Engine, #Distance Shooter, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+3209,215103,É. Puch,75,75,35,169,72,Universidad Católica,Chilian Campeonato Nacional,2022,Right,86.0,70.0,66.0,78.0,43.0,66.0,att,#Acrobat,2300000.0,1
+3214,206517,J. Grealish,84,85,25,180,81,Manchester City,English Premier League,2027,Right,80.0,76.0,83.0,88.0,46.0,64.0,att,#Dribbler,50500000.0,1
+3217,227796,C. Pulisic,82,88,22,177,69,Chelsea,English Premier League,2024,Right,89.0,70.0,73.0,86.0,37.0,59.0,att,#Dribbler,,1
+3219,236342,N. Mileusnić,62,62,27,180,71,Brisbane Roar,Australian Hyundai A-League,2022,Right,90.0,57.0,54.0,64.0,25.0,55.0,att,#Speedster,425000.0,1
+3222,235619,M. Edwards,76,84,22,168,65,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2023,Left,85.0,66.0,68.0,84.0,33.0,46.0,att,#Acrobat,,1
+3228,219732,G. Nkoudou,75,76,26,172,75,Beşiktaş JK,Turkish Süper Lig,2023,Right,94.0,67.0,68.0,79.0,34.0,59.0,att,"#Speedster, #Acrobat",6500000.0,1
+3234,237043,R. Alvarado,76,83,22,176,70,Cruz Azul,Mexican Liga MX,2022,Left,76.0,71.0,75.0,77.0,53.0,70.0,att,#Acrobat,,1
+3250,261307,V. Birmančević,70,79,23,179,67,Malmö FF,Swedish Allsvenskan,2024,Right,83.0,65.0,60.0,75.0,37.0,56.0,att,#Acrobat,3500000.0,1
+3253,201967,G. Wikheim,69,69,28,182,65,Al Fateh,Saudi Abdul L. Jameel League,2022,Right,86.0,58.0,63.0,74.0,44.0,53.0,att,#Acrobat,1400000.0,1
+3260,240206,T. Gjertsen,66,66,29,175,74,Kristiansund BK,Norwegian Eliteserien,2023,Right,77.0,62.0,60.0,69.0,49.0,63.0,att,#Acrobat,850000.0,1
+3264,205632,L. Ocampos,83,83,26,188,84,Sevilla FC,Spain Primera Division,2024,Right,81.0,84.0,78.0,83.0,63.0,84.0,att,"#Engine, #Clinical Finisher",39500000.0,1
+3305,251847,Paulinho,73,75,26,178,71,FC Midtjylland,Danish Superliga,2026,Left,85.0,64.0,67.0,71.0,66.0,68.0,def,#Engine,3500000.0,1
+3315,192638,Marcos Alonso,79,79,30,188,85,Chelsea,English Premier League,2023,Left,58.0,74.0,78.0,77.0,75.0,77.0,def,#FK Specialist,,1
+3326,224494,R. Henry,74,79,23,170,66,Brentford,English Premier League,2023,Left,91.0,40.0,60.0,73.0,67.0,70.0,def,#Speedster,6000000.0,1
+3351,189691,D. Ball,67,67,31,183,75,Wellington Phoenix,Australian Hyundai A-League,2023,Right,73.0,66.0,62.0,68.0,49.0,76.0,att,#Engine,850000.0,1
+3353,240699,N. De la Cruz,78,84,24,167,65,River Plate,Argentina Primera División,2022,Right,84.0,75.0,77.0,81.0,69.0,67.0,att,"#Engine, #Acrobat",,1
+3359,236772,D. Szoboszlai,77,87,20,186,74,RB Leipzig,German 1. Bundesliga,2026,Right,79.0,78.0,79.0,79.0,34.0,64.0,att,#FK Specialist,,1
+3363,182091,K. Barbarouses,69,69,31,171,68,Sydney FC,Australian Hyundai A-League,2022,Right,85.0,69.0,62.0,72.0,32.0,71.0,att,#Acrobat,1200000.0,1
+3364,254796,N. Madueke,77,88,19,182,70,PSV,Holland Eredivisie,2025,Left,90.0,71.0,68.0,83.0,36.0,62.0,att,"#Speedster, #Dribbler",,1
+3393,199131,A. Tinnerholm,73,73,30,176,75,New York City FC,USA Major League Soccer,2025,Right,74.0,52.0,66.0,69.0,68.0,77.0,def,#Engine,2600000.0,1
+3400,230147,F. Sacko,73,76,26,179,68,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2024,Right,92.0,45.0,60.0,72.0,65.0,71.0,def,#Speedster,3700000.0,1
+3408,253294,A. Méndez,70,73,25,176,82,Club Nacional de Football,Uruguayan Primera División,2021,Right,80.0,37.0,50.0,59.0,65.0,86.0,def,#Strength,1900000.0,1
+3415,240754,Y. Atal,76,80,25,175,66,OGC Nice,French Ligue 1,2023,Right,90.0,68.0,71.0,79.0,70.0,69.0,def,#Speedster,9500000.0,1
+3427,192045,L. Rodríguez,78,78,30,177,76,Tigres U.A.N.L.,Mexican Liga MX,2022,Right,84.0,64.0,73.0,76.0,70.0,79.0,def,#Engine,,1
+3440,247027,Ruan,68,71,26,170,66,Orlando City Soccer Club,USA Major League Soccer,2021,Right,93.0,31.0,59.0,68.0,59.0,67.0,def,#Speedster,1500000.0,1
+3448,199231,Kim Tae Hwan,72,72,31,177,72,Ulsan Hyundai FC,Korean K League 1,2022,Right,91.0,57.0,61.0,69.0,64.0,79.0,def,#Speedster,1700000.0,1
+3458,208364,Clinton Mata,78,78,28,180,73,Club Brugge KV,Belgian Jupiler Pro League,2024,Right,82.0,61.0,68.0,75.0,76.0,80.0,def,#Engine,12500000.0,1
+3471,222430,F. Viáfara,71,71,29,167,65,Junior FC,Colombian Liga Postobón,2022,Right,89.0,53.0,61.0,68.0,62.0,56.0,def,#Acrobat,1600000.0,1
+3478,247968,V. Crețu,69,69,32,176,71,FCSB (Steaua),Romanian Liga I,2023,Right,84.0,39.0,55.0,61.0,64.0,80.0,def,#Engine,975000.0,1
+3499,244470,V. Coufal,80,80,28,175,76,West Ham United,English Premier League,2023,Right,77.0,56.0,73.0,75.0,78.0,81.0,def,#Engine,,1
+3507,211707,P. McGinn,67,67,30,175,79,Hibernian,Scottish Premiership,2022,Right,68.0,52.0,59.0,62.0,63.0,76.0,def,#Engine,875000.0,1
+3519,201982,J. Schmid,76,76,31,179,80,Sport-Club Freiburg,German 1. Bundesliga,2025,Right,77.0,63.0,76.0,76.0,69.0,75.0,def,#FK Specialist,5500000.0,1
+3534,225646,C. Mayada,74,74,30,174,73,Club Libertad,Paraguayan Primera División,2026,Right,92.0,65.0,68.0,72.0,68.0,77.0,def,#Speedster,3600000.0,1
+3543,253149,J. Frimpong,73,83,20,171,63,Bayer 04 Leverkusen,German 1. Bundesliga,2025,Right,91.0,50.0,65.0,77.0,64.0,68.0,def,"#Speedster, #Acrobat",6500000.0,1
+3565,198657,J. Svensson,78,78,28,170,70,Adana Demirspor,Turkish Süper Lig,2024,Right,79.0,60.0,72.0,75.0,73.0,82.0,def,#Engine,12500000.0,1
+3576,230206,Wellington Sabrão,78,78,33,169,66,Flamengo,Campeonato Brasileiro Série A,2024,Right,92.0,56.0,68.0,73.0,72.0,69.0,def,#Speedster,7500000.0,1
+3586,216189,Capa,80,80,29,175,75,Athletic Club de Bilbao,Spain Primera Division,2022,Right,82.0,64.0,76.0,77.0,74.0,88.0,def,#Engine,18500000.0,1
+3604,245235,A. Bah,75,81,23,183,76,SK Slavia Praha,Czech Republic Gambrinus Liga,2025,Right,92.0,60.0,66.0,70.0,69.0,78.0,def,#Speedster,8500000.0,1
+3617,234573,Aurélio Buta,74,78,24,171,66,Royal Antwerp FC,Belgian Jupiler Pro League,2022,Right,93.0,59.0,67.0,75.0,66.0,69.0,def,"#Speedster, #Acrobat",5500000.0,1
+3620,233493,J. Sánchez,76,79,23,175,80,Club América,Mexican Liga MX,2025,Right,92.0,45.0,61.0,72.0,72.0,77.0,def,#Speedster,9500000.0,1
+3649,204539,L. Advíncula,75,75,31,180,80,Boca Juniors,Argentina Primera División,2024,Right,93.0,64.0,69.0,74.0,67.0,83.0,def,#Speedster,4100000.0,1
+3652,237122,T. Guidara,73,76,25,173,70,Vélez Sarsfield,Argentina Primera División,2022,Right,81.0,41.0,62.0,67.0,67.0,77.0,def,#Engine,3700000.0,1
+3660,229880,A. Wan-Bissaka,83,87,23,183,72,Manchester United,English Premier League,2024,Right,85.0,52.0,69.0,79.0,81.0,75.0,def,#Tackling ,48500000.0,1
+3662,227174,M. Cash,78,83,23,179,74,Aston Villa,English Premier League,2025,Right,81.0,63.0,68.0,73.0,72.0,66.0,def,#Engine,20000000.0,1
+3695,236441,F. Bustos,77,80,25,167,66,Club Atlético Independiente,Argentina Primera División,2022,Right,84.0,64.0,72.0,77.0,70.0,86.0,def,#Engine,,1
+3700,188377,K. Walker,85,85,31,183,83,Manchester City,English Premier League,2024,Right,92.0,63.0,76.0,78.0,80.0,82.0,def,"#Speedster, #Engine",,1
+3704,236038,K. Duncan,72,78,23,177,68,New York Red Bulls,USA Major League Soccer,2021,Right,91.0,46.0,56.0,68.0,69.0,72.0,def,#Speedster,3500000.0,1
+3747,231281,T. Alexander-Arnold,87,92,22,180,69,Liverpool,English Premier League,2025,Right,79.0,68.0,88.0,80.0,80.0,72.0,def,#Crosser,,1
+3761,236681,M. Thurnwald,67,72,22,172,68,SC Rheindorf Altach,Austrian Football Bundesliga,2022,Right,83.0,50.0,59.0,70.0,59.0,64.0,def,#Acrobat,1500000.0,1
+3764,235374,M. Lazzari,81,81,27,174,67,Lazio,Italian Serie A,2024,Right,92.0,62.0,76.0,82.0,70.0,65.0,def,"#Speedster, #Engine",,1
+3765,235212,A. Hakimi,85,88,22,181,73,Paris Saint-Germain,French Ligue 1,2026,Right,95.0,71.0,78.0,83.0,76.0,78.0,def,"#Speedster, #Acrobat",69500000.0,1
+3766,233301,R. Kristensen,75,82,23,187,70,FC Red Bull Salzburg,Austrian Football Bundesliga,2025,Right,77.0,59.0,68.0,68.0,70.0,82.0,def,#Engine,10500000.0,1
+3767,241861,N. Atkinson,68,76,22,181,72,Melbourne City FC,Australian Hyundai A-League,2022,Right,78.0,46.0,61.0,69.0,61.0,79.0,def,#Engine,2600000.0,1
+3775,198328,David Mateos,67,67,34,191,82,Club The Strongest,Liga de Fútbol Profesional Boliviano,2021,Right,41.0,54.0,55.0,42.0,67.0,70.0,def,#Strength,325000.0,1
+3784,207865,Marquinhos,87,90,27,183,75,Paris Saint-Germain,French Ligue 1,2024,Right,81.0,53.0,75.0,74.0,89.0,81.0,def,"#Tackling, #Tactician ",90500000.0,1
+3802,260841,D. Kolinger,66,68,27,199,89,Vejle Boldklub,Danish Superliga,2023,Right,53.0,27.0,34.0,37.0,65.0,80.0,def,#Strength,900000.0,1
+3809,192774,K. Manolas,83,83,30,189,83,Napoli,Italian Serie A,2024,Right,81.0,25.0,44.0,62.0,85.0,81.0,def,#Tactician ,30000000.0,1
+3816,231872,S. Coulibaly,66,72,25,184,87,LA Galaxy,USA Major League Soccer,2022,Right,47.0,37.0,53.0,52.0,64.0,78.0,def,#Strength,1200000.0,1
+3817,227950,Yeray,81,83,26,182,79,Athletic Club de Bilbao,Spain Primera Division,2026,Right,68.0,49.0,62.0,64.0,82.0,77.0,def,#Tactician ,,1
+3823,226853,J. St. Juste,76,80,24,184,74,1. FSV Mainz 05,German 1. Bundesliga,2023,Right,91.0,58.0,66.0,74.0,78.0,73.0,def,#Speedster,9500000.0,1
+3826,201343,T. Šunjić,74,74,32,194,93,Henan Songshan Longmen FC,Chinese Super League,2021,Right,55.0,34.0,51.0,35.0,74.0,82.0,def,"#Aerial Threat, #Strength",2700000.0,1
+3829,204639,S. Savić,84,84,30,187,80,Atlético de Madrid,Spain Primera Division,2024,Right,64.0,35.0,57.0,58.0,87.0,76.0,def,#Tactician ,34500000.0,1
+3834,159034,S. Taylor,70,70,35,188,91,Wellington Phoenix,Australian Hyundai A-League,2022,Right,52.0,39.0,59.0,54.0,69.0,78.0,def,#Strength,425000.0,1
+3839,230209,Hugo Goiteira,73,73,29,190,88,Ceará Sporting Club,Campeonato Brasileiro Série A,2024,Right,41.0,48.0,55.0,51.0,74.0,80.0,def,#Strength,2500000.0,1
+3846,212607,M. Chanot,72,72,31,186,84,New York City FC,USA Major League Soccer,2026,Right,51.0,49.0,48.0,50.0,71.0,80.0,def,#Strength,1600000.0,1
+3851,229558,D. Upamecano,82,90,22,186,90,FC Bayern München,German 1. Bundesliga,2026,Right,81.0,43.0,62.0,68.0,81.0,81.0,def,#Strength,,1
+3861,204163,J. Okore,70,71,28,180,80,Changchun Yatai FC,Chinese Super League,2021,Right,66.0,42.0,52.0,57.0,66.0,86.0,def,#Strength,1500000.0,1
+3874,198970,J. Mensah,72,72,30,188,83,Columbus Crew,USA Major League Soccer,2025,Right,63.0,46.0,56.0,55.0,71.0,81.0,def,#Strength,1900000.0,1
+3878,183499,Y. Amankwah,66,66,32,194,92,Stabæk Fotball,Norwegian Eliteserien,2022,Right,37.0,34.0,37.0,41.0,64.0,80.0,def,#Strength,550000.0,1
+3887,216730,S. Gregersen,70,75,26,191,83,FC Girondins de Bordeaux,French Ligue 1,2025,Right,75.0,44.0,46.0,45.0,67.0,82.0,def,#Strength,2100000.0,1
+3900,230224,Juli Freitinho,75,75,21,192,91,Bahia,Campeonato Brasileiro Série A,2024,Right,41.0,46.0,56.0,54.0,75.0,79.0,def,#Strength,6000000.0,1
+3911,224367,G. Lanaro,70,70,35,184,84,Universidad Católica,Chilian Campeonato Nacional,2021,Right,40.0,34.0,49.0,48.0,69.0,77.0,def,#Strength,425000.0,1
+3914,217054,H. Cummings,69,70,29,183,94,Club Always Ready,Liga de Fútbol Profesional Boliviano,2021,Right,53.0,29.0,51.0,55.0,67.0,82.0,def,#Strength,1300000.0,1
+3944,230388,Davi Parrela,75,75,21,191,88,Atlético Clube Goianiense,Campeonato Brasileiro Série A,2024,Right,64.0,40.0,54.0,52.0,76.0,78.0,def,#Strength,6000000.0,1
+3950,230776,Jesiel,71,73,27,186,84,Kawasaki Frontale,Japanese J. League Division 1,2022,Right,51.0,30.0,48.0,50.0,72.0,78.0,def,#Strength,2000000.0,1
+3959,237397,B. Kallman,64,64,30,188,86,Minnesota United FC,USA Major League Soccer,2021,Right,49.0,39.0,49.0,37.0,63.0,79.0,def,#Strength,475000.0,1
+3965,190276,S. Sunzu,73,73,32,192,80,Shijiazhuang Ever Bright F.C.,Chinese Super League,2022,Right,42.0,39.0,48.0,50.0,73.0,84.0,def,#Strength,2000000.0,1
+3971,178614,Varela,72,72,33,183,83,PAOK,Greek Super League,2022,Right,63.0,44.0,54.0,59.0,71.0,81.0,def,#Strength,1100000.0,1
+3980,180740,N. Topor-Stanley,64,64,36,189,86,Western United FC,Australian Hyundai A-League,2022,Left,39.0,40.0,53.0,46.0,61.0,84.0,def,#Strength,100000.0,1
+3984,250779,M. Svoboda,66,74,22,195,85,Venezia FC,Italian Serie A,2024,Right,58.0,41.0,53.0,58.0,65.0,77.0,def,#Strength,1800000.0,1
+3989,207622,M. Bjørnbak,69,70,29,193,90,Molde FK,Norwegian Eliteserien,2022,Right,48.0,47.0,57.0,52.0,67.0,82.0,def,#Strength,1300000.0,1
+3995,224396,Y. Gómez Andrade,76,77,29,187,92,Seattle Sounders FC,USA Major League Soccer,2021,Right,60.0,33.0,47.0,58.0,75.0,86.0,def,#Strength,7000000.0,1
+3998,215228,C. Lema,75,75,31,192,93,Newell's Old Boys,Argentina Primera División,2021,Right,35.0,49.0,56.0,41.0,76.0,82.0,def,#Strength,3800000.0,1
+4006,238074,R. James,81,86,21,178,87,Chelsea,English Premier League,2025,Right,80.0,58.0,77.0,77.0,76.0,80.0,def,#Crosser,,1
+4022,184344,L. Bonucci,85,85,34,190,85,Juventus,Italian Serie A,2024,Right,64.0,58.0,69.0,72.0,86.0,80.0,def,"#Tactician, #Strength",17500000.0,1
+4034,196972,L. Sætra,63,63,29,195,90,Kalmar FF,Swedish Allsvenskan,2023,Right,35.0,37.0,48.0,45.0,60.0,77.0,def,#Strength,400000.0,1
+4035,222889,L. Acevedo,68,68,29,197,97,Platense,Argentina Primera División,2022,Right,38.0,38.0,41.0,37.0,66.0,83.0,def,#Strength,1000000.0,1
+4042,183254,Paulo Vinícius,72,72,36,186,85,FCSB (Steaua),Romanian Liga I,2022,Right,39.0,52.0,55.0,53.0,72.0,82.0,def,#Strength,425000.0,1
+4046,190560,O. Gonzalez,68,68,32,196,92,Toronto FC,USA Major League Soccer,2021,Right,36.0,36.0,49.0,44.0,66.0,83.0,def,#Strength,775000.0,1
+4053,217620,A. Seck,73,74,29,192,95,Royal Antwerp FC,Belgian Jupiler Pro League,2023,Right,74.0,47.0,57.0,58.0,70.0,86.0,def,#Strength,2800000.0,1
+4058,238576,Jeong Tae Wook,68,76,24,194,92,Daegu FC,Korean K League 1,2022,Right,55.0,31.0,42.0,45.0,67.0,72.0,def,"#Aerial Threat, #Strength",2500000.0,1
+4067,256539,C. Reiner,66,73,23,197,88,SV Ried,Austrian Football Bundesliga,2022,Right,41.0,29.0,54.0,40.0,66.0,75.0,def,#Strength,1600000.0,1
+4073,242000,K. Mavropanos,73,82,23,194,89,VfB Stuttgart,German 1. Bundesliga,2022,Right,77.0,33.0,49.0,49.0,74.0,78.0,def,#Strength,6500000.0,1
+4075,230383,Pombaxinho,70,70,25,191,90,Juventude,Campeonato Brasileiro Série A,2024,Right,48.0,45.0,56.0,48.0,73.0,66.0,def,#Strength,1500000.0,1
+4089,197061,J. Matip,83,83,29,194,90,Liverpool,English Premier League,2024,Right,58.0,46.0,68.0,68.0,85.0,78.0,def,"#Aerial Threat, #Tactician ",30500000.0,1
+4094,230313,Tony Abranjes,80,80,33,179,80,Internacional,Campeonato Brasileiro Série A,2024,Right,67.0,39.0,55.0,58.0,81.0,85.0,def,#Strength,10000000.0,1
+4101,210879,A. Struna,68,68,30,188,81,Club de Foot Montréal,USA Major League Soccer,2021,Right,47.0,39.0,53.0,57.0,65.0,86.0,def,#Strength,1000000.0,1
+4106,201535,R. Varane,86,88,28,191,81,Manchester United,English Premier League,2025,Right,82.0,49.0,64.0,65.0,87.0,82.0,def,#Tackling ,68500000.0,1
+4120,157481,Raúl Albiol,82,82,35,190,82,Villarreal CF,Spain Primera Division,2022,Right,40.0,41.0,62.0,63.0,86.0,73.0,def,"#Tackling, #Tactician ",8000000.0,1
+4130,239818,Rúben Dias,87,91,24,187,82,Manchester City,English Premier League,2027,Right,61.0,38.0,65.0,68.0,88.0,88.0,def,#Tackling ,102500000.0,1
+4134,213509,Lucas,68,68,28,193,89,Al Tai,Saudi Abdul L. Jameel League,2023,Right,40.0,39.0,49.0,39.0,68.0,78.0,def,#Strength,1000000.0,1
+4139,192041,N. Araújo,76,76,29,188,87,RC Celta de Vigo,Spain Primera Division,2023,Right,66.0,41.0,55.0,59.0,78.0,78.0,def,#Strength,6500000.0,1
+4148,232363,M. Škriniar,86,88,26,188,80,Inter,Italian Serie A,2023,Right,80.0,41.0,53.0,69.0,87.0,84.0,def,#Tactician ,,1
+4149,224975,Tiago,69,69,31,191,89,Cerezo Osaka,Japanese J. League Division 1,2023,Right,49.0,45.0,45.0,42.0,67.0,78.0,def,#Strength,950000.0,1
+4155,230285,Vincente Dourado,78,78,25,190,88,Flamengo,Campeonato Brasileiro Série A,2024,Right,58.0,29.0,63.0,58.0,77.0,84.0,def,#Strength,13500000.0,1
+4161,210482,S. Piesinger,65,65,29,192,84,Randers FC,Danish Superliga,2023,Right,33.0,54.0,58.0,54.0,64.0,76.0,def,#Strength,600000.0,1
+4168,226803,T. Parker,69,70,28,188,88,Houston Dynamo,USA Major League Soccer,2021,Right,69.0,31.0,44.0,54.0,67.0,82.0,def,#Strength,1300000.0,1
+4172,212287,A. Maxsø,75,77,27,191,87,Brøndby IF,Danish Superliga,2023,Right,51.0,44.0,55.0,54.0,75.0,80.0,def,#Strength,6000000.0,1
+4179,197837,D. Boyata,78,78,30,188,84,Hertha BSC,German 1. Bundesliga,2024,Right,70.0,29.0,52.0,58.0,79.0,83.0,def,#Strength,11500000.0,1
+4210,224258,K. Ajer,75,83,23,196,94,Brentford,English Premier League,2026,Right,73.0,55.0,61.0,68.0,75.0,83.0,def,#Strength,11500000.0,1
+4211,255285,A. Șeroni,66,66,34,195,90,FC Botoşani,Romanian Liga I,2022,Left,32.0,34.0,42.0,42.0,65.0,81.0,def,#Strength,275000.0,1
+4212,237556,C. Luyindama,75,77,27,191,91,Galatasaray SK,Turkish Süper Lig,2022,Right,76.0,37.0,49.0,53.0,74.0,85.0,def,#Strength,6000000.0,1
+4222,195363,J. Bruma,73,73,29,190,88,Kasimpaşa SK,Turkish Süper Lig,2023,Right,59.0,53.0,57.0,57.0,72.0,77.0,def,#Strength,2500000.0,1
+4231,247263,E. Tapsoba,81,88,22,194,85,Bayer 04 Leverkusen,German 1. Bundesliga,2026,Right,75.0,52.0,65.0,69.0,82.0,79.0,def,#Aerial Threat,48500000.0,1
+4233,239645,M. de los Santos,72,73,28,187,83,Vélez Sarsfield,Argentina Primera División,2023,Right,56.0,53.0,59.0,61.0,70.0,82.0,def,#Strength,2200000.0,1
+4237,214884,M. Nalepa,68,68,28,189,80,Lechia Gdańsk,Polish T-Mobile Ekstraklasa,2023,Right,46.0,42.0,48.0,50.0,67.0,82.0,def,#Strength,1000000.0,1
+4244,201305,Gabriel Paulista,82,82,30,185,72,Valencia CF,Spain Primera Division,2024,Right,67.0,49.0,71.0,65.0,84.0,83.0,def,#Tactician ,,1
+4254,241486,J. Koundé,83,89,22,181,75,Sevilla FC,Spain Primera Division,2024,Right,81.0,45.0,64.0,72.0,84.0,78.0,def,#Tactician ,,1
+4262,177509,M. Benatia,80,80,34,189,94,Fatih Karagümrük S.K.,Turkish Süper Lig,2023,Right,63.0,45.0,52.0,63.0,81.0,82.0,def,#Strength,7000000.0,1
+4277,244377,T. Borevković,72,81,24,194,86,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2026,Right,45.0,30.0,47.0,46.0,73.0,77.0,def,#Strength,4900000.0,1
+4295,214766,C. Izquierdoz,78,78,32,185,88,Boca Juniors,Argentina Primera División,2022,Right,51.0,52.0,54.0,54.0,79.0,84.0,def,#Strength,9000000.0,1
+4326,256688,C. Puertas,71,78,22,178,77,FC Lausanne-Sport,Swiss Super League,2023,Right,77.0,66.0,69.0,71.0,68.0,77.0,mid,#Engine,3800000.0,1
+4329,180206,M. Pjanić,82,82,31,178,72,Beşiktaş JK,Turkish Süper Lig,2022,Right,65.0,68.0,83.0,81.0,75.0,67.0,mid,#FK Specialist,,1
+4337,239529,F. Onyeka,75,81,23,183,70,Brentford,English Premier League,2026,Right,87.0,58.0,66.0,72.0,74.0,81.0,mid,#Engine,8000000.0,1
+4342,215914,N. Kanté,90,90,30,168,70,Chelsea,English Premier League,2023,Right,78.0,66.0,75.0,82.0,87.0,83.0,mid,"#Tackling, #Tactician ",100000000.0,1
+4359,200962,André Martins,70,70,31,168,65,Legia Warszawa,Polish T-Mobile Ekstraklasa,2022,Right,78.0,62.0,70.0,75.0,62.0,60.0,mid,#Acrobat,1300000.0,1
+4362,232623,Y. Ideguchi,69,73,24,171,71,Gamba Osaka,Japanese J. League Division 1,2022,Right,71.0,61.0,67.0,65.0,63.0,73.0,mid,#Engine,2000000.0,1
+4372,210881,J. McGinn,78,81,26,178,68,Aston Villa,English Premier League,2025,Left,70.0,73.0,75.0,78.0,71.0,80.0,mid,#Engine,16500000.0,1
+4374,203570,S. Dallas,75,75,30,183,81,Leeds United,English Premier League,2024,Right,74.0,69.0,70.0,73.0,73.0,75.0,mid,#Engine,5500000.0,1
+4388,193747,Koke,85,85,29,176,75,Atlético de Madrid,Spain Primera Division,2024,Right,70.0,75.0,85.0,81.0,79.0,80.0,mid,#Playmaker ,52500000.0,1
+4390,228702,F. de Jong,87,92,24,180,74,FC Barcelona,Spain Primera Division,2026,Right,81.0,69.0,85.0,88.0,77.0,78.0,mid,"#Dribbler, #Playmaker, #Acrobat, #Complete Midfielder",119500000.0,1
+4392,192985,K. De Bruyne,91,91,30,181,70,Manchester City,English Premier League,2025,Right,76.0,86.0,93.0,88.0,64.0,78.0,mid,"#Dribbler, #Playmaker, #Engine, #Distance Shooter, #Crosser, #Complete Midfielder",125500000.0,1
+4407,190907,Rhayner,67,67,30,172,64,Sanfrecce Hiroshima,Japanese J. League Division 1,2022,Right,91.0,61.0,58.0,70.0,40.0,68.0,mid,#Speedster,975000.0,1
+4422,183394,M. Sissoko,78,78,31,187,91,Watford,English Premier League,2023,Right,74.0,61.0,73.0,75.0,75.0,87.0,mid,#Strength,10000000.0,1
+4423,214988,L. Miranda,76,76,27,173,70,Racing Club,Argentina Primera División,2023,Right,79.0,67.0,76.0,78.0,67.0,69.0,mid,#Engine,8000000.0,1
+4430,224232,N. Barella,84,89,24,172,68,Inter,Italian Serie A,2024,Right,78.0,71.0,79.0,86.0,75.0,78.0,mid,"#Engine, #Acrobat",63500000.0,1
+4431,177003,L. Modrić,87,87,35,172,66,Real Madrid CF,Spain Primera Division,2022,Right,73.0,76.0,89.0,88.0,72.0,66.0,mid,"#Playmaker, #Crosser, #Acrobat, #Complete Midfielder",,1
+4469,213711,A. Rocha,72,72,28,170,80,Club Atlas,Mexican Liga MX,2021,Right,70.0,64.0,70.0,72.0,69.0,75.0,mid,#Engine,2300000.0,1
+4484,237153,L. Blessing,71,75,24,160,64,Los Angeles FC,USA Major League Soccer,2021,Right,86.0,61.0,66.0,75.0,68.0,60.0,mid,"#Engine, #Acrobat",2700000.0,1
+4503,181291,G. Wijnaldum,84,84,30,175,74,Paris Saint-Germain,French Ligue 1,2024,Right,77.0,75.0,80.0,86.0,79.0,79.0,mid,#Engine,40500000.0,1
+4508,239980,O. Popescu,68,70,27,181,77,FCSB (Steaua),Romanian Liga I,2022,Right,71.0,59.0,62.0,60.0,66.0,81.0,mid,#Engine,1300000.0,1
+4515,222215,P. Strand,67,68,26,175,71,SK Brann,Norwegian Eliteserien,2022,Right,84.0,62.0,64.0,69.0,60.0,70.0,mid,#Engine,1200000.0,1
+4516,178415,R. Vormer,78,78,33,178,79,Club Brugge KV,Belgian Jupiler Pro League,2023,Right,58.0,75.0,79.0,70.0,75.0,79.0,mid,#Engine,8500000.0,1
+4521,243841,S. Pittman,66,66,28,176,72,Livingston FC,Scottish Premiership,2023,Right,73.0,67.0,62.0,67.0,58.0,68.0,mid,#Engine,850000.0,1
+4524,251139,J. Soraire,72,72,32,175,70,Club Atlético Central Córdoba,Argentina Primera División,2022,Right,75.0,61.0,72.0,76.0,62.0,83.0,mid,#Engine,1800000.0,1
+4532,226807,C. Roldan,75,78,26,173,75,Seattle Sounders FC,USA Major League Soccer,2022,Right,71.0,67.0,70.0,75.0,70.0,79.0,mid,#Engine,6500000.0,1
+4550,242280,L. Ferguson,71,82,21,181,75,Aberdeen,Scottish Premiership,2024,Right,73.0,71.0,69.0,70.0,68.0,81.0,mid,#Engine,4200000.0,1
+4556,217648,G. Haraguchi,74,74,30,179,68,1. FC Union Berlin,German 1. Bundesliga,2026,Right,84.0,66.0,70.0,78.0,44.0,53.0,mid,#Engine,4100000.0,1
+4572,262363,M. Anderson,59,70,20,167,70,Dundee FC,Scottish Premiership,2023,Right,76.0,50.0,56.0,64.0,50.0,51.0,mid,#Acrobat,500000.0,1
+4573,205569,J. Ward-Prowse,81,84,26,173,66,Southampton,English Premier League,2026,Right,59.0,74.0,86.0,78.0,67.0,73.0,mid,"#Crosser, #FK Specialist",33500000.0,1
+4597,223313,H. Arslan,73,73,32,186,76,Demir Grup Sivasspor,Turkish Süper Lig,2024,Right,59.0,69.0,67.0,74.0,70.0,78.0,mid,#Engine,2400000.0,1
+4611,190674,B. André,81,81,30,180,74,LOSC Lille,French Ligue 1,2023,Right,67.0,64.0,74.0,75.0,80.0,85.0,mid,#Engine,21500000.0,1
+4629,227835,T. Tekie,69,73,24,175,65,Fortuna Sittard,Holland Eredivisie,2022,Right,77.0,54.0,70.0,75.0,51.0,57.0,mid,#Acrobat,2000000.0,1
+4635,214877,H. Bjørdal,68,74,24,188,86,Vålerenga Fotball,Norwegian Eliteserien,2023,Right,70.0,61.0,68.0,69.0,55.0,79.0,mid,#Strength,1900000.0,1
+4641,237520,M. Camara,77,82,24,182,75,Olympiacos CFP,Greek Super League,2024,Right,76.0,74.0,73.0,75.0,74.0,83.0,mid,#Engine,,1
+4648,222475,M. Thorsby,73,78,25,189,79,U.C. Sampdoria,Italian Serie A,2023,Right,68.0,62.0,68.0,71.0,73.0,80.0,mid,#Engine,4400000.0,1
+4651,224293,Rúben Neves,82,87,24,180,80,Wolverhampton Wanderers,English Premier League,2024,Right,59.0,75.0,85.0,77.0,74.0,73.0,mid,#Playmaker ,,1
+4656,214047,M. Uribe,79,79,30,182,71,FC Porto,Portuguese Liga ZON SAGRES,2023,Right,75.0,74.0,75.0,76.0,75.0,81.0,mid,#Engine,,1
+4659,252371,J. Bellingham,79,89,18,186,75,Borussia Dortmund,German 1. Bundesliga,2025,Right,75.0,69.0,73.0,80.0,75.0,77.0,mid,#Engine,,1
+4660,183711,J. Henderson,84,84,31,182,80,Liverpool,English Premier League,2025,Right,66.0,74.0,83.0,79.0,78.0,81.0,mid,#Engine,29500000.0,1
+4677,198006,J. Toornstra,76,76,32,178,74,Feyenoord,Holland Eredivisie,2022,Right,53.0,76.0,76.0,74.0,68.0,75.0,mid,#Engine,6000000.0,1
+4686,237566,K. Zachariassen,72,73,27,180,74,Ferencvárosi TC,Hungarian Nemzeti Bajnokság I,2024,Right,77.0,67.0,68.0,71.0,67.0,78.0,mid,#Engine,2700000.0,1
+4690,223223,K. Vandendriessche,69,69,31,183,74,KV Kortrijk,Belgian Jupiler Pro League,2023,Right,53.0,68.0,67.0,63.0,71.0,83.0,mid,#Engine,1100000.0,1
+4694,216526,A. Gogić,66,66,27,180,83,Hibernian,Scottish Premiership,2022,Right,46.0,45.0,52.0,54.0,66.0,83.0,mid,#Strength,800000.0,1
+4696,188879,A. N'Diaye,73,73,31,189,90,Al Shabab,Saudi Abdul L. Jameel League,2022,Right,59.0,63.0,65.0,68.0,71.0,86.0,mid,#Strength,2100000.0,1
+4703,172143,L. Schøne,74,74,35,178,78,N.E.C. Nijmegen,Holland Eredivisie,2023,Right,37.0,74.0,79.0,75.0,62.0,58.0,mid,#FK Specialist,1700000.0,1
+4731,216393,Y. Tielemans,84,87,24,176,72,Leicester City,English Premier League,2023,Right,63.0,79.0,86.0,80.0,71.0,72.0,mid,#Playmaker ,,1
+4732,204024,C. Kramer,79,79,30,191,76,Borussia Mönchengladbach,German 1. Bundesliga,2023,Right,44.0,50.0,70.0,73.0,78.0,75.0,mid,#Engine,14500000.0,1
+4745,195864,P. Pogba,87,87,28,191,84,Manchester United,English Premier League,2022,Right,71.0,81.0,86.0,86.0,65.0,83.0,mid,"#Dribbler, #Playmaker, #Distance Shooter, #Strength, #Complete Midfielder",79500000.0,1
+4756,236792,T. Souček,82,85,26,192,86,West Ham United,English Premier League,2024,Right,64.0,72.0,74.0,74.0,82.0,85.0,mid,#Engine,,1
+4776,213160,R. Zobnin,78,80,27,182,78,Spartak Moskva,Russian Premier League,2024,Right,76.0,64.0,74.0,77.0,76.0,72.0,mid,#Engine,,1
+4790,212622,J. Kimmich,89,90,26,177,75,FC Bayern München,German 1. Bundesliga,2025,Right,70.0,73.0,86.0,84.0,83.0,79.0,mid,#Crosser,,1
+4791,208135,A. Doucouré,79,79,28,184,76,Everton,English Premier League,2023,Right,70.0,76.0,72.0,76.0,77.0,81.0,mid,#Engine,17500000.0,1
+4813,237819,N. Domínguez,75,83,23,179,73,Bologna,Italian Serie A,2024,Right,75.0,66.0,70.0,75.0,71.0,77.0,mid,#Engine,12500000.0,1
+4841,215995,E. Méndez,70,70,32,186,82,Arsenal de Sarandí,Argentina Primera División,2021,Right,52.0,50.0,60.0,63.0,70.0,83.0,mid,#Strength,1100000.0,1
+4847,194873,E. Bashkirov,68,68,29,175,71,Zagłębie Lubin,Polish T-Mobile Ekstraklasa,2022,Right,72.0,60.0,65.0,64.0,62.0,67.0,mid,#Engine,1000000.0,1
+4852,245736,Ezequiel,66,72,23,167,65,Sanfrecce Hiroshima,Japanese J. League Division 1,2022,Left,92.0,60.0,57.0,72.0,34.0,55.0,att,#Speedster,1400000.0,1
+4854,231969,R. Malinovskyi,81,81,28,181,79,Atalanta,Italian Serie A,2023,Left,74.0,80.0,83.0,81.0,64.0,79.0,att,"#Distance Shooter, #FK Specialist",26500000.0,1
+4861,200610,K. Volland,83,83,28,179,85,AS Monaco,French Ligue 1,2024,Left,73.0,85.0,79.0,80.0,42.0,86.0,att,"#Engine, #Strength, #Clinical Finisher, #Complete Forward",,1
+4864,207905,M. Mak,64,64,29,176,68,PGE FKS Stal Mielec,Polish T-Mobile Ekstraklasa,2022,Right,83.0,61.0,59.0,66.0,44.0,56.0,att,#Acrobat,575000.0,1
+4867,258121,A. Amoo,65,80,19,163,68,Hammarby IF,Swedish Allsvenskan,2024,Left,79.0,58.0,59.0,75.0,22.0,60.0,att,#Acrobat,1700000.0,1
+4868,237540,P. Förster,72,73,26,188,82,VfB Stuttgart,German 1. Bundesliga,2023,Left,69.0,65.0,70.0,71.0,59.0,77.0,att,#Engine,2800000.0,1
+4873,207722,Cristiano,72,72,34,183,83,Kashiwa Reysol,Japanese J. League Division 1,2022,Right,77.0,71.0,69.0,69.0,51.0,80.0,att,#Strength,1100000.0,1
+4877,247378,Y. Machida,66,66,31,166,55,Oita Trinita,Japanese J. League Division 1,2022,Right,90.0,58.0,63.0,67.0,40.0,47.0,att,"#Speedster, #Acrobat",725000.0,1
+4878,176635,M. Özil,79,79,32,180,71,Fenerbahçe SK,Turkish Süper Lig,2024,Left,62.0,68.0,85.0,79.0,24.0,48.0,att,#Playmaker ,,1
+4883,224428,J. Otero,73,74,26,182,70,Santos Laguna,Mexican Liga MX,2023,Right,91.0,74.0,65.0,74.0,31.0,71.0,mid,#Speedster,3600000.0,1
+4911,232963,T. Kanamori,64,64,27,171,74,Avispa Fukuoka,Japanese J. League Division 1,2022,Right,92.0,57.0,52.0,67.0,30.0,71.0,mid,"#Speedster, #Acrobat",625000.0,1
+4912,223053,Á. Mena,78,78,33,168,71,Club León,Mexican Liga MX,2021,Left,81.0,74.0,72.0,82.0,45.0,49.0,mid,#Acrobat,9000000.0,1
+4929,200438,Guilherme,74,74,30,174,70,Guangzhou City,Chinese Super League,2021,Left,91.0,67.0,69.0,76.0,51.0,67.0,mid,"#Speedster, #Acrobat",4100000.0,1
+4941,211862,A. Hahn,75,75,30,185,80,FC Augsburg,German 1. Bundesliga,2022,Right,72.0,75.0,67.0,70.0,55.0,83.0,mid,#Engine,5500000.0,1
+4942,232377,T. Sekine,67,68,26,167,61,Urawa Red Diamonds,Japanese J. League Division 1,2022,Right,78.0,59.0,61.0,68.0,31.0,56.0,mid,#Acrobat,1200000.0,1
+4943,210463,D. Machís,81,81,28,174,74,Granada CF,Spain Primera Division,2022,Right,88.0,80.0,75.0,83.0,38.0,70.0,mid,#Acrobat,,1
+4946,206113,S. Gnabry,85,86,25,176,77,FC Bayern München,German 1. Bundesliga,2023,Right,83.0,84.0,79.0,86.0,43.0,69.0,mid,"#Dribbler, #Acrobat, #Clinical Finisher, #Complete Forward",64500000.0,1
+4961,210935,D. Berardi,82,82,26,183,72,U.S. Sassuolo Calcio,Italian Serie A,2024,Left,79.0,80.0,81.0,85.0,36.0,69.0,mid,#Acrobat,33500000.0,1
+4975,212947,J. Cabot,71,71,27,164,64,Angers SCO,French Ligue 1,2023,Right,91.0,66.0,60.0,75.0,28.0,53.0,mid,#Speedster,2000000.0,1
+4977,241852,M. Diaby,81,88,21,170,68,Bayer 04 Leverkusen,German 1. Bundesliga,2025,Left,94.0,67.0,73.0,85.0,41.0,53.0,mid,"#Speedster, #Dribbler, #Acrobat",52500000.0,1
+4981,233419,Raphinha,82,87,24,176,68,Leeds United,English Premier League,2024,Left,91.0,76.0,76.0,84.0,49.0,72.0,mid,"#Speedster, #Dribbler, #Acrobat",,1
+4998,190653,I. Brizuela,74,74,30,171,66,Club Deportivo Guadalajara,Mexican Liga MX,2022,Right,88.0,67.0,67.0,76.0,45.0,65.0,mid,#Acrobat,4100000.0,1
+5010,239394,F. Flecker,67,70,25,176,70,LASK Linz,Austrian Football Bundesliga,2024,Right,84.0,60.0,58.0,70.0,36.0,55.0,mid,#Acrobat,1300000.0,1
+5013,224962,M. Al Kuwaykibi,71,72,26,169,64,Ettifaq FC,Saudi Abdul L. Jameel League,2024,Left,87.0,66.0,64.0,74.0,27.0,54.0,mid,#Acrobat,2200000.0,1
+5018,202858,F. Castillo,75,75,29,174,74,Fútbol Club Juárez,Mexican Liga MX,2025,Right,92.0,75.0,63.0,81.0,43.0,73.0,mid,"#Speedster, #Acrobat",5500000.0,1
+5019,211221,M. Boyle,71,71,28,172,70,Hibernian,Scottish Premiership,2024,Right,92.0,66.0,60.0,71.0,49.0,63.0,mid,#Speedster,1900000.0,1
+5020,226385,C. Espinoza,74,74,26,173,73,San Jose Earthquakes,USA Major League Soccer,2021,Right,83.0,65.0,70.0,74.0,43.0,65.0,mid,#Engine,4600000.0,1
+5034,218868,A. Silva,75,75,31,178,68,Club Olimpia,Paraguayan Primera División,2023,Right,88.0,67.0,72.0,76.0,67.0,74.0,mid,#Engine,4700000.0,1
+5042,243793,Allan Sousa,69,74,24,172,64,Vejle Boldklub,Danish Superliga,2022,Left,84.0,64.0,63.0,74.0,23.0,62.0,mid,#Acrobat,2100000.0,1
+5050,234916,S. Owusu,69,72,25,168,66,Al Fayha,Saudi Abdul L. Jameel League,2022,Left,91.0,64.0,59.0,74.0,35.0,53.0,mid,#Speedster,1800000.0,1
+5055,232610,T. Asano,73,73,26,173,71,VfL Bochum 1848,German 1. Bundesliga,2024,Right,90.0,69.0,62.0,75.0,30.0,61.0,mid,"#Speedster, #Acrobat",3300000.0,1
+5067,215107,H. Villalba,74,74,26,172,75,Club Libertad,Paraguayan Primera División,2021,Left,90.0,72.0,66.0,77.0,45.0,62.0,mid,"#Speedster, #Acrobat",4600000.0,1
+5071,210411,Otávio,81,82,26,172,71,FC Porto,Portuguese Liga ZON SAGRES,2025,Right,78.0,69.0,79.0,85.0,63.0,68.0,mid,#Dribbler,30500000.0,1
+5076,193082,J. Cuadrado,83,83,33,179,72,Juventus,Italian Serie A,2022,Right,90.0,75.0,77.0,87.0,76.0,72.0,mid,"#Speedster, #Dribbler, #Acrobat",,1
+5082,227884,B. Osayi-Samuel,73,79,23,175,72,Fenerbahçe SK,Turkish Süper Lig,2025,Right,93.0,59.0,62.0,76.0,35.0,65.0,mid,#Speedster,4800000.0,1
+5086,221306,M. Barrios,74,74,30,162,65,Colorado Rapids,USA Major League Soccer,2021,Right,92.0,65.0,69.0,76.0,43.0,51.0,mid,"#Speedster, #Acrobat",4100000.0,1
+5092,216547,Rafa,82,82,28,170,63,SL Benfica,Portuguese Liga ZON SAGRES,2024,Right,94.0,73.0,74.0,86.0,50.0,52.0,mid,"#Speedster, #Dribbler, #Acrobat",30500000.0,1
+5103,187754,Marlos,81,81,33,174,76,Shakhtar Donetsk,Ukrainian Premier League,2021,Left,79.0,76.0,78.0,86.0,47.0,68.0,mid,#Dribbler,,1
+5108,230183,Gerson Armão,78,78,21,186,73,Internacional,Campeonato Brasileiro Série A,2024,Left,79.0,67.0,71.0,71.0,74.0,78.0,mid,#Engine,,1
+5109,226161,Marcos Llorente,86,89,26,184,74,Atlético de Madrid,Spain Primera Division,2027,Right,88.0,80.0,81.0,82.0,78.0,82.0,mid,#Playmaker ,,1
+5111,227055,Gelson Martins,78,79,26,173,74,AS Monaco,French Ligue 1,2024,Right,93.0,71.0,70.0,83.0,51.0,61.0,mid,"#Speedster, #Engine, #Acrobat",16500000.0,1
+5120,230965,N. Nández,77,82,25,172,70,Cagliari,Italian Serie A,2024,Right,77.0,67.0,72.0,77.0,76.0,83.0,mid,#Engine,15500000.0,1
+5122,190489,D. Gustafsson,65,65,30,177,75,Lillestrøm SK,Norwegian Eliteserien,2021,Right,91.0,60.0,52.0,67.0,42.0,63.0,mid,#Speedster,700000.0,1
+5128,234612,J. Ikoné,79,83,23,175,73,LOSC Lille,French Ligue 1,2023,Left,89.0,70.0,74.0,83.0,35.0,60.0,mid,#Acrobat,,1
+5129,213439,J. Osorio,72,72,29,175,73,Toronto FC,USA Major League Soccer,2022,Right,60.0,68.0,70.0,74.0,64.0,67.0,mid,#Engine,2300000.0,1
+5138,235353,I. Sarr,78,86,23,185,76,Watford,English Premier League,2024,Right,94.0,76.0,67.0,80.0,22.0,67.0,mid,#Speedster,,1
+5166,229217,Y. Yeboah,68,74,24,175,70,Wisła Kraków,Polish T-Mobile Ekstraklasa,2023,Left,90.0,62.0,57.0,73.0,25.0,52.0,mid,#Speedster,1900000.0,1
+5183,246420,J. Doku,77,88,19,171,60,Stade Rennais FC,French Ligue 1,2025,Right,92.0,66.0,67.0,83.0,25.0,67.0,mid,"#Speedster, #Dribbler, #Acrobat",,1
+5199,214132,Y. Chará,75,75,30,165,68,Portland Timbers,USA Major League Soccer,2021,Right,91.0,69.0,66.0,77.0,56.0,70.0,mid,"#Speedster, #Acrobat",5500000.0,1
+5206,227232,F. Sotoca,74,74,30,187,77,Racing Club de Lens,French Ligue 1,2023,Right,80.0,71.0,68.0,70.0,42.0,80.0,att,#Engine,4100000.0,1
+5208,226765,L. Gamba,74,74,34,170,70,Rosario Central,Argentina Primera División,2022,Right,88.0,73.0,70.0,77.0,28.0,62.0,att,#Acrobat,2100000.0,1
+5220,233090,J. Torres,69,74,24,165,60,Club de Foot Montréal,USA Major League Soccer,2021,Left,85.0,61.0,62.0,77.0,35.0,52.0,att,#Acrobat,2100000.0,1
+5227,188996,A. Nuhiu,66,66,31,197,85,SC Rheindorf Altach,Austrian Football Bundesliga,2023,Right,32.0,66.0,59.0,64.0,42.0,78.0,att,"#Aerial Threat, #Strength",725000.0,1
+5228,251532,M. Elia,71,77,23,173,67,BSC Young Boys,Swiss Super League,2023,Right,90.0,69.0,65.0,76.0,26.0,68.0,att,#Speedster,3000000.0,1
+5234,251229,K. Yeboah,67,77,21,185,73,SK Sturm Graz,Austrian Football Bundesliga,2024,Right,91.0,65.0,56.0,68.0,23.0,63.0,att,#Speedster,2300000.0,1
+5235,239207,M. Gómez,80,85,24,186,84,Valencia CF,Spain Primera Division,2024,Right,66.0,81.0,68.0,73.0,32.0,82.0,att,#Strength,,1
+5239,246560,D. Popa,64,67,25,186,83,AFC Chindia Târgoviște,Romanian Liga I,2024,Right,54.0,62.0,43.0,59.0,26.0,85.0,att,#Strength,775000.0,1
+5243,253013,J. Bergström,60,63,26,195,95,Mjällby AIF,Swedish Allsvenskan,2022,Right,60.0,57.0,41.0,56.0,33.0,75.0,att,#Strength,325000.0,1
+5251,205850,L. Pavoletti,75,75,32,188,85,Cagliari,Italian Serie A,2023,Right,56.0,73.0,51.0,68.0,35.0,72.0,att,#Aerial Threat,4600000.0,1
+5257,239085,E. Haaland,88,93,20,194,94,Borussia Dortmund,German 1. Bundesliga,2024,Left,89.0,91.0,65.0,80.0,45.0,88.0,att,"#Distance Shooter, #Strength, #Clinical Finisher, #Complete Forward",137500000.0,1
+5266,180930,E. Džeko,83,83,35,193,80,Inter,Italian Serie A,2023,Right,66.0,83.0,72.0,78.0,45.0,76.0,att,#Poacher,15500000.0,1
+5269,156616,F. Ribéry,79,79,38,170,72,US Salernitana 1919,Italian Serie A,2022,Right,69.0,73.0,81.0,85.0,30.0,53.0,att,#Dribbler,6000000.0,1
+5271,176580,L. Suárez,88,88,34,182,83,Atlético de Madrid,Spain Primera Division,2022,Right,72.0,90.0,82.0,84.0,47.0,83.0,att,"#Distance Shooter, #Clinical Finisher",44500000.0,1
+5276,192123,C. Wood,79,79,29,191,92,Burnley,English Premier League,2023,Right,64.0,79.0,60.0,70.0,40.0,81.0,att,#Strength,17500000.0,1
+5288,236245,A. Elis,75,78,25,180,73,FC Girondins de Bordeaux,French Ligue 1,2022,Right,90.0,71.0,63.0,77.0,31.0,74.0,att,#Speedster,7500000.0,1
+5289,153244,A. Gignac,81,81,35,189,85,Tigres U.A.N.L.,Mexican Liga MX,2024,Right,68.0,83.0,73.0,75.0,41.0,84.0,att,"#Poacher, #Strength, #Complete Forward",,1
+5300,204227,Z. Gano,68,69,27,198,91,SV Zulte Waregem,Belgian Jupiler Pro League,2024,Left,54.0,69.0,55.0,62.0,33.0,76.0,att,#Strength,1400000.0,1
+5301,192663,F. Klos,73,73,33,194,93,DSC Arminia Bielefeld,German 1. Bundesliga,2022,Right,63.0,73.0,61.0,61.0,39.0,81.0,att,"#Aerial Threat, #Strength",1900000.0,1
+5305,179752,Ó. Cardozo,75,75,38,193,87,Club Libertad,Paraguayan Primera División,2021,Left,50.0,80.0,63.0,64.0,28.0,68.0,att,#Strength,1900000.0,1
+5322,182212,A. Modeste,72,72,33,187,84,1. FC Köln,German 1. Bundesliga,2023,Right,62.0,72.0,63.0,69.0,35.0,77.0,att,#Strength,1500000.0,1
+5324,192629,Iago Aspas,84,84,33,176,67,RC Celta de Vigo,Spain Primera Division,2023,Left,82.0,85.0,79.0,86.0,35.0,63.0,att,"#Acrobat, #Clinical Finisher",,1
+5329,214837,M. Donoso,66,66,34,186,88,Club de Deportes Cobresal,Chilian Campeonato Nacional,2021,Right,59.0,69.0,39.0,56.0,28.0,82.0,att,#Strength,425000.0,1
+5335,208120,K. Przybyłko,73,73,28,193,87,Philadelphia Union,USA Major League Soccer,2023,Right,68.0,71.0,58.0,68.0,28.0,79.0,att,#Strength,3100000.0,1
+5349,171579,Raúl García,80,80,34,184,83,Athletic Club de Bilbao,Spain Primera Division,2022,Right,41.0,82.0,81.0,78.0,65.0,83.0,att,"#Aerial Threat, #Strength",10500000.0,1
+5359,200429,B. Raman,72,75,26,172,67,RSC Anderlecht,Belgian Jupiler Pro League,2024,Right,85.0,73.0,65.0,75.0,33.0,61.0,att,#Acrobat,3100000.0,1
+5361,227536,M. Marega,77,77,30,183,83,Al Hilal,Saudi Abdul L. Jameel League,2024,Right,87.0,77.0,61.0,65.0,39.0,89.0,att,"#Engine, #Strength",10500000.0,1
+5366,208093,Gerard Moreno,86,86,29,180,77,Villarreal CF,Spain Primera Division,2027,Left,79.0,86.0,77.0,84.0,46.0,73.0,att,#Clinical Finisher,,1
+5370,245652,M. Gueye,70,75,23,195,91,KV Oostende,Belgian Jupiler Pro League,2024,Right,63.0,73.0,54.0,61.0,29.0,80.0,att,#Strength,2400000.0,1
+5374,208330,A. Januzaj,81,81,26,186,76,Real Sociedad,Spain Primera Division,2022,Left,79.0,75.0,80.0,83.0,30.0,58.0,att,#Dribbler,,1
+5387,216409,M. Politano,81,81,27,171,67,Napoli,Italian Serie A,2024,Left,83.0,77.0,78.0,84.0,42.0,55.0,att,#Acrobat,27500000.0,1
+5389,183339,J. Berget,69,69,30,186,81,Malmö FF,Swedish Allsvenskan,2022,Right,76.0,69.0,66.0,67.0,59.0,76.0,att,#Engine,1300000.0,1
+5400,217714,P. Arriola,73,74,26,168,66,D.C. United,USA Major League Soccer,2021,Right,81.0,67.0,67.0,73.0,57.0,75.0,att,#Engine,3600000.0,1
+5403,246562,D. Sorescu,70,74,23,176,72,FC Dinamo 1948 Bucureşti,Romanian Liga I,2023,Right,91.0,67.0,64.0,70.0,61.0,73.0,att,#Speedster,2100000.0,1
+5406,200949,Lucas Moura,81,81,28,174,70,Tottenham Hotspur,English Premier League,2024,Right,90.0,79.0,70.0,86.0,43.0,68.0,att,"#Speedster, #Dribbler, #Acrobat",,1
+5412,247045,J. Kayamba,73,73,29,170,67,FC Viktoria Plzeň,Czech Republic Gambrinus Liga,2022,Right,87.0,65.0,67.0,77.0,30.0,54.0,att,#Acrobat,3000000.0,1
+5414,224574,O. Pineda,77,80,25,169,63,Cruz Azul,Mexican Liga MX,2021,Right,86.0,73.0,72.0,79.0,62.0,66.0,att,#Acrobat,,1
+5425,20775,Quaresma,77,77,37,175,68,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2022,Right,72.0,71.0,78.0,84.0,24.0,60.0,att,#Dribbler,3400000.0,1
+5427,158023,L. Messi,93,93,34,170,72,Paris Saint-Germain,French Ligue 1,2023,Left,85.0,92.0,91.0,95.0,34.0,65.0,att,"#Dribbler, #Distance Shooter, #FK Specialist, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+5430,230289,Santi da Bruma,72,72,25,172,67,Bahia,Campeonato Brasileiro Série A,2024,Right,86.0,70.0,73.0,76.0,37.0,58.0,att,#Acrobat,2600000.0,1
+5434,189505,Pedro,78,78,33,169,65,Lazio,Italian Serie A,2024,Right,74.0,73.0,77.0,84.0,40.0,52.0,att,#Acrobat,9000000.0,1
+5435,241002,E. Sabbi,68,75,23,178,70,Odense Boldklub,Danish Superliga,2024,Right,91.0,62.0,56.0,75.0,38.0,60.0,att,"#Speedster, #Acrobat",2400000.0,1
+5437,231443,O. Dembélé,83,88,24,178,67,FC Barcelona,Spain Primera Division,2022,Left,93.0,77.0,77.0,86.0,36.0,56.0,att,"#Speedster, #Dribbler",,1
+5438,202651,Suso,82,82,27,176,70,Sevilla FC,Spain Primera Division,2025,Left,76.0,76.0,82.0,85.0,32.0,55.0,att,#Dribbler,32500000.0,1
+5443,198717,W. Zaha,82,82,28,180,66,Crystal Palace,English Premier League,2023,Right,89.0,77.0,73.0,87.0,34.0,75.0,att,#Dribbler,,1
+5453,170733,Gervinho,76,76,34,179,65,Trabzonspor,Turkish Süper Lig,2023,Right,91.0,68.0,68.0,77.0,35.0,57.0,att,#Speedster,3500000.0,1
+5456,230482,Marlon Nideiro,73,73,25,169,66,Grêmio,Campeonato Brasileiro Série A,2024,Right,77.0,63.0,71.0,77.0,32.0,51.0,att,#Acrobat,3400000.0,1
+5460,173731,G. Bale,82,82,31,185,82,Real Madrid CF,Spain Primera Division,2022,Left,82.0,84.0,82.0,80.0,55.0,70.0,att,"#Distance Shooter, #Crosser, #FK Specialist",,1
+5462,229694,Moon Seon Min,71,71,29,172,68,Jeonbuk Hyundai Motors,Korean K League 1,2021,Right,92.0,64.0,64.0,72.0,38.0,62.0,att,"#Speedster, #Acrobat",1800000.0,1
+5464,233064,M. Mount,83,89,22,178,70,Chelsea,English Premier League,2024,Right,74.0,79.0,84.0,83.0,55.0,65.0,att,#Engine,58500000.0,1
+5465,209331,M. Salah,89,89,29,175,71,Liverpool,English Premier League,2023,Left,90.0,87.0,81.0,90.0,45.0,75.0,att,"#Speedster, #Dribbler, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+5469,225956,B. Akintola,70,73,25,178,69,Adana Demirspor,Turkish Süper Lig,2024,Right,92.0,62.0,60.0,73.0,41.0,66.0,att,"#Speedster, #Acrobat",2100000.0,1
+5471,253399,O. Edvardsen,66,73,22,175,70,Stabæk Fotball,Norwegian Eliteserien,2022,Left,90.0,60.0,55.0,69.0,46.0,75.0,att,#Speedster,1700000.0,1
+5477,242612,E. Chilufya,65,80,21,171,68,Djurgårdens IF,Swedish Allsvenskan,2022,Right,88.0,57.0,51.0,70.0,27.0,53.0,att,#Acrobat,1800000.0,1
+5483,246423,L. Orellano,73,83,21,177,66,Vélez Sarsfield,Argentina Primera División,2023,Left,90.0,70.0,61.0,78.0,33.0,59.0,att,"#Speedster, #Acrobat",7000000.0,1
+5484,234202,C. Nunnely,68,73,22,170,73,Willem II,Holland Eredivisie,2022,Right,91.0,58.0,56.0,71.0,25.0,59.0,att,#Speedster,1900000.0,1
+5486,204485,R. Mahrez,86,86,30,179,67,Manchester City,English Premier League,2023,Left,81.0,79.0,81.0,90.0,38.0,60.0,att,"#Dribbler, #Acrobat",65500000.0,1
+5490,252523,I. Ndiaye,71,80,22,176,65,FC Luzern,Swiss Super League,2023,Left,91.0,66.0,63.0,75.0,57.0,61.0,att,"#Speedster, #Acrobat",4200000.0,1
+5491,263377,L. Abada,70,79,19,168,62,Celtic,Scottish Premiership,2026,Right,77.0,66.0,63.0,75.0,34.0,56.0,att,#Acrobat,3400000.0,1
+5493,222916,J. Ginnelly,67,72,24,173,65,Heart of Midlothian,Scottish Premiership,2023,Right,91.0,59.0,58.0,68.0,45.0,61.0,att,#Speedster,1500000.0,1
+5497,246937,Um Won Sang,67,77,22,171,63,GwangJu FC,Korean K League 1,2022,Right,93.0,57.0,56.0,69.0,38.0,60.0,att,"#Speedster, #Acrobat",2300000.0,1
+5503,235135,H. Balić,70,73,25,183,75,LASK Linz,Austrian Football Bundesliga,2024,Right,91.0,67.0,65.0,69.0,30.0,60.0,att,#Speedster,2100000.0,1
+5512,243123,Y. Sugita,67,67,28,164,65,IK Sirius,Swedish Allsvenskan,2023,Right,81.0,60.0,61.0,70.0,30.0,47.0,att,#Acrobat,1000000.0,1
+5514,228738,J. Murillo,73,76,25,171,66,CD Tondela,Portuguese Liga ZON SAGRES,2022,Right,92.0,68.0,62.0,77.0,36.0,49.0,att,"#Speedster, #Acrobat",4000000.0,1
+5518,255475,Antony,79,88,21,174,63,Ajax,Holland Eredivisie,2025,Left,91.0,72.0,72.0,84.0,37.0,65.0,att,"#Speedster, #Acrobat",39500000.0,1
+5526,239093,J. Clauss,77,77,28,178,67,Racing Club de Lens,French Ligue 1,2023,Right,85.0,66.0,70.0,76.0,67.0,71.0,def,#Engine,9500000.0,1
+5528,253052,I. Kabore,68,82,20,180,70,ESTAC Troyes,French Ligue 1,2022,Right,91.0,27.0,58.0,64.0,58.0,70.0,def,#Speedster,2800000.0,1
+5553,171378,P. Aguilar,71,71,35,178,67,Fútbol Club Juárez,Mexican Liga MX,2026,Right,70.0,63.0,66.0,66.0,66.0,76.0,def,#Engine,575000.0,1
+5554,258047,J. Henderson,58,73,19,168,71,St. Mirren,Scottish Premiership,2023,Right,74.0,47.0,53.0,59.0,52.0,49.0,def,#Acrobat,475000.0,1
+5600,199700,Aridai,70,70,32,168,73,Odisha FC,Indian Super League,2022,Right,80.0,69.0,59.0,77.0,26.0,59.0,att,#Acrobat,1300000.0,1
+5604,230440,Fredditinho,78,78,33,188,87,Palmeiras,Campeonato Brasileiro Série A,2024,Right,73.0,80.0,63.0,74.0,39.0,76.0,att,#Strength,9000000.0,1
+5608,230442,Matheus Bardeira,78,78,21,187,85,Fortaleza,Campeonato Brasileiro Série A,2024,Right,73.0,82.0,62.0,70.0,31.0,75.0,att,"#Aerial Threat, #Clinical Finisher, #Complete Forward",,1
+5614,226114,F. Mulić,64,66,26,203,84,Seongnam FC,Korean K League 1,2021,Right,75.0,63.0,42.0,56.0,28.0,78.0,att,#Strength,725000.0,1
+5618,153079,S. Agüero,87,87,33,173,70,FC Barcelona,Spain Primera Division,2023,Right,71.0,89.0,75.0,87.0,33.0,69.0,att,"#Dribbler, #Clinical Finisher, #Complete Forward",,1
+5626,230430,Oswaldinato,81,81,29,184,79,Flamengo,Campeonato Brasileiro Série A,2024,Right,76.0,81.0,67.0,77.0,20.0,78.0,att,#Poacher,25500000.0,1
+5629,184111,C. Benteke,75,75,30,190,83,Crystal Palace,English Premier League,2023,Right,54.0,76.0,62.0,68.0,32.0,75.0,att,#Strength,5500000.0,1
+5636,184290,T. Pekhart,72,72,32,196,89,Legia Warszawa,Polish T-Mobile Ekstraklasa,2022,Right,50.0,72.0,53.0,59.0,33.0,77.0,att,"#Aerial Threat, #Strength",1900000.0,1
+5645,212107,A. Jahović,72,72,34,191,86,Göztepe SK,Turkish Süper Lig,2022,Right,65.0,73.0,50.0,65.0,33.0,76.0,att,#Strength,1100000.0,1
+5648,208159,M. Frey,72,72,26,190,86,Royal Antwerp FC,Belgian Jupiler Pro League,2024,Right,62.0,74.0,61.0,66.0,36.0,88.0,att,"#Engine, #Strength",2600000.0,1
+5649,206534,P. Bamford,78,78,27,185,71,Leeds United,English Premier League,2026,Left,73.0,78.0,67.0,73.0,42.0,77.0,att,#Engine,,1
+5651,184433,A. Nemec,64,64,35,192,90,FC Voluntari,Romanian Liga I,2022,Left,44.0,65.0,46.0,61.0,30.0,72.0,att,#Strength,250000.0,1
+5652,247187,Júnior Brumado,65,74,22,190,88,FC Midtjylland,Danish Superliga,2023,Right,76.0,61.0,49.0,68.0,29.0,78.0,att,#Strength,1600000.0,1
+5655,251848,R. Moldoveanu,61,65,22,177,74,FC Dinamo 1948 Bucureşti,Romanian Liga I,2024,Right,71.0,58.0,56.0,64.0,18.0,56.0,att,#Acrobat,475000.0,1
+5666,255420,E. Kara,73,76,25,192,89,SK Rapid Wien,Austrian Football Bundesliga,2022,Right,75.0,75.0,51.0,61.0,28.0,85.0,att,#Strength,4100000.0,1
+5669,205175,A. Milik,81,82,27,186,78,Olympique de Marseille,French Ligue 1,2022,Left,64.0,84.0,67.0,76.0,39.0,71.0,att,#Poacher,30000000.0,1
+5670,186627,M. Balotelli,76,76,30,190,94,Adana Demirspor,Turkish Süper Lig,2024,Right,73.0,79.0,72.0,76.0,25.0,77.0,att,#Strength,7500000.0,1
+5694,231747,K. Mbappé,91,95,22,182,73,Paris Saint-Germain,French Ligue 1,2022,Right,97.0,88.0,80.0,92.0,36.0,77.0,att,"#Speedster, #Dribbler, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+5699,200235,M. te Vrede,68,68,29,192,87,Abha Club,Saudi Abdul L. Jameel League,2022,Right,41.0,70.0,47.0,56.0,30.0,78.0,att,#Strength,1200000.0,1
+5703,156432,G. Hoarau,70,70,37,193,85,FC Sion,Swiss Super League,2022,Right,37.0,72.0,67.0,66.0,43.0,69.0,att,#Strength,550000.0,1
+5704,213305,R. Šimović,63,63,30,199,93,Varbergs BoIS FC,Swedish Allsvenskan,2021,Right,50.0,64.0,55.0,57.0,25.0,67.0,att,#Strength,475000.0,1
+5706,192505,R. Lukaku,88,88,28,191,94,Chelsea,English Premier League,2026,Left,84.0,87.0,74.0,78.0,39.0,83.0,att,"#Poacher, #Strength, #Complete Forward",93500000.0,1
+5713,259345,K. El Berkaoui,70,75,25,174,63,Al Raed,Saudi Abdul L. Jameel League,2022,Right,87.0,72.0,54.0,72.0,24.0,61.0,att,#Acrobat,2400000.0,1
+5727,230495,Hélton Celanova,72,72,29,180,92,Internacional,Campeonato Brasileiro Série A,2024,Left,53.0,76.0,60.0,67.0,22.0,73.0,att,#Strength,2300000.0,1
+5730,215064,J. Furch,76,76,31,188,88,Club Atlas,Mexican Liga MX,2021,Right,53.0,77.0,61.0,69.0,39.0,78.0,att,#Strength,6500000.0,1
+5733,198213,Leandro Damião,73,73,31,188,90,Kawasaki Frontale,Japanese J. League Division 1,2022,Right,51.0,75.0,62.0,68.0,35.0,80.0,att,#Strength,2600000.0,1
+5735,238743,H. Wright,66,74,23,193,90,Antalyaspor,Turkish Süper Lig,2022,Right,77.0,66.0,48.0,64.0,22.0,72.0,att,#Strength,1900000.0,1
+5741,236899,A. Sobolev,75,80,24,195,85,Spartak Moskva,Russian Premier League,2024,Right,71.0,75.0,58.0,71.0,42.0,72.0,att,#Aerial Threat,8500000.0,1
+5743,223689,W. Weghorst,83,83,28,197,84,VfL Wolfsburg,German 1. Bundesliga,2023,Right,63.0,83.0,59.0,70.0,52.0,86.0,att,"#Aerial Threat, #Strength",,1
+5751,231835,T. Henry,74,76,26,192,86,Venezia FC,Italian Serie A,2024,Right,61.0,73.0,65.0,66.0,39.0,79.0,att,#Strength,5500000.0,1
+5766,231352,T. Abraham,78,86,23,196,87,Roma,Italian Serie A,2026,Right,70.0,78.0,62.0,72.0,31.0,70.0,att,#Aerial Threat,31500000.0,1
+5773,215965,C. Strandberg,72,75,25,187,90,Al Hazem,Saudi Abdul L. Jameel League,2022,Left,82.0,73.0,53.0,63.0,25.0,79.0,att,#Strength,3100000.0,1
+5780,176237,J. Altidore,71,71,31,183,79,Toronto FC,USA Major League Soccer,2022,Right,66.0,73.0,60.0,65.0,32.0,80.0,att,#Strength,1600000.0,1
+5784,246186,Arthur Cabral,77,85,23,186,89,FC Basel 1893,Swiss Super League,2023,Right,72.0,77.0,63.0,74.0,31.0,78.0,att,#Strength,23500000.0,1
+5786,192387,C. Immobile,87,87,31,185,85,Lazio,Italian Serie A,2025,Right,86.0,87.0,67.0,81.0,39.0,77.0,att,#Clinical Finisher,67500000.0,1
+5789,220735,Douglas Tanque,74,75,27,188,92,FC Paços de Ferreira,Portuguese Liga ZON SAGRES,2022,Left,50.0,76.0,54.0,62.0,32.0,78.0,att,#Strength,4900000.0,1
+5795,228325,O. Berg,66,66,27,178,74,Kalmar FF,Swedish Allsvenskan,2022,Right,72.0,65.0,61.0,65.0,54.0,74.0,att,#Engine,925000.0,1
+5805,195859,D. Ings,81,81,28,178,73,Aston Villa,English Premier League,2024,Right,79.0,84.0,70.0,80.0,45.0,70.0,att,#Clinical Finisher,26500000.0,1
+5809,223816,J. Rodríguez,80,80,27,177,79,Cruz Azul,Mexican Liga MX,2022,Right,88.0,80.0,67.0,81.0,38.0,76.0,att,#Acrobat,,1
+5819,139068,Nani,81,81,34,177,70,Orlando City Soccer Club,USA Major League Soccer,2021,Right,70.0,77.0,81.0,85.0,37.0,68.0,att,#Dribbler,,1
+5822,215267,T. Figueroa,68,68,29,191,90,CD Antofagasta,Chilian Campeonato Nacional,2021,Left,31.0,70.0,50.0,59.0,32.0,77.0,att,#Strength,1200000.0,1
+5823,193260,M. Pink,65,65,30,188,87,SK Austria Klagenfurt,Austrian Football Bundesliga,2023,Right,55.0,65.0,51.0,59.0,27.0,74.0,att,#Strength,700000.0,1
+5825,20801,Cristiano Ronaldo,91,91,36,187,83,Manchester United,English Premier League,2023,Right,87.0,94.0,80.0,88.0,34.0,75.0,att,"#Aerial Threat, #Dribbler, #Distance Shooter, #Crosser, #Acrobat, #Clinical Finisher, #Complete Forward",,1
+5826,255753,Pedro Raul,67,71,24,192,86,Kashiwa Reysol,Japanese J. League Division 1,2024,Right,69.0,69.0,49.0,58.0,29.0,75.0,att,#Strength,1500000.0,1
+5827,256675,O. Marmoush,70,79,22,177,73,VfB Stuttgart,German 1. Bundesliga,2022,Right,86.0,68.0,59.0,76.0,29.0,54.0,att,#Acrobat,3600000.0,1
+5837,215333,D. Zapata,83,83,30,189,88,Atalanta,Italian Serie A,2023,Right,80.0,81.0,61.0,78.0,35.0,84.0,att,#Strength,35500000.0,1
+5838,216793,J. Beauguel,73,73,29,196,98,FC Viktoria Plzeň,Czech Republic Gambrinus Liga,2022,Left,68.0,72.0,52.0,68.0,31.0,79.0,att,"#Aerial Threat, #Strength",3000000.0,1
+5840,199451,W. Ben Yedder,84,84,30,170,68,AS Monaco,French Ligue 1,2024,Right,82.0,84.0,77.0,87.0,39.0,70.0,att,"#Dribbler, #Acrobat",41500000.0,1
+5849,202126,H. Kane,90,90,27,188,89,Tottenham Hotspur,English Premier League,2024,Right,70.0,91.0,83.0,83.0,47.0,83.0,att,"#Distance Shooter, #Clinical Finisher",129500000.0,1
+5851,232670,F. Zampedri,75,75,33,185,83,Universidad Católica,Chilian Campeonato Nacional,2023,Right,68.0,78.0,55.0,71.0,29.0,76.0,att,#Strength,3600000.0,1
+5853,227537,H. Veerman,72,72,30,201,90,SC Heerenveen,Holland Eredivisie,2023,Right,73.0,71.0,47.0,58.0,30.0,81.0,att,"#Aerial Threat, #Strength",2300000.0,1
+5856,193408,H. Seferović,78,78,29,189,85,SL Benfica,Portuguese Liga ZON SAGRES,2024,Left,72.0,78.0,67.0,72.0,48.0,84.0,att,#Strength,,1
+5864,224179,Borja Iglesias,80,80,28,187,86,Real Betis Balompié,Spain Primera Division,2024,Right,65.0,80.0,64.0,74.0,35.0,80.0,att,#Strength,21500000.0,1
+5872,192660,S. Polter,69,69,30,192,92,VfL Bochum 1848,German 1. Bundesliga,2023,Right,70.0,68.0,53.0,61.0,28.0,85.0,att,#Strength,1400000.0,1
+5880,167664,G. Higuaín,81,81,33,186,89,Inter Miami CF,USA Major League Soccer,2022,Right,58.0,84.0,71.0,78.0,29.0,71.0,att,"#Strength, #Clinical Finisher, #Complete Forward",16500000.0,1
+5886,228941,André Silva,84,85,25,185,84,RB Leipzig,German 1. Bundesliga,2026,Right,74.0,84.0,69.0,83.0,45.0,77.0,att,#Poacher,,1
+5891,184614,M. Kramer,65,65,32,196,80,RKC Waalwijk,Holland Eredivisie,2023,Right,41.0,64.0,56.0,56.0,35.0,63.0,att,#Aerial Threat,575000.0,1
+5893,244727,L. Tawamba,73,73,31,189,95,Al Taawoun,Saudi Abdul L. Jameel League,2022,Right,65.0,73.0,54.0,68.0,24.0,81.0,att,#Strength,2600000.0,1
+5894,212478,G. Zardes,73,73,29,188,80,Columbus Crew,USA Major League Soccer,2021,Right,85.0,71.0,52.0,68.0,44.0,79.0,att,#Engine,3000000.0,1
+5908,255578,Júnior Santos,70,72,26,188,85,Sanfrecce Hiroshima,Japanese J. League Division 1,2022,Right,70.0,70.0,52.0,68.0,26.0,74.0,att,#Strength,2000000.0,1
+5910,212626,D. Selke,71,73,26,194,84,Hertha BSC,German 1. Bundesliga,2022,Right,76.0,70.0,53.0,67.0,40.0,75.0,att,#Aerial Threat,2400000.0,1
+5911,184200,M. Arnautović,81,81,32,192,83,Bologna,Italian Serie A,2024,Right,79.0,81.0,79.0,78.0,44.0,82.0,att,#Strength,,1
+5915,189068,B. Dost,77,77,32,196,83,Club Brugge KV,Belgian Jupiler Pro League,2022,Right,45.0,79.0,57.0,65.0,50.0,76.0,att,"#Aerial Threat, #Strength",8500000.0,1
+5916,178509,O. Giroud,79,79,34,193,91,AC Milan,Italian Serie A,2024,Left,39.0,80.0,70.0,71.0,42.0,77.0,att,"#Aerial Threat, #Strength",8500000.0,1
+5919,242494,E. Koljić,70,72,25,191,85,Universitatea Craiova,Romanian Liga I,2025,Right,59.0,70.0,52.0,62.0,33.0,76.0,att,#Strength,2000000.0,1
+5920,222636,G. Kyei,70,73,25,188,90,Servette FC,Swiss Super League,2022,Right,68.0,66.0,51.0,67.0,26.0,80.0,att,#Strength,2100000.0,1
+5921,205693,S. Haller,80,81,27,190,82,Ajax,Holland Eredivisie,2025,Right,66.0,79.0,62.0,74.0,51.0,81.0,att,#Strength,24500000.0,1
+5929,232163,Y. Niakaté,72,72,28,178,79,Al Ittihad,Saudi Abdul L. Jameel League,2024,Left,92.0,74.0,58.0,70.0,26.0,69.0,att,"#Speedster, #Acrobat",2400000.0,1
+5932,188545,R. Lewandowski,92,92,32,185,81,FC Bayern München,German 1. Bundesliga,2023,Right,78.0,92.0,79.0,86.0,44.0,82.0,att,"#Aerial Threat, #Distance Shooter, #Clinical Finisher, #Complete Forward",119500000.0,1
+5941,212618,F. Aristeguieta,72,72,29,188,87,Puebla FC,Mexican Liga MX,2026,Right,51.0,73.0,55.0,67.0,42.0,83.0,att,#Strength,2300000.0,1
+5952,212382,P. Onuachu,79,80,27,201,93,KRC Genk,Belgian Jupiler Pro League,2024,Right,71.0,77.0,62.0,70.0,45.0,84.0,att,"#Aerial Threat, #Strength",20500000.0,1
+5954,219566,F. Friday,65,68,26,187,90,Strømsgodset IF,Norwegian Eliteserien,2022,Right,71.0,64.0,48.0,65.0,27.0,72.0,att,#Strength,950000.0,1
+5956,223627,O. Al Somah,76,76,32,190,86,Al Ahli,Saudi Abdul L. Jameel League,2024,Right,68.0,79.0,69.0,72.0,39.0,80.0,att,#Strength,6000000.0,1
+5957,213321,T. Jurić,66,66,29,191,85,Macarthur FC,Australian Hyundai A-League,2022,Right,62.0,69.0,55.0,63.0,45.0,77.0,att,#Strength,850000.0,1
+5964,215455,B. Petković,76,77,26,193,88,Dinamo Zagreb,Croatian Prva HNL,2024,Right,75.0,72.0,75.0,80.0,39.0,77.0,att,#Strength,9000000.0,1
+5969,215817,D. Islamović,68,69,27,190,87,Rosenborg BK,Norwegian Eliteserien,2022,Left,55.0,70.0,57.0,63.0,30.0,75.0,att,#Strength,1400000.0,1

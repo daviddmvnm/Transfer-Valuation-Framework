@@ -1,0 +1,544 @@
+Unnamed: 0,sofifa_id,short_name,overall,potential,age,height_cm,weight_kg,club_name,league_name,club_contract_valid_until,preferred_foot,pace,shooting,passing,dribbling,defending,physic,formation,player_tags,value_eur,is_star
+563,253846,R. Bentancur,65,65,32,184,78,Cerro Largo Fútbol Club,Uruguayan Primera División,2021,Right,,,,,,,GK,,350000.0,0
+564,225282,J. Devecchi,70,73,25,188,83,Club Atlético Aldosivi,Argentina Primera División,2022,Right,,,,,,,GK,,1600000.0,0
+565,208968,F. Al Qarni,65,66,29,184,86,Al Shabab,Saudi Abdul L. Jameel League,2024,Right,,,,,,,GK,,550000.0,0
+566,262417,Daniel Figueira,69,77,22,189,82,Estoril Praia,Portuguese Liga ZON SAGRES,2023,Right,,,,,,,GK,,2700000.0,0
+567,236571,M. Paes,68,77,23,191,82,FC Utrecht,Holland Eredivisie,2023,Right,,,,,,,GK,,2300000.0,0
+568,204922,A. Leitner,68,70,27,184,72,FC Flyeralarm Admira,Austrian Football Bundesliga,2022,Right,,,,,,,GK,,1100000.0,0
+569,150724,J. Hart,74,74,34,196,91,Celtic,Scottish Premiership,2024,Right,,,,,,,GK,,725000.0,0
+570,230869,Unai Simón,82,86,24,190,89,Athletic Club de Bilbao,Spain Primera Division,2025,Right,,,,,,,GK,,34500000.0,0
+571,182047,Wu Yan,68,68,32,191,82,Henan Songshan Longmen FC,Chinese Super League,2022,Right,,,,,,,GK,,600000.0,0
+572,158121,B. Costil,79,79,33,187,82,FC Girondins de Bordeaux,French Ligue 1,2022,Right,,,,,,,GK,,5500000.0,0
+573,185122,P. Gulácsi,85,85,31,191,86,RB Leipzig,German 1. Bundesliga,2025,Right,,,,,,,GK,,28500000.0,0
+574,200209,N. Larsen,66,67,30,187,83,Silkeborg IF,Danish Superliga,2023,Right,,,,,,,GK,,650000.0,0
+575,217805,A. Martín Arias,72,74,28,185,79,Unión La Calera,Chilian Campeonato Nacional,2022,Right,,,,,,,GK,,2000000.0,0
+576,198355,S. Clark,72,72,35,188,86,Portland Timbers,USA Major League Soccer,2021,Right,,,,,,,GK,,250000.0,0
+577,201936,Kim Jin Hyeon,70,70,33,192,82,Cerezo Osaka,Japanese J. League Division 1,2022,Right,,,,,,,GK,,525000.0,0
+578,263232,Luiz Felipe,66,70,24,198,90,Belenenses SAD,Portuguese Liga ZON SAGRES,2024,Left,,,,,,,GK,,975000.0,0
+579,167993,V. Stojković,70,70,37,193,96,Al Fayha,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,180000.0,0
+580,242200,T. Rönning,68,76,22,201,88,IF Elfsborg,Swedish Allsvenskan,2024,Right,,,,,,,GK,,2300000.0,0
+581,251185,A. M'hamdi,68,68,29,192,85,Abha Club,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,825000.0,0
+582,245164,V. Kaith,59,65,24,187,78,Chennaiyin FC,Indian Super League,2022,Right,,,,,,,GK,,300000.0,0
+583,202778,E. Özbir,69,69,31,188,78,Yeni Malatyaspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,750000.0,0
+584,228789,Robert Sanchéz,76,82,23,197,85,Brighton & Hove Albion,English Premier League,2025,Right,,,,,,,GK,,9500000.0,0
+585,140233,G. Ochoa,80,80,35,190,85,Club América,Mexican Liga MX,2022,Right,,,,,,,GK,,2300000.0,0
+586,214190,L. Castellanos,70,70,37,183,78,Club Independiente Santa Fe,Colombian Liga Postobón,2021,Right,,,,,,,GK,,180000.0,0
+587,190459,A. Hansen,74,74,31,189,87,Rosenborg BK,Norwegian Eliteserien,2023,Right,,,,,,,GK,,2200000.0,0
+588,183244,A. Redmayne,67,67,32,194,89,Sydney FC,Australian Hyundai A-League,2022,Right,,,,,,,GK,,500000.0,0
+589,260197,N. Kamifukumoto,63,63,31,182,76,Tokushima Vortis,Japanese J. League Division 1,2022,Right,,,,,,,GK,,250000.0,0
+590,259729,P. Lachenpa,52,61,23,182,78,Mumbai City FC,Indian Super League,2024,Right,,,,,,,GK,,150000.0,0
+591,236543,G. Guruceaga,68,73,26,194,82,Montevideo City Torque,Uruguayan Primera División,2024,Left,,,,,,,GK,,1400000.0,0
+592,208764,Z. Alomerović,67,68,30,187,85,Lechia Gdańsk,Polish T-Mobile Ekstraklasa,2023,Right,,,,,,,GK,,775000.0,0
+593,254396,L. Claros,61,68,23,184,88,Club Always Ready,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,550000.0,0
+594,223898,P. Bernardoni,77,82,24,190,78,Angers SCO,French Ligue 1,2024,Left,,,,,,,GK,,,0
+595,172553,J. Lössl,72,72,32,195,89,FC Midtjylland,Danish Superliga,2025,Right,,,,,,,GK,,1200000.0,0
+596,247072,K. Eissa,70,70,31,179,73,Al Ain FC,UAE Arabian Gulf League,2024,Right,,,,,,,GK,,850000.0,0
+597,234054,C. Cáceda,72,72,29,185,78,FBC Melgar,Peruvian Primera División,2021,Right,,,,,,,GK,,1600000.0,0
+598,227819,Samuel Portugal,71,75,27,188,80,Portimonense SC,Portuguese Liga ZON SAGRES,2025,Left,,,,,,,GK,,2000000.0,0
+599,230172,Traeira Lopes,67,69,29,192,81,Juventude,Campeonato Brasileiro Série A,2024,Left,,,,,,,GK,,850000.0,0
+600,148119,I. Akinfeev,80,80,35,186,78,PFC CSKA Moscow,Russian Premier League,2022,Right,,,,,,,GK,,2300000.0,0
+601,182435,M. Langerak,70,70,32,193,78,Nagoya Grampus,Japanese J. League Division 1,2022,Right,,,,,,,GK,,800000.0,0
+602,215223,W. Benítez,80,82,28,191,93,OGC Nice,French Ligue 1,2023,Right,,,,,,,GK,,,0
+603,234999,Jean,71,75,25,188,90,Club Cerro Porteño,Paraguayan Primera División,2021,Left,,,,,,,GK,,2000000.0,0
+604,226542,D. Martínez,66,66,31,180,76,Deportivo Pasto,Colombian Liga Postobón,2026,Right,,,,,,,GK,,450000.0,0
+605,261152,A. Medina,65,65,34,181,79,Arsenal de Sarandí,Argentina Primera División,2022,Right,,,,,,,GK,,120000.0,0
+606,220584,V. Myhra,66,72,24,194,94,Strømsgodset IF,Norwegian Eliteserien,2023,Right,,,,,,,GK,,1100000.0,0
+607,258133,G. De Amores,63,68,26,186,76,Deportivo Cali,Colombian Liga Postobón,2025,Right,,,,,,,GK,,550000.0,0
+608,230312,Gabri Prestão,79,79,29,186,80,Internacional,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,,0
+609,167948,H. Lloris,87,87,34,188,82,Tottenham Hotspur,English Premier League,2022,Left,,,,,,,GK,,13500000.0,0
+610,189324,A. McCarthy,75,75,31,193,79,Southampton,English Premier League,2022,Right,,,,,,,GK,,3000000.0,0
+611,214584,F. Armani,80,80,34,189,88,River Plate,Argentina Primera División,2023,Right,,,,,,,GK,,3600000.0,0
+612,223885,A. Nübel,75,80,24,193,88,AS Monaco,French Ligue 1,2023,Right,,,,,,,GK,,7000000.0,0
+613,214582,C. Bonilla,68,71,28,189,80,La Equidad,Colombian Liga Postobón,2022,Right,,,,,,,GK,,1100000.0,0
+614,165735,B. Jones,69,69,39,193,87,Perth Glory,Australian Hyundai A-League,2023,Left,,,,,,,GK,,150000.0,0
+615,201095,A. Marchesín,81,81,33,188,84,FC Porto,Portuguese Liga ZON SAGRES,2023,Right,,,,,,,GK,,8500000.0,0
+616,235375,A. Quintana,66,69,26,195,90,Atlético Nacional,Colombian Liga Postobón,2023,Left,,,,,,,GK,,850000.0,0
+617,168354,E. Viviano,72,72,35,195,90,Fatih Karagümrük S.K.,Turkish Süper Lig,2022,Left,,,,,,,GK,,250000.0,0
+618,214680,G. Gallon,73,75,28,186,79,ESTAC Troyes,French Ligue 1,2024,Right,,,,,,,GK,,2600000.0,0
+619,142902,A. Pyatov,75,75,37,190,92,Shakhtar Donetsk,Ukrainian Premier League,2023,Right,,,,,,,GK,,625000.0,0
+620,259937,Á. Zamudio,65,72,24,181,70,Sport Huancayo,Peruvian Primera División,2021,Right,,,,,,,GK,,1200000.0,0
+621,236649,Y. van Osch,70,77,24,183,73,Fortuna Sittard,Holland Eredivisie,2023,Right,,,,,,,GK,,2700000.0,0
+622,260918,T. Romero,61,72,20,185,79,Los Angeles FC,USA Major League Soccer,2023,Right,,,,,,,GK,,625000.0,0
+623,209960,Pacheco,80,82,29,186,81,Deportivo Alavés,Spain Primera Division,2023,Left,,,,,,,GK,,17500000.0,0
+624,205849,E. Andrada,80,81,30,194,83,CF Monterrey,Mexican Liga MX,2024,Right,,,,,,,GK,,,0
+625,250781,F. Oswald,67,67,30,184,77,WSG Tirol,Austrian Football Bundesliga,2022,Right,,,,,,,GK,,675000.0,0
+626,253272,K. Dawson,75,77,29,179,81,Club Atlético Peñarol,Uruguayan Primera División,2022,Right,,,,,,,GK,,4700000.0,0
+627,187857,G. Sandomierski,63,63,31,196,91,Górnik Zabrze,Polish T-Mobile Ekstraklasa,2022,Left,,,,,,,GK,,250000.0,0
+628,215502,B. Drągowski,77,81,23,188,74,Fiorentina,Italian Serie A,2023,Right,,,,,,,GK,,,0
+629,182474,Zhang Chong,62,62,33,190,81,Dalian Professional Football Club,Chinese Super League,2021,Right,,,,,,,GK,,130000.0,0
+630,228231,A. Aguilar,72,72,32,184,89,Club Olimpia,Paraguayan Primera División,2022,Right,,,,,,,GK,,1200000.0,0
+631,219941,G. Castellón,68,70,27,190,75,CD Huachipato,Chilian Campeonato Nacional,2021,Right,,,,,,,GK,,1100000.0,0
+632,208782,M. van der Hart,67,68,27,188,87,Lech Poznań,Polish T-Mobile Ekstraklasa,2022,Left,,,,,,,GK,,875000.0,0
+633,201112,J. Słowik,66,67,29,190,82,Vegalta Sendai,Japanese J. League Division 1,2022,Right,,,,,,,GK,,650000.0,0
+634,211908,G. Güvenç,71,72,29,187,85,Gazişehir Gaziantep F.K.,Turkish Süper Lig,2024,Right,,,,,,,GK,,1400000.0,0
+635,167495,M. Neuer,90,90,35,193,93,FC Bayern München,German 1. Bundesliga,2023,Right,,,,,,,GK,,13500000.0,0
+636,244017,M. Asselah,68,68,34,193,85,Al Hazem,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,210000.0,0
+637,227477,F. Altamirano,66,72,25,186,78,Club Atlético Banfield,Argentina Primera División,2022,Right,,,,,,,GK,,1100000.0,0
+638,213729,S. Rossbach,70,76,25,189,80,Odds BK,Norwegian Eliteserien,2024,Right,,,,,,,GK,,2000000.0,0
+639,223737,P. Leeuwenburgh,68,70,27,196,95,FC Groningen,Holland Eredivisie,2023,Right,,,,,,,GK,,1100000.0,0
+640,222829,S. Brodersen,64,69,24,188,89,Yokohama FC,Japanese J. League Division 1,2026,Right,,,,,,,GK,,700000.0,0
+641,215698,M. Maignan,84,89,25,191,89,AC Milan,Italian Serie A,2026,Right,,,,,,,GK,,49500000.0,0
+642,225647,M. Campaña,74,74,32,186,70,Al Batin,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,2100000.0,0
+643,246158,M. Hermansen,62,72,20,185,81,Brøndby IF,Danish Superliga,2024,Right,,,,,,,GK,,750000.0,0
+644,193314,Aitor,81,81,30,182,78,Levante Unión Deportiva,Spain Primera Division,2023,Right,,,,,,,GK,,,0
+645,230165,Simão Donatinho,75,75,25,188,82,Sport Club Corinthians Paulista,Campeonato Brasileiro Série A,2024,Left,,,,,,,GK,,4600000.0,0
+646,233267,M. Turner,75,77,27,191,88,New England Revolution,USA Major League Soccer,2021,Right,,,,,,,GK,,5000000.0,0
+647,230324,Adrian Scitto,74,74,29,193,88,Grêmio,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,2900000.0,0
+648,219793,T. Didillon,72,76,25,189,88,KSV Cercle Brugge,Belgian Jupiler Pro League,2024,Left,,,,,,,GK,,2600000.0,0
+649,254513,C. Eriksson,61,66,26,191,81,Mjällby AIF,Swedish Allsvenskan,2021,Right,,,,,,,GK,,375000.0,0
+650,168435,S. Sirigu,82,82,34,192,85,Genoa,Italian Serie A,2022,Right,,,,,,,GK,,5000000.0,0
+651,241217,G. Hatano,66,72,23,198,97,FC Tokyo,Japanese J. League Division 1,2022,Right,,,,,,,GK,,1100000.0,0
+652,240493,A. Paschalakis,72,72,31,197,92,PAOK,Greek Super League,2022,Right,,,,,,,GK,,1200000.0,0
+653,199641,M. Sels,77,79,29,190,88,RC Strasbourg Alsace,French Ligue 1,2024,Right,,,,,,,GK,,8500000.0,0
+654,193244,B. Shuttleworth,66,66,34,188,93,Chicago Fire Football Club,USA Major League Soccer,2021,Right,,,,,,,GK,,150000.0,0
+655,254714,J. Espínola,70,74,26,185,89,Godoy Cruz,Argentina Primera División,2023,Right,,,,,,,GK,,1700000.0,0
+656,201035,M. Szromnik,66,67,28,190,80,Śląsk Wrocław,Polish T-Mobile Ekstraklasa,2024,Left,,,,,,,GK,,675000.0,0
+657,192119,T. Courtois,89,91,29,199,96,Real Madrid CF,Spain Primera Division,2026,Left,,,,,,,GK,,85500000.0,0
+658,234341,İ. Eğribayat,72,80,23,193,79,Göztepe SK,Turkish Süper Lig,2025,Right,,,,,,,GK,,4500000.0,0
+659,224836,V. Milinković-Savić,70,75,24,202,90,Torino F.C.,Italian Serie A,2024,Right,,,,,,,GK,,1900000.0,0
+660,234903,G. Coucke,67,74,22,187,77,KV Mechelen,Belgian Jupiler Pro League,2023,Right,,,,,,,GK,,1800000.0,0
+661,235124,S. Jurado,68,76,23,188,83,Cruz Azul,Mexican Liga MX,2022,Right,,,,,,,GK,,2300000.0,0
+662,202570,J. Maurer,68,68,32,189,84,FC Dallas,USA Major League Soccer,2021,Left,,,,,,,GK,,600000.0,0
+663,248325,T. Rehenesh,57,60,28,180,75,Jamshedpur FC,Indian Super League,2024,Right,,,,,,,GK,,150000.0,0
+664,178005,Rui Patrício,82,82,33,190,84,Roma,Italian Serie A,2024,Left,,,,,,,GK,,10000000.0,0
+665,260018,D. Odumosu,58,73,20,185,80,Drogheda United,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,425000.0,0
+666,244827,A. Duarte,67,69,27,185,76,Club Sporting Cristal,Peruvian Primera División,2022,Right,,,,,,,GK,,925000.0,0
+667,262621,G. Mamardashvili,75,83,20,199,88,Valencia CF,Spain Primera Division,2022,Left,,,,,,,GK,,10500000.0,0
+668,204842,Y. Brecher,70,73,28,196,88,FC Zürich,Swiss Super League,2023,Right,,,,,,,GK,,1500000.0,0
+669,216175,C. Stanković,73,75,28,186,80,AEK Athens,Greek Super League,2025,Right,,,,,,,GK,,2600000.0,0
+670,132740,J. Hansen,74,74,36,188,78,Aarhus GF,Danish Superliga,2023,Right,,,,,,,GK,,475000.0,0
+671,240091,G. Vicario,71,77,24,188,76,Empoli,Italian Serie A,2022,Right,,,,,,,GK,,2400000.0,0
+672,229255,Charles,70,73,27,186,80,FC Vizela,Portuguese Liga ZON SAGRES,2022,Right,,,,,,,GK,,1600000.0,0
+673,210422,K. Kamiński,65,65,30,191,81,Wisła Płock,Polish T-Mobile Ekstraklasa,2024,Right,,,,,,,GK,,475000.0,0
+674,241769,D. Akpeyi,74,74,35,189,86,Kaizer Chiefs,South African Premier Division,2022,Right,,,,,,,GK,,475000.0,0
+675,244551,F. Majchrowicz,59,68,21,194,99,Radomiak Radom,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,450000.0,0
+676,206218,P. Nardi,73,77,27,188,82,FC Lorient,French Ligue 1,2023,Right,,,,,,,GK,,3200000.0,0
+677,214983,M. Ibáñez,72,72,34,190,88,Patronato,Argentina Primera División,2022,Right,,,,,,,GK,,400000.0,0
+678,177683,Y. Sommer,85,85,32,183,79,Borussia Mönchengladbach,German 1. Bundesliga,2023,Right,,,,,,,GK,,26500000.0,0
+679,230320,Victorino Magela,74,74,21,188,85,Bahia,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,3700000.0,0
+680,221844,Shao Puliang,62,62,31,187,83,Shijiazhuang Ever Bright F.C.,Chinese Super League,2021,Right,,,,,,,GK,,210000.0,0
+681,186153,W. Szczęsny,87,87,31,195,90,Juventus,Italian Serie A,2024,Right,,,,,,,GK,,,0
+682,203423,L. Thomas,69,69,29,191,91,SønderjyskE,Danish Superliga,2022,Right,,,,,,,GK,,950000.0,0
+683,231878,T. Miller,68,71,28,193,93,Minnesota United FC,USA Major League Soccer,2022,Right,,,,,,,GK,,1100000.0,0
+684,205409,S. Sosa,78,78,34,179,79,Club Atlético Independiente,Argentina Primera División,2021,Right,,,,,,,GK,,2400000.0,0
+685,215316,G. Rulli,80,80,29,189,84,Villarreal CF,Spain Primera Division,2024,Right,,,,,,,GK,,14500000.0,0
+686,153275,J. Leca,75,75,35,180,75,Racing Club de Lens,French Ligue 1,2022,Right,,,,,,,GK,,625000.0,0
+687,49000,A. McGregor,77,77,39,183,74,Rangers FC,Scottish Premiership,2022,Right,,,,,,,GK,,1200000.0,0
+688,252699,M. Freke,53,65,22,193,76,Brisbane Roar,Australian Hyundai A-League,2022,Right,,,,,,,GK,,200000.0,0
+689,177299,A. Gabbarini,72,72,35,184,83,LDU Quito,Ecuadorian Serie A,2023,Right,,,,,,,GK,,250000.0,0
+690,247022,J. Zetterström,58,66,22,197,82,Djurgårdens IF,Swedish Allsvenskan,2022,Right,,,,,,,GK,,400000.0,0
+691,148526,P. Kieszek,73,73,37,187,82,Wisła Kraków,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,350000.0,0
+692,219522,J. Ledesma,77,80,28,186,83,Cádiz CF,Spain Primera Division,2025,Right,,,,,,,GK,,9500000.0,0
+693,211990,O. Vlachodimos,81,83,27,191,78,SL Benfica,Portuguese Liga ZON SAGRES,2024,Right,,,,,,,GK,,23500000.0,0
+694,253844,Y. Yustiz,65,67,29,185,75,Aragua Fútbol Club,Venezuelan Primera División,2021,Left,,,,,,,GK,,600000.0,0
+695,186508,A. Østbø,65,66,30,183,75,Viking FK,Norwegian Eliteserien,2022,Right,,,,,,,GK,,525000.0,0
+696,207683,S. Dioudis,75,77,28,189,75,Panathinaikos FC,Greek Super League,2023,Right,,,,,,,GK,,4800000.0,0
+697,163301,J. Orozco,75,75,35,184,81,Club Tijuana,Mexican Liga MX,2023,Right,,,,,,,GK,,625000.0,0
+698,200463,T. Melia,73,73,35,183,93,Sporting Kansas City,USA Major League Soccer,2022,Right,,,,,,,GK,,350000.0,0
+699,224475,Dong Chunyu,65,65,30,187,81,Wuhan FC,Chinese Super League,2021,Left,,,,,,,GK,,475000.0,0
+700,251771,D. Ojeda,55,65,20,192,80,AC Mineros de Guayana,Venezuelan Primera División,2022,Right,,,,,,,GK,,240000.0,0
+701,220901,David Raya,74,78,25,183,75,Brentford,English Premier League,2023,Right,,,,,,,GK,,4600000.0,0
+702,223550,J. Omlin,77,81,27,189,80,Montpellier Hérault SC,French Ligue 1,2024,Right,,,,,,,GK,,,0
+703,220048,S. Scuffet,72,75,25,193,77,APOEL Nicosia FC,Cypriot First Division,2023,Right,,,,,,,GK,,2400000.0,0
+704,176630,Marco Pereira,73,73,34,184,80,Santa Clara,Portuguese Liga ZON SAGRES,2024,Right,,,,,,,GK,,525000.0,0
+705,214730,I. González,69,69,31,187,80,CD Antofagasta,Chilian Campeonato Nacional,2022,Right,,,,,,,GK,,750000.0,0
+706,237580,D. Schmidt,69,70,29,196,90,Sint-Truidense VV,Belgian Jupiler Pro League,2023,Right,,,,,,,GK,,1100000.0,0
+707,231489,A. Keita,69,69,34,185,75,Östersunds FK,Swedish Allsvenskan,2024,Right,,,,,,,GK,,240000.0,0
+708,223760,A. Singh,63,66,28,186,80,ATK Mohun Bagan FC,Indian Super League,2026,Right,,,,,,,GK,,450000.0,0
+709,228413,E. Audero,78,81,24,192,83,U.C. Sampdoria,Italian Serie A,2026,Right,,,,,,,GK,,,0
+710,251818,L. Requena,68,68,33,186,80,Club de Deportes Cobresal,Chilian Campeonato Nacional,2021,Left,,,,,,,GK,,400000.0,0
+711,182494,F. Muslera,80,80,35,190,74,Galatasaray SK,Turkish Süper Lig,2024,Right,,,,,,,GK,,2300000.0,0
+712,162835,S. Handanovič,86,86,36,193,92,Inter,Italian Serie A,2022,Right,,,,,,,GK,,7500000.0,0
+713,183567,E. Mulder,69,69,32,193,88,SC Heerenveen,Holland Eredivisie,2022,Right,,,,,,,GK,,700000.0,0
+714,213483,S. Lukić,63,63,41,192,91,Varbergs BoIS FC,Swedish Allsvenskan,2021,Right,,,,,,,GK,,50000.0,0
+715,224251,R. Zentner,74,77,26,194,96,1. FSV Mainz 05,German 1. Bundesliga,2023,Right,,,,,,,GK,,4200000.0,0
+716,146748,Diego López,77,77,39,196,89,RCD Espanyol de Barcelona,Spain Primera Division,2022,Right,,,,,,,GK,,1200000.0,0
+717,189061,S. Burchert,72,72,31,187,78,SpVgg Greuther Fürth,German 1. Bundesliga,2022,Right,,,,,,,GK,,1200000.0,0
+718,198653,M. Silva,75,75,38,186,80,Club Libertad,Paraguayan Primera División,2021,Right,,,,,,,GK,,625000.0,0
+719,223175,O. Kocuk,69,72,25,188,78,GZT Giresunspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,1400000.0,0
+720,199730,D. Moldovan,63,63,31,183,72,AFC Chindia Târgoviște,Romanian Liga I,2022,Right,,,,,,,GK,,250000.0,0
+721,230182,Lucas Mantela,77,77,21,183,77,Palmeiras,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,9500000.0,0
+722,210257,Ederson,89,91,27,188,86,Manchester City,English Premier League,2026,Left,,,,,,,GK,,,0
+723,253791,C. Varela,62,72,21,189,73,Deportivo Táchira FC,Venezuelan Primera División,2022,Right,,,,,,,GK,,775000.0,0
+724,243647,A. Bayındır,77,84,23,198,73,Fenerbahçe SK,Turkish Süper Lig,2023,Right,,,,,,,GK,,,0
+725,202910,D. Mitov Nilsson,69,69,30,191,86,IK Sirius,Swedish Allsvenskan,2024,Right,,,,,,,GK,,925000.0,0
+726,213536,M. Crépeau,73,76,27,180,88,Vancouver Whitecaps FC,USA Major League Soccer,2022,Right,,,,,,,GK,,3000000.0,0
+727,226786,A. Bono,67,67,27,191,88,Toronto FC,USA Major League Soccer,2021,Right,,,,,,,GK,,775000.0,0
+728,239019,J. Delianov,61,71,21,188,87,Adelaide United,Australian Hyundai A-League,2022,Right,,,,,,,GK,,650000.0,0
+729,229541,Á. Montero,72,77,26,196,85,Club Deportes Tolima,Colombian Liga Postobón,2021,Right,,,,,,,GK,,2700000.0,0
+730,217231,L. Kattimani,56,56,32,180,72,Hyderabad FC,Indian Super League,2022,Right,,,,,,,GK,,70000.0,0
+731,244912,T. Sugeno,66,66,37,179,75,Hokkaido Consadole Sapporo,Japanese J. League Division 1,2022,Right,,,,,,,GK,,90000.0,0
+732,229817,R. Swete,68,68,31,186,79,TSV Egger Glas Hartberg,Austrian Football Bundesliga,2022,Left,,,,,,,GK,,650000.0,0
+733,257669,R. Strączek,64,74,22,190,77,PGE FKS Stal Mielec,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,1100000.0,0
+734,239342,H. Koffi,73,78,24,186,81,Royal Charleroi S.C.,Belgian Jupiler Pro League,2024,Right,,,,,,,GK,,3700000.0,0
+735,210832,M. Branderhorst,66,69,27,192,87,N.E.C. Nijmegen,Holland Eredivisie,2023,Right,,,,,,,GK,,850000.0,0
+736,259695,H. Espínola,61,61,29,182,85,Guaireña FC,Paraguayan Primera División,2021,Right,,,,,,,GK,,220000.0,0
+737,219584,L. Lezzerini,70,73,26,195,86,Venezia FC,Italian Serie A,2023,Right,,,,,,,GK,,1600000.0,0
+738,209805,D. Vaca,65,65,42,180,80,Club The Strongest,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,80000.0,0
+739,257794,F. Iacob,64,67,27,180,84,AFC UTA Arad,Romanian Liga I,2022,Right,,,,,,,GK,,575000.0,0
+740,230169,Vítor Angulho,70,70,25,182,77,Fortaleza,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,1300000.0,0
+741,237927,E. McGinty,64,71,21,194,83,Sligo Rovers,Rep. Ireland Airtricity League,2022,Left,,,,,,,GK,,1000000.0,0
+742,230180,Adrizinho Bastos,70,70,33,185,79,Cuiabá,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,525000.0,0
+743,233164,A. Murić,68,78,22,197,81,Adana Demirspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,2300000.0,0
+744,53110,C. Gordon,68,68,38,193,83,Heart of Midlothian,Scottish Premiership,2022,Left,,,,,,,GK,,130000.0,0
+745,215522,A. Schlager,74,78,25,184,77,LASK Linz,Austrian Football Bundesliga,2023,Right,,,,,,,GK,,4600000.0,0
+746,222274,Shi Xiaotian,62,62,31,190,79,Changchun Yatai FC,Chinese Super League,2021,Right,,,,,,,GK,,210000.0,0
+747,258085,E. Dos Santos Haesler,62,70,22,196,85,FC Nordsjælland,Danish Superliga,2022,Right,,,,,,,GK,,775000.0,0
+748,192448,M. ter Stegen,90,92,29,187,85,FC Barcelona,Spain Primera Division,2025,Right,,,,,,,GK,,,0
+749,204536,S. Libman,66,66,37,183,84,Universidad Técnica de Cajamarca,Peruvian Primera División,2021,Right,,,,,,,GK,,90000.0,0
+750,201976,A. Gomis,76,78,27,196,80,Stade Rennais FC,French Ligue 1,2025,Right,,,,,,,GK,,7000000.0,0
+751,238570,Song Bum Keun,67,76,23,194,88,Jeonbuk Hyundai Motors,Korean K League 1,2022,Right,,,,,,,GK,,2000000.0,0
+752,162220,S. Bolat,73,73,32,186,83,KAA Gent,Belgian Jupiler Pro League,2022,Right,,,,,,,GK,,1500000.0,0
+753,188524,V. Babacan,71,71,32,192,86,İstanbul Başakşehir FK,Turkish Süper Lig,2024,Right,,,,,,,GK,,925000.0,0
+754,224761,T. Loska,63,68,25,189,85,Bruk-Bet Termalica Nieciecza,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,550000.0,0
+755,210368,J. Duncan,62,63,28,189,85,Newcastle Jets,Australian Hyundai A-League,2024,Right,,,,,,,GK,,325000.0,0
+756,248860,S. Mustafá,65,65,31,187,75,Club Deportivo Guabirá,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,375000.0,0
+757,242656,I. Meslier,77,85,21,196,74,Leeds United,English Premier League,2026,Left,,,,,,,GK,,20500000.0,0
+758,204354,J. Alnwick,68,69,28,187,82,St. Mirren,Scottish Premiership,2022,Left,,,,,,,GK,,950000.0,0
+759,193912,S. Roy,58,58,34,183,80,NorthEast United FC,Indian Super League,2022,Right,,,,,,,GK,,35000.0,0
+760,176772,A. Oukidja,78,78,32,184,80,FC Metz,French Ligue 1,2023,Right,,,,,,,GK,,7000000.0,0
+761,216692,S. Torrico,73,73,41,183,84,San Lorenzo de Almagro,Argentina Primera División,2022,Right,,,,,,,GK,,350000.0,0
+762,167435,O. Ustari,72,72,34,183,76,Pachuca,Mexican Liga MX,2023,Right,,,,,,,GK,,400000.0,0
+763,224953,André Moreira,66,72,25,195,85,Grasshopper Club Zürich,Swiss Super League,2023,Right,,,,,,,GK,,1100000.0,0
+764,200159,S. Ortega,78,80,28,185,88,DSC Arminia Bielefeld,German 1. Bundesliga,2022,Right,,,,,,,GK,,,0
+765,200110,M. Bizot,77,78,30,193,83,Stade Brestois 29,French Ligue 1,2024,Right,,,,,,,GK,,8000000.0,0
+766,248284,A. Gomes,57,61,27,189,87,Kerala Blasters FC,Indian Super League,2023,Right,,,,,,,GK,,170000.0,0
+767,225406,J. Talbot,66,73,24,180,80,Bohemian FC,Rep. Ireland Airtricity League,2022,Left,,,,,,,GK,,1500000.0,0
+768,244467,O. Kolář,78,82,26,193,81,SK Slavia Praha,Czech Republic Gambrinus Liga,2024,Right,,,,,,,GK,,,0
+769,209895,M. Acton,61,63,29,184,85,Melbourne Victory,Australian Hyundai A-League,2023,Right,,,,,,,GK,,275000.0,0
+770,233791,A. Maksimenko,74,81,23,187,82,Spartak Moskva,Russian Premier League,2023,Left,,,,,,,GK,,7000000.0,0
+771,164853,A. Federici,70,70,36,188,90,Macarthur FC,Australian Hyundai A-League,2022,Right,,,,,,,GK,,180000.0,0
+772,186990,H. González,72,72,30,182,77,Fútbol Club Juárez,Mexican Liga MX,2022,Right,,,,,,,GK,,1600000.0,0
+773,237250,S. Cleveland,62,65,27,188,84,Seattle Sounders FC,USA Major League Soccer,2021,Left,,,,,,,GK,,400000.0,0
+774,247561,Guo Wei,58,58,31,190,77,Shenzhen FC,Chinese Super League,2022,Right,,,,,,,GK,,110000.0,0
+775,224348,L. Hoyos,74,74,32,183,76,Vélez Sarsfield,Argentina Primera División,2022,Right,,,,,,,GK,,2100000.0,0
+776,223709,A. Vural,69,69,30,187,68,Demir Grup Sivasspor,Turkish Süper Lig,2024,Right,,,,,,,GK,,925000.0,0
+777,256161,W. Ramírez,67,79,20,188,68,Independiente del Valle,Ecuadorian Serie A,2023,Right,,,,,,,GK,,2100000.0,0
+778,227570,L. Steacy,57,58,28,185,83,Longford Town,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,130000.0,0
+779,248025,A. Greab,63,63,29,196,90,Campionii FC Arges,Romanian Liga I,2022,Right,,,,,,,GK,,325000.0,0
+780,224003,Sergio Herrera,78,80,28,192,82,CA Osasuna,Spain Primera Division,2023,Right,,,,,,,GK,,,0
+781,226423,N. Gartside,58,68,23,182,69,Derry City,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,400000.0,0
+782,237525,A. Bodart,73,79,23,186,80,Standard de Liège,Belgian Jupiler Pro League,2025,Right,,,,,,,GK,,3900000.0,0
+783,204308,H. Van Crombrugge,76,78,28,188,88,RSC Anderlecht,Belgian Jupiler Pro League,2025,Left,,,,,,,GK,,6500000.0,0
+784,230621,G. Donnarumma,89,93,22,196,90,Paris Saint-Germain,French Ligue 1,2026,Right,,,,,,,GK,,119500000.0,0
+785,253842,G. Schiavone,65,67,28,184,70,Metropolitanos de Caracas FC,Venezuelan Primera División,2022,Right,,,,,,,GK,,600000.0,0
+786,230175,Freder Cabral,73,73,29,188,83,Clube Atlético Mineiro,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,2100000.0,0
+787,217646,S. Nishikawa,69,69,35,183,81,Urawa Red Diamonds,Japanese J. League Division 1,2022,Left,,,,,,,GK,,150000.0,0
+788,225203,L. Kelly,69,74,25,189,83,Motherwell,Scottish Premiership,2024,Right,,,,,,,GK,,1600000.0,0
+789,253012,L. Morales,72,85,21,187,76,Club Atlético Lanús,Argentina Primera División,2023,Right,,,,,,,GK,,5000000.0,0
+790,176919,N. Guzmán,79,79,35,193,94,Tigres U.A.N.L.,Mexican Liga MX,2022,Right,,,,,,,GK,,1900000.0,0
+791,241206,D. Maekawa,65,68,26,191,86,Vissel Kobe,Japanese J. League Division 1,2022,Right,,,,,,,GK,,725000.0,0
+792,259769,M. Heredia,65,65,35,189,87,Carlos A. Mannucci,Peruvian Primera División,2021,Right,,,,,,,GK,,80000.0,0
+793,205530,M. Pigliacelli,71,71,28,184,83,Universitatea Craiova,Romanian Liga I,2022,Right,,,,,,,GK,,1300000.0,0
+794,190669,O. Jansson,71,72,30,187,82,IFK Norrköping,Swedish Allsvenskan,2021,Right,,,,,,,GK,,1400000.0,0
+795,235073,G. Kobel,79,84,23,195,88,Borussia Dortmund,German 1. Bundesliga,2026,Right,,,,,,,GK,,21500000.0,0
+796,222389,N. Haikin,68,73,25,185,68,FK Bodø/Glimt,Norwegian Eliteserien,2022,Right,,,,,,,GK,,1400000.0,0
+797,246740,G. Dietsch,64,75,20,184,73,Seraing,Belgian Jupiler Pro League,2022,Right,,,,,,,GK,,1100000.0,0
+798,2147,M. Stekelenburg,76,76,38,197,92,Ajax,Holland Eredivisie,2022,Right,,,,,,,GK,,825000.0,0
+799,206307,J. Frick,71,73,28,192,90,Servette FC,Swiss Super League,2024,Left,,,,,,,GK,,1600000.0,0
+800,221798,Fang Jingqi,60,62,28,188,76,Tianjin Jinmen Tiger FC,Chinese Super League,2021,Right,,,,,,,GK,,210000.0,0
+801,189690,Guaita,80,80,34,190,80,Crystal Palace,English Premier League,2023,Right,,,,,,,GK,,3600000.0,0
+802,193277,J. Siebenhandl,72,72,31,183,81,SK Sturm Graz,Austrian Football Bundesliga,2023,Left,,,,,,,GK,,1200000.0,0
+803,178086,Adán,81,81,34,190,86,Sporting CP,Portuguese Liga ZON SAGRES,2022,Left,,,,,,,GK,,4400000.0,0
+804,250842,J. Graterol,72,78,24,182,73,América de Cali,Colombian Liga Postobón,2022,Right,,,,,,,GK,,3000000.0,0
+805,204092,J. Blaswich,72,73,30,193,88,Heracles Almelo,Holland Eredivisie,2022,Right,,,,,,,GK,,1800000.0,0
+806,231691,A. Lafont,78,83,22,196,90,FC Nantes,French Ligue 1,2024,Right,,,,,,,GK,,17500000.0,0
+807,209990,R. Strebinger,72,74,28,194,90,SK Rapid Wien,Austrian Football Bundesliga,2022,Right,,,,,,,GK,,2000000.0,0
+808,226300,U. Çakır,79,83,25,191,82,Trabzonspor,Turkish Süper Lig,2025,Right,,,,,,,GK,,,0
+809,226675,F. Lanzillotta,66,69,28,185,80,Argentinos Juniors,Argentina Primera División,2023,Right,,,,,,,GK,,800000.0,0
+810,228279,J. Drommel,75,81,24,193,90,PSV,Holland Eredivisie,2026,Right,,,,,,,GK,,7000000.0,0
+811,251503,Mateus Pasinato,72,72,29,192,86,Moreirense FC,Portuguese Liga ZON SAGRES,2023,Right,,,,,,,GK,,1600000.0,0
+812,259166,E. Green,72,81,20,190,78,AS Saint-Étienne,French Ligue 1,2025,Right,,,,,,,GK,,4400000.0,0
+813,234383,M. Schubert,69,76,23,187,82,Vitesse,Holland Eredivisie,2024,Right,,,,,,,GK,,2400000.0,0
+814,260021,M. Cardozo,66,66,38,178,71,12 de Octubre FC,Paraguayan Primera División,2021,Right,,,,,,,GK,,90000.0,0
+815,197928,J. Bond,68,70,28,193,84,LA Galaxy,USA Major League Soccer,2022,Right,,,,,,,GK,,1000000.0,0
+816,210941,Lee Chang Geun,67,67,27,186,75,Jeju United FC,Korean K League 1,2021,Right,,,,,,,GK,,775000.0,0
+817,182076,Liu Zhenli,58,58,36,194,97,Qingdao FC,Chinese Super League,2021,Right,,,,,,,GK,,25000.0,0
+818,234833,F. Müller,77,82,23,190,88,VfB Stuttgart,German 1. Bundesliga,2025,Left,,,,,,,GK,,,0
+819,203004,Yang Han Been,69,70,29,195,90,FC Seoul,Korean K League 1,2023,Right,,,,,,,GK,,1100000.0,0
+820,169181,K. Vermeer,68,68,35,181,78,FC Cincinnati,USA Major League Soccer,2022,Right,,,,,,,GK,,130000.0,0
+821,230170,Jaim Abra,73,73,29,188,81,Associação Chapecoense de Futebol,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,2100000.0,0
+822,163587,K. Schmeichel,85,85,34,189,89,Leicester City,English Premier League,2023,Right,,,,,,,GK,,9000000.0,0
+823,257640,A. Lis,64,66,29,192,78,Warta Poznań,Polish T-Mobile Ekstraklasa,2023,Right,,,,,,,GK,,475000.0,0
+824,234642,É. Mendy,83,85,29,197,86,Chelsea,English Premier League,2025,Right,,,,,,,GK,,30000000.0,0
+825,189084,E. Room,74,74,32,188,81,Columbus Crew,USA Major League Soccer,2021,Right,,,,,,,GK,,2100000.0,0
+826,253847,W. Aguerre,68,70,28,187,85,Gallos Blancos de Querétaro,Mexican Liga MX,2025,Right,,,,,,,GK,,1000000.0,0
+827,247736,C. Olses,64,81,20,193,78,Deportivo La Guaira FC,Venezuelan Primera División,2023,Right,,,,,,,GK,,1400000.0,0
+828,200316,T. Horn,76,78,28,192,90,1. FC Köln,German 1. Bundesliga,2023,Left,,,,,,,GK,,6500000.0,0
+829,230204,Héniton Pires,80,80,25,182,74,Flamengo,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,,0
+830,262424,S. Mogoșanu,58,60,28,180,77,FC U Craiova 1948,Romanian Liga I,2023,Right,,,,,,,GK,,170000.0,0
+831,227127,Álex Remiro,81,84,26,191,83,Real Sociedad,Spain Primera Division,2023,Right,,,,,,,GK,,,0
+832,192201,P. Abrahamsson,68,68,32,190,90,BK Häcken,Swedish Allsvenskan,2023,Right,,,,,,,GK,,600000.0,0
+833,211262,M. Vicentini,66,66,30,187,86,Club Atlético Sarmiento,Argentina Primera División,2022,Right,,,,,,,GK,,575000.0,0
+834,238526,K. Tani,67,76,20,187,84,Shonan Bellmare,Japanese J. League Division 1,2022,Right,,,,,,,GK,,1900000.0,0
+835,224702,Liu Dianzuo,68,68,31,190,81,Guangzhou FC,Chinese Super League,2021,Right,,,,,,,GK,,650000.0,0
+836,164484,J. Dahlin,71,71,34,192,94,Malmö FF,Swedish Allsvenskan,2023,Right,,,,,,,GK,,325000.0,0
+837,188943,K. Trapp,82,82,30,189,88,Eintracht Frankfurt,German 1. Bundesliga,2024,Right,,,,,,,GK,,20500000.0,0
+838,202789,A. Schwolow,77,79,29,190,84,Hertha BSC,German 1. Bundesliga,2024,Right,,,,,,,GK,,8500000.0,0
+839,260829,A. Abibi,56,62,24,195,89,Dundalk FC,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,180000.0,0
+840,233154,S. Takagi,66,66,32,181,76,Oita Trinita,Japanese J. League Division 1,2022,Left,,,,,,,GK,,425000.0,0
+841,179573,A. Kristiansen,64,64,31,185,74,Sarpsborg 08 FF,Norwegian Eliteserien,2024,Right,,,,,,,GK,,300000.0,0
+842,260323,M. Murakami,63,64,28,185,85,Avispa Fukuoka,Japanese J. League Division 1,2022,Right,,,,,,,GK,,375000.0,0
+843,171146,R. M'Bolhi,71,71,35,191,88,Ettifaq FC,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,210000.0,0
+844,228383,K. Grabara,70,78,22,195,80,F.C. København,Danish Superliga,2026,Right,,,,,,,GK,,3100000.0,0
+845,251057,O. Vâlceanu,67,71,24,187,77,Gaz Metan Mediaş,Romanian Liga I,2022,Right,,,,,,,GK,,1200000.0,0
+846,232654,L. Malagón,70,78,24,181,75,Club Necaxa,Mexican Liga MX,2022,Right,,,,,,,GK,,3100000.0,0
+847,215533,S. Stevens,67,69,29,194,93,SC Cambuur,Holland Eredivisie,2022,Right,,,,,,,GK,,850000.0,0
+848,213206,B. Stuver,66,66,30,191,81,Austin FC,USA Major League Soccer,2021,Right,,,,,,,GK,,575000.0,0
+849,212973,M. Marić,67,72,25,191,89,Houston Dynamo,USA Major League Soccer,2021,Left,,,,,,,GK,,1200000.0,0
+850,194333,R. Gikiewicz,79,79,33,190,81,FC Augsburg,German 1. Bundesliga,2023,Right,,,,,,,GK,,5500000.0,0
+851,140420,B. Murphy,61,61,38,183,83,Waterford FC,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,35000.0,0
+852,230168,Raphaelinho Anjos,82,82,33,190,85,RB Bragantino,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,10000000.0,0
+853,164505,B. Guzan,69,69,36,193,95,Atlanta United,USA Major League Soccer,2023,Left,,,,,,,GK,,150000.0,0
+854,170597,T. Krul,77,77,33,188,74,Norwich City,English Premier League,2024,Left,,,,,,,GK,,3400000.0,0
+855,163616,J. Young,68,68,35,180,83,Western United FC,Australian Hyundai A-League,2023,Left,,,,,,,GK,,130000.0,0
+856,224543,M. Stryjek,64,70,24,188,82,Livingston FC,Scottish Premiership,2023,Right,,,,,,,GK,,750000.0,0
+857,222229,Yang Hyung Mo,64,65,29,185,84,Suwon Samsung Bluewings,Korean K League 1,2022,Left,,,,,,,GK,,450000.0,0
+858,193336,V. Belec,73,73,31,193,84,US Salernitana 1919,Italian Serie A,2023,Right,,,,,,,GK,,1600000.0,0
+859,223952,David Soria,81,82,28,192,85,Getafe CF,Spain Primera Division,2022,Right,,,,,,,GK,,20500000.0,0
+860,256953,X. Dziekoński,63,80,17,188,78,Jagiellonia Białystok,Polish T-Mobile Ekstraklasa,2023,Right,,,,,,,GK,,1100000.0,0
+861,241727,P. Rajković,78,83,25,191,85,Stade de Reims,French Ligue 1,2023,Right,,,,,,,GK,,16500000.0,0
+862,173178,Manolo Reina,73,73,36,186,81,RCD Mallorca,Spain Primera Division,2022,Right,,,,,,,GK,,350000.0,0
+863,230317,Fred Aníbão,76,76,29,192,90,Club Athletico Paranaense,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,5000000.0,0
+864,210140,A. Al Mayoof,68,68,34,189,92,Al Hilal,Saudi Abdul L. Jameel League,2023,Right,,,,,,,GK,,210000.0,0
+865,245370,E. Destanoğlu,72,80,20,195,88,Beşiktaş JK,Turkish Süper Lig,2023,Right,,,,,,,GK,,4400000.0,0
+866,199833,L. Unnerstall,74,74,30,198,103,FC Twente,Holland Eredivisie,2025,Right,,,,,,,GK,,2800000.0,0
+867,253090,M. Lukov,65,66,27,188,83,Al Tai,Saudi Abdul L. Jameel League,2023,Right,,,,,,,GK,,600000.0,0
+868,214761,A. Giménez,66,66,34,195,80,Club Deportivo Jorge Wilstermann,Liga de Fútbol Profesional Boliviano,2022,Left,,,,,,,GK,,150000.0,0
+869,222514,F. Woodman,74,81,24,190,83,Newcastle United,English Premier League,2023,Right,,,,,,,GK,,7000000.0,0
+870,142616,J. De Olivera,69,69,38,194,92,Platense,Argentina Primera División,2022,Right,,,,,,,GK,,150000.0,0
+871,224599,Yan Junling,73,73,30,191,83,Shanghai Port FC,Chinese Super League,2025,Right,,,,,,,GK,,2000000.0,0
+872,186488,Li Shuai,63,63,38,193,88,Shanghai Shenhua FC,Chinese Super League,2021,Right,,,,,,,GK,,50000.0,0
+873,230323,Kaíquão Castro,75,75,25,190,88,Fluminense,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,4600000.0,0
+874,156507,I. Vázquez,66,66,38,182,80,Club León,Mexican Liga MX,2025,Left,,,,,,,GK,,90000.0,0
+875,184167,A. Moris,69,69,31,186,79,Royale Union Saint-Gilloise,Belgian Jupiler Pro League,2023,Left,,,,,,,GK,,750000.0,0
+876,253428,V. Jaroš,62,76,19,190,74,St. Patrick's Athletic,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,825000.0,0
+877,253955,Han Jiaqi,57,67,21,185,76,Guangzhou City,Chinese Super League,2023,Right,,,,,,,GK,,325000.0,0
+878,228912,B. Allain,67,67,29,185,77,Örebro SK,Swedish Allsvenskan,2022,Right,,,,,,,GK,,700000.0,0
+879,212831,Alisson,89,90,28,191,91,Liverpool,English Premier League,2027,Right,,,,,,,GK,,,0
+880,24630,Pepe Reina,78,78,38,188,92,Lazio,Italian Serie A,2022,Right,,,,,,,GK,,1600000.0,0
+881,190778,J. Zoet,75,75,30,189,88,Spezia,Italian Serie A,2022,Right,,,,,,,GK,,3700000.0,0
+882,105846,A. Boruc,70,70,41,193,88,Legia Warszawa,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,180000.0,0
+883,213407,M. Macey,66,69,26,198,93,Hibernian,Scottish Premiership,2023,Right,,,,,,,GK,,850000.0,0
+884,232110,T. Glover,66,74,23,190,90,Melbourne City FC,Australian Hyundai A-League,2023,Right,,,,,,,GK,,1600000.0,0
+885,205386,G. Hubert,69,72,27,198,88,KV Oostende,Belgian Jupiler Pro League,2023,Right,,,,,,,GK,,1400000.0,0
+886,221584,J. Rinne,73,76,28,188,86,Aalborg BK,Danish Superliga,2022,Left,,,,,,,GK,,2800000.0,0
+887,231545,Miguel Silva,74,79,26,189,82,Clube Sport Marítimo,Portuguese Liga ZON SAGRES,2024,Right,,,,,,,GK,,4900000.0,0
+888,246806,Park Il Gyu,68,68,31,180,76,Sagan Tosu,Japanese J. League Division 1,2022,Right,,,,,,,GK,,650000.0,0
+889,191827,Yoo Hyun,63,63,36,184,82,Suwon FC,Korean K League 1,2021,Right,,,,,,,GK,,50000.0,0
+890,201847,L. Bostyn,68,70,27,196,86,SV Zulte Waregem,Belgian Jupiler Pro League,2025,Right,,,,,,,GK,,1100000.0,0
+891,259296,N. Rossi,65,72,23,186,77,Club Atlético Rentistas,Uruguayan Primera División,2021,Right,,,,,,,GK,,1200000.0,0
+892,230328,Pierrino Faria,76,76,37,190,82,Santos,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,825000.0,0
+893,173426,S. Mignolet,80,80,33,193,87,Club Brugge KV,Belgian Jupiler Pro League,2025,Right,,,,,,,GK,,7000000.0,0
+894,214076,N. Vikonis,75,75,37,184,88,Mazatlán Futbol Club,Mexican Liga MX,2023,Left,,,,,,,GK,,625000.0,0
+895,247626,D. Singh Moirangthem,57,71,20,180,70,FC Goa,Indian Super League,2024,Right,,,,,,,GK,,350000.0,0
+896,241671,D. Livaković,82,87,26,187,79,Dinamo Zagreb,Croatian Prva HNL,2024,Right,,,,,,,GK,,,0
+897,177644,Kiko Casilla,73,73,34,190,86,Elche CF,Spain Primera Division,2022,Right,,,,,,,GK,,525000.0,0
+898,248018,A. Vlad,67,73,22,190,85,FCSB (Steaua),Romanian Liga I,2023,Right,,,,,,,GK,,1300000.0,0
+899,204269,Z. Clark,67,69,29,193,80,St. Johnstone FC,Scottish Premiership,2022,Right,,,,,,,GK,,850000.0,0
+900,180337,M. Vanhamel,69,69,31,188,84,K Beerschot VA,Belgian Jupiler Pro League,2024,Right,,,,,,,GK,,750000.0,0
+901,242774,Y. Oki,67,75,21,184,82,Kashima Antlers,Japanese J. League Division 1,2022,Right,,,,,,,GK,,2000000.0,0
+902,203841,N. Pope,83,83,29,199,76,Burnley,English Premier League,2023,Right,,,,,,,GK,,,0
+903,208375,M. Müller,76,79,27,192,92,FC Luzern,Swiss Super League,2022,Right,,,,,,,GK,,7500000.0,0
+904,263032,V. Kovacević,68,75,23,192,81,Raków Częstochowa,Polish T-Mobile Ekstraklasa,2024,Right,,,,,,,GK,,2100000.0,0
+905,240489,M. Christiansen,61,77,20,186,76,Lillestrøm SK,Norwegian Eliteserien,2023,Right,,,,,,,GK,,750000.0,0
+906,248000,E. Pap,65,67,27,182,82,FC Botoşani,Romanian Liga I,2022,Right,,,,,,,GK,,650000.0,0
+907,226379,M. Díaz,75,75,35,187,87,Club Atlético Huracán,Argentina Primera División,2023,Right,,,,,,,GK,,625000.0,0
+908,210502,M. Kuttin,67,68,27,194,94,RZ Pellets Wolfsberger AC,Austrian Football Bundesliga,2022,Right,,,,,,,GK,,875000.0,0
+909,156433,A. Talavera,78,78,38,186,85,Club Universidad Nacional,Mexican Liga MX,2022,Right,,,,,,,GK,,1600000.0,0
+910,189357,C. Toselli,70,70,33,183,75,Club Deportivo Palestino,Chilian Campeonato Nacional,2022,Right,,,,,,,GK,,525000.0,0
+911,182023,Deng Xiaofei,64,64,38,190,82,Chongqing Liangjiang Athletic,Chinese Super League,2022,Right,,,,,,,GK,,60000.0,0
+912,193870,Pedro Trigueira,72,72,33,192,84,CD Tondela,Portuguese Liga ZON SAGRES,2022,Right,,,,,,,GK,,750000.0,0
+913,209166,M. Malaeka,66,66,35,185,82,Al Faisaly,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,90000.0,0
+914,236239,A. Whiteman,64,75,22,189,84,Degerfors IF,Swedish Allsvenskan,2021,Right,,,,,,,GK,,1100000.0,0
+915,193247,H. Lindner,74,74,30,188,82,FC Basel 1893,Swiss Super League,2023,Right,,,,,,,GK,,2800000.0,0
+916,242879,M. Vandevoordt,71,87,19,190,79,KRC Genk,Belgian Jupiler Pro League,2023,Right,,,,,,,GK,,4300000.0,0
+917,242084,Carlos Miguel,69,75,24,192,88,New York Red Bulls,USA Major League Soccer,2021,Right,,,,,,,GK,,1800000.0,0
+918,205942,S. Lung,73,73,32,189,78,Yukatel Kayserispor,Turkish Süper Lig,2022,Right,,,,,,,GK,,1500000.0,0
+919,176526,L. Burián,76,76,37,188,81,Club Atlético Colón,Argentina Primera División,2022,Right,,,,,,,GK,,825000.0,0
+920,142721,M. Barovero,71,71,37,182,74,Club Atlético de San Luis,Mexican Liga MX,2025,Right,,,,,,,GK,,210000.0,0
+921,217813,G. Lajud,70,74,27,189,84,Santos Laguna,Mexican Liga MX,2023,Right,,,,,,,GK,,1700000.0,0
+922,251498,J. Rojas,67,73,25,185,86,Club Bolívar,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,1300000.0,0
+923,222600,Lee Tae Hee,63,68,26,188,87,Incheon United FC,Korean K League 1,2023,Right,,,,,,,GK,,550000.0,0
+924,230318,Nelsildo Reis,76,79,21,190,88,Ceará Sporting Club,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,8000000.0,0
+925,193152,Herrerín,75,75,33,187,89,Al Raed,Saudi Abdul L. Jameel League,2023,Right,,,,,,,GK,,1800000.0,0
+926,164835,Ł. Fabiański,82,82,36,190,83,West Ham United,English Premier League,2022,Right,,,,,,,GK,,3400000.0,0
+927,238033,F. Niță,76,76,33,184,78,AC Sparta Praha,Czech Republic Gambrinus Liga,2023,Right,,,,,,,GK,,2400000.0,0
+928,215048,J. Burrai,74,74,30,188,82,Barcelona Sporting Club,Ecuadorian Serie A,2023,Right,,,,,,,GK,,2800000.0,0
+929,256742,L. Lund,60,70,21,195,81,Viborg FF,Danish Superliga,2023,Right,,,,,,,GK,,475000.0,0
+930,193359,R. Romo,68,68,31,197,85,Oud-Heverlee Leuven,Belgian Jupiler Pro League,2022,Right,,,,,,,GK,,650000.0,0
+931,209532,D. Bachmann,70,73,26,191,81,Watford,English Premier League,2024,Right,,,,,,,GK,,1600000.0,0
+932,261466,M. Silva,60,70,20,182,79,Academia Puerto Cabello,Venezuelan Primera División,2025,Right,,,,,,,GK,,475000.0,0
+933,189908,Ł. Skorupski,75,76,30,187,84,Bologna,Italian Serie A,2023,Right,,,,,,,GK,,4200000.0,0
+934,207926,A. Linde,73,76,27,196,93,Molde FK,Norwegian Eliteserien,2021,Right,,,,,,,GK,,3000000.0,0
+935,227275,A. Rossi,77,82,25,195,95,Boca Juniors,Argentina Primera División,2023,Right,,,,,,,GK,,12500000.0,0
+936,247611,E. Selvik,63,71,23,187,75,FK Haugesund,Norwegian Eliteserien,2024,Left,,,,,,,GK,,925000.0,0
+937,225993,O. Sail,67,71,25,194,80,Wellington Phoenix,Australian Hyundai A-League,2023,Right,,,,,,,GK,,1100000.0,0
+938,193698,O. Baumann,82,82,31,187,82,TSG Hoffenheim,German 1. Bundesliga,2023,Right,,,,,,,GK,,,0
+939,216750,P. Carlgren,71,71,29,188,84,Randers FC,Danish Superliga,2024,Right,,,,,,,GK,,1300000.0,0
+940,242514,F. Plach,71,72,29,192,80,Piast Gliwice,Polish T-Mobile Ekstraklasa,2022,Left,,,,,,,GK,,1400000.0,0
+941,216939,A. Blake,76,76,30,188,79,Philadelphia Union,USA Major League Soccer,2024,Right,,,,,,,GK,,5000000.0,0
+942,221909,J. Staněk,73,79,25,191,84,FC Viktoria Plzeň,Czech Republic Gambrinus Liga,2023,Right,,,,,,,GK,,3800000.0,0
+943,221610,D. Dibusz,73,73,30,188,81,Ferencvárosi TC,Hungarian Nemzeti Bajnokság I,2023,Right,,,,,,,GK,,2000000.0,0
+944,211053,L. Johansson,65,69,26,189,79,Kalmar FF,Swedish Allsvenskan,2021,Right,,,,,,,GK,,775000.0,0
+945,200696,H. Verhulst,67,70,28,191,92,AZ Alkmaar,Holland Eredivisie,2023,Left,,,,,,,GK,,950000.0,0
+946,242969,N. Baumann,73,79,25,192,83,FC Lugano,Swiss Super League,2022,Right,,,,,,,GK,,3800000.0,0
+947,248019,R. Ducan,59,67,20,192,82,CS Mioveni,Romanian Liga I,2023,Right,,,,,,,GK,,425000.0,0
+948,248858,T. Fayulu,62,74,21,192,84,FC Sion,Swiss Super League,2023,Right,,,,,,,GK,,850000.0,0
+949,206272,C. Bălgrădean,69,69,33,186,88,CFR Cluj,Romanian Liga I,2022,Right,,,,,,,GK,,450000.0,0
+950,226285,R. Gudiño,72,74,25,196,92,Club Deportivo Guadalajara,Mexican Liga MX,2026,Right,,,,,,,GK,,2200000.0,0
+951,202811,E. Martínez,84,85,28,195,88,Aston Villa,English Premier League,2024,Right,,,,,,,GK,,33500000.0,0
+952,253990,J. Roca,65,72,22,187,80,Club Atlético Nacional Potosí,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,1200000.0,0
+953,251449,Brian Araújo,64,74,21,188,80,Gil Vicente FC,Portuguese Liga ZON SAGRES,2022,Right,,,,,,,GK,,1100000.0,0
+954,192563,B. Leno,83,84,29,190,83,Arsenal,English Premier League,2023,Right,,,,,,,GK,,,0
+955,156253,J. Lewis,70,70,33,198,85,Aberdeen,Scottish Premiership,2024,Right,,,,,,,GK,,525000.0,0
+956,228505,P. Pentz,72,80,24,182,81,FK Austria Wien,Austrian Football Bundesliga,2022,Left,,,,,,,GK,,4500000.0,0
+957,182224,Wang Dalei,71,71,32,185,75,Shandong Taishan,Chinese Super League,2021,Right,,,,,,,GK,,925000.0,0
+958,260309,J. Pucheta,67,69,29,184,83,Club Social y Deportivo Macará,Ecuadorian Serie A,2021,Right,,,,,,,GK,,850000.0,0
+959,253688,M. Popa,60,73,20,190,82,FC Voluntari,Romanian Liga I,2023,Right,,,,,,,GK,,525000.0,0
+960,225213,G. Singh Sandhu,64,66,29,197,92,Bengaluru FC,Indian Super League,2023,Right,,,,,,,GK,,475000.0,0
+961,246398,S. Rojas,70,76,25,185,80,Club Nacional,Paraguayan Primera División,2024,Right,,,,,,,GK,,2000000.0,0
+962,223843,D. Frascarelli,70,70,36,189,82,Sociedad Deportiva Aucas,Ecuadorian Serie A,2022,Right,,,,,,,GK,,180000.0,0
+963,200389,J. Oblak,91,93,28,188,87,Atlético de Madrid,Spain Primera Division,2023,Right,,,,,,,GK,,,0
+964,251511,M. Zeghba,70,71,30,190,90,Damac FC,Saudi Abdul L. Jameel League,2023,Left,,,,,,,GK,,1200000.0,0
+965,235606,J. Karlstrøm,60,68,24,200,90,Tromsø IL,Norwegian Eliteserien,2022,Right,,,,,,,GK,,475000.0,0
+966,163705,S. Mandanda,81,81,36,185,82,Olympique de Marseille,French Ligue 1,2024,Right,,,,,,,GK,,2900000.0,0
+967,260967,A. Păun,54,70,20,181,80,FC Academica Clinceni,Romanian Liga I,2024,Right,,,,,,,GK,,250000.0,0
+968,190745,M. Silvestri,79,79,30,191,80,Udinese Calcio,Italian Serie A,2024,Right,,,,,,,GK,,11500000.0,0
+969,192665,A. Luthe,76,76,34,195,85,1. FC Union Berlin,German 1. Bundesliga,2024,Right,,,,,,,GK,,1300000.0,0
+970,236963,R. Niczuly,66,71,25,181,76,Sepsi OSK Sf. Gheorghe,Romanian Liga I,2022,Right,,,,,,,GK,,1000000.0,0
+971,136686,Kim Young Kwang,68,68,38,183,87,Seongnam FC,Korean K League 1,2021,Right,,,,,,,GK,,130000.0,0
+972,223925,A. Brunst,66,69,25,195,88,Vejle Boldklub,Danish Superliga,2022,Right,,,,,,,GK,,875000.0,0
+973,214979,J. Musso,81,83,27,191,93,Atalanta,Italian Serie A,2025,Right,,,,,,,GK,,23500000.0,0
+974,239271,G. Anestis,69,70,30,198,93,IFK Göteborg,Swedish Allsvenskan,2021,Right,,,,,,,GK,,1000000.0,0
+975,221912,Kang Hyeon Mu,72,74,26,185,78,Pohang Steelers,Korean K League 1,2022,Right,,,,,,,GK,,2200000.0,0
+976,222511,E. Unsain,75,78,26,188,83,Defensa y Justicia,Argentina Primera División,2023,Right,,,,,,,GK,,5500000.0,0
+977,191153,M. Sandberg,67,68,30,191,80,Stabæk Fotball,Norwegian Eliteserien,2022,Right,,,,,,,GK,,775000.0,0
+978,166764,T. Carson,66,66,33,182,80,Dundee United,Scottish Premiership,2023,Right,,,,,,,GK,,275000.0,0
+979,250916,E. Vaessen,64,69,25,189,84,RKC Waalwijk,Holland Eredivisie,2022,Right,,,,,,,GK,,675000.0,0
+980,229637,G. Akkan,72,73,26,186,80,Çaykur Rizespor,Turkish Süper Lig,2022,Right,,,,,,,GK,,2100000.0,0
+981,238969,R. Laidlaw,62,63,28,201,85,Ross County FC,Scottish Premiership,2023,Right,,,,,,,GK,,325000.0,0
+982,232229,J. Bijlow,77,85,23,188,76,Feyenoord,Holland Eredivisie,2025,Right,,,,,,,GK,,20000000.0,0
+983,193080,De Gea,84,84,30,192,82,Manchester United,English Premier League,2023,Right,,,,,,,GK,,,0
+984,193272,S. Şahin-Radlinger,67,69,28,196,94,SV Ried,Austrian Football Bundesliga,2023,Right,,,,,,,GK,,875000.0,0
+985,222431,J. Storevik,66,72,24,188,83,Sandefjord Fotball,Norwegian Eliteserien,2022,Right,,,,,,,GK,,1100000.0,0
+986,202089,L. Mejía,75,75,30,190,80,Centro Atlético Fénix,Uruguayan Primera División,2021,Left,,,,,,,GK,,3700000.0,0
+987,180714,Guilherme,77,77,35,195,95,FC Lokomotiv Moscow,Russian Premier League,2022,Right,,,,,,,GK,,1200000.0,0
+988,229501,Victor Braga,68,70,29,193,85,FC Arouca,Portuguese Liga ZON SAGRES,2022,Right,,,,,,,GK,,1000000.0,0
+989,217649,S. Gonda,70,70,32,187,83,Shimizu S-Pulse,Japanese J. League Division 1,2021,Right,,,,,,,GK,,800000.0,0
+990,176550,D. Ospina,79,79,32,183,80,Napoli,Italian Serie A,2022,Right,,,,,,,GK,,8500000.0,0
+991,242703,J. Marcinkowski,66,71,24,188,82,San Jose Earthquakes,USA Major League Soccer,2021,Right,,,,,,,GK,,1000000.0,0
+992,233282,Yoon Bo Sang,68,70,27,184,84,GwangJu FC,Korean K League 1,2022,Right,,,,,,,GK,,1100000.0,0
+993,204935,J. Pickford,83,85,27,185,77,Everton,English Premier League,2024,Left,,,,,,,GK,,,0
+994,232441,M. Higashiguchi,71,71,35,184,78,Gamba Osaka,Japanese J. League Division 1,2022,Right,,,,,,,GK,,210000.0,0
+995,173857,M. Andújar,73,73,37,194,86,Estudiantes de La Plata,Argentina Primera División,2022,Right,,,,,,,GK,,350000.0,0
+996,204120,T. Vaclík,81,81,32,188,85,Olympiacos CFP,Greek Super League,2023,Right,,,,,,,GK,,,0
+997,246240,H. Bernat,58,69,20,192,88,Odense Boldklub,Danish Superliga,2024,Right,,,,,,,GK,,375000.0,0
+998,248735,Bao Yaxiong,56,63,24,192,81,Hebei FC,Chinese Super League,2022,Right,,,,,,,GK,,240000.0,0
+999,222900,W. Hahn,69,71,29,190,88,Go Ahead Eagles,Holland Eredivisie,2022,Right,,,,,,,GK,,1200000.0,0
+1000,163489,A. Consigli,81,81,34,189,82,U.S. Sassuolo Calcio,Italian Serie A,2022,Right,,,,,,,GK,,4400000.0,0
+1001,257288,M. Okoye,71,81,21,198,94,Sparta Rotterdam,Holland Eredivisie,2025,Right,,,,,,,GK,,3600000.0,0
+1002,215069,R. Rey,73,74,30,188,78,Gimnasia y Esgrima La Plata,Argentina Primera División,2022,Right,,,,,,,GK,,2300000.0,0
+1003,207589,M. Säfqvist,59,62,27,193,89,Halmstads BK,Swedish Allsvenskan,2022,Right,,,,,,,GK,,220000.0,0
+1004,191848,W. Abdullah,63,63,35,196,86,Al Nassr,Saudi Abdul L. Jameel League,2023,Right,,,,,,,GK,,50000.0,0
+1005,258390,I. Grbić,73,79,25,195,93,LOSC Lille,French Ligue 1,2022,Right,,,,,,,GK,,3800000.0,0
+1006,211738,M. Flekken,75,77,28,195,87,Sport-Club Freiburg,German 1. Bundesliga,2022,Right,,,,,,,GK,,4800000.0,0
+1007,190780,S. Johnson,73,73,32,190,98,New York City FC,USA Major League Soccer,2024,Right,,,,,,,GK,,1500000.0,0
+1008,230173,Nilson Alfarinho,74,74,37,190,89,São Paulo,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,475000.0,0
+1009,222024,T. Casali,65,67,25,192,82,SC Rheindorf Altach,Austrian Football Bundesliga,2023,Right,,,,,,,GK,,675000.0,0
+1010,210385,Rui Silva,81,84,27,191,91,Real Betis Balompié,Spain Primera Division,2026,Right,,,,,,,GK,,25500000.0,0
+1011,212432,Jo Hyeon Woo,75,77,29,189,75,Ulsan Hyundai FC,Korean K League 1,2022,Right,,,,,,,GK,,4700000.0,0
+1012,219967,D. Hładun,66,71,25,190,77,Zagłębie Lubin,Polish T-Mobile Ekstraklasa,2022,Right,,,,,,,GK,,1000000.0,0
+1013,215132,S. Moyano,73,73,30,188,78,Unión de Santa Fe,Argentina Primera División,2021,Right,,,,,,,GK,,2000000.0,0
+1014,206412,M. Koval,64,66,28,189,79,Al Fateh,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,500000.0,0
+1015,251036,M. Aioani,66,77,21,186,80,FC Farul Constanța,Romanian Liga I,2025,Right,,,,,,,GK,,1700000.0,0
+1016,211033,L. García,70,72,28,181,86,Deportivo Toluca,Mexican Liga MX,2022,Right,,,,,,,GK,,1400000.0,0
+1017,217441,S. Makani,68,68,34,192,80,Mjøndalen IF,Norwegian Eliteserien,2022,Right,,,,,,,GK,,210000.0,0
+1018,156483,C. Lucchetti,72,72,43,182,74,Atlético Tucumán,Argentina Primera División,2021,Right,,,,,,,GK,,250000.0,0
+1019,239076,A. Nurudeen,63,75,22,190,77,KAS Eupen,Belgian Jupiler Pro League,2022,Right,,,,,,,GK,,1000000.0,0
+1020,214373,A. Silva,71,71,37,190,92,Puebla FC,Mexican Liga MX,2022,Right,,,,,,,GK,,210000.0,0
+1021,215251,G. Herrera,75,76,29,187,67,Club Atlético Talleres,Argentina Primera División,2023,Left,,,,,,,GK,,4300000.0,0
+1022,240531,M. Al Baqawi,53,60,23,180,71,Al Taawoun,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,160000.0,0
+1023,186655,J. Carvallo,68,68,35,180,82,Club Universitario de Deportes,Peruvian Primera División,2022,Right,,,,,,,GK,,130000.0,0
+1024,223690,S. Rochet,76,78,28,190,82,Club Nacional de Football,Uruguayan Primera División,2023,Right,,,,,,,GK,,6500000.0,0
+1025,209981,Y. Bounou,82,82,30,192,78,Sevilla FC,Spain Primera Division,2024,Left,,,,,,,GK,,20500000.0,0
+1026,215250,C. Rigamonti,68,68,34,188,87,Club Atlético Central Córdoba,Argentina Primera División,2022,Right,,,,,,,GK,,210000.0,0
+1027,205659,A. Cragno,81,83,27,184,78,Cagliari,Italian Serie A,2024,Right,,,,,,,GK,,23500000.0,0
+1028,51694,H. Opdal,64,64,39,188,91,SK Brann,Norwegian Eliteserien,2021,Right,,,,,,,GK,,60000.0,0
+1029,199417,H. Tekin,70,70,32,183,75,Kasimpaşa SK,Turkish Süper Lig,2023,Right,,,,,,,GK,,800000.0,0
+1030,231914,D. Margush,63,70,23,187,80,Western Sydney Wanderers,Australian Hyundai A-League,2022,Right,,,,,,,GK,,825000.0,0
+1031,190941,L. Hrádecký,83,83,31,192,83,Bayer 04 Leverkusen,German 1. Bundesliga,2023,Right,,,,,,,GK,,,0
+1032,232226,D. Boyko,73,73,33,197,85,Dynamo Kyiv,Ukrainian Premier League,2023,Right,,,,,,,GK,,1000000.0,0
+1033,193913,A. Bhattacharya,63,63,31,187,85,SC East Bengal FC,Indian Super League,2022,Right,,,,,,,GK,,250000.0,0
+1034,233975,Caio Padricio,69,69,29,186,79,Atlético Clube Goianiense,Campeonato Brasileiro Série A,2024,Right,,,,,,,GK,,950000.0,0
+1035,258718,M. Ilic,67,74,23,191,81,KV Kortrijk,Belgian Jupiler Pro League,2024,Right,,,,,,,GK,,1700000.0,0
+1036,167959,Marcelo Grohe,76,76,34,188,81,Al Ittihad,Saudi Abdul L. Jameel League,2022,Right,,,,,,,GK,,1300000.0,0
+1037,258420,M. Eșanu,64,74,22,188,75,FC Dinamo 1948 Bucureşti,Romanian Liga I,2024,Right,,,,,,,GK,,1100000.0,0
+1038,201940,Z. MacMath,66,66,29,188,88,Real Salt Lake,USA Major League Soccer,2021,Right,,,,,,,GK,,575000.0,0
+1039,232007,M. Lis,66,73,24,192,83,Altay SK,Turkish Süper Lig,2024,Right,,,,,,,GK,,1500000.0,0
+1040,225701,P. Gallese,74,74,31,191,79,Orlando City Soccer Club,USA Major League Soccer,2021,Right,,,,,,,GK,,2200000.0,0
+1041,223573,Munir,73,73,32,190,89,Atakaş Hatayspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,1500000.0,0
+1042,191528,Hou Sen,60,60,32,188,81,Beijing Guoan FC,Chinese Super League,2023,Right,,,,,,,GK,,120000.0,0
+1043,253637,J. Gutíerrez,67,68,24,177,72,Club Atlético Palmaflor,Liga de Fútbol Profesional Boliviano,2021,Right,,,,,,,GK,,950000.0,0
+1044,186998,W. Yarbrough,68,68,32,188,75,Colorado Rapids,USA Major League Soccer,2023,Right,,,,,,,GK,,600000.0,0
+1045,162052,D. Ousted,65,65,36,192,88,Hammarby IF,Swedish Allsvenskan,2021,Right,,,,,,,GK,,80000.0,0
+1046,210923,M. Al Owais,70,70,29,187,79,Al Ahli,Saudi Abdul L. Jameel League,2022,Left,,,,,,,GK,,1100000.0,0
+1047,247205,L. Hroššo,63,63,34,196,91,Cracovia,Polish T-Mobile Ekstraklasa,2022,Left,,,,,,,GK,,80000.0,0
+1048,257827,M. Trmal,69,79,22,192,80,Vitória de Guimarães,Portuguese Liga ZON SAGRES,2025,Right,,,,,,,GK,,2700000.0,0
+1049,199568,K. Lamprou,72,72,29,178,84,PEC Zwolle,Holland Eredivisie,2023,Left,,,,,,,GK,,1600000.0,0
+1050,204725,Lee Bum Soo,63,64,30,190,84,Gangwon FC,Korean K League 1,2022,Right,,,,,,,GK,,350000.0,0
+1051,208104,Matheus,79,81,28,190,84,SC Braga,Portuguese Liga ZON SAGRES,2023,Right,,,,,,,GK,,,0
+1052,182761,A. Legzdins,63,63,34,190,90,Dundee FC,Scottish Premiership,2023,Right,,,,,,,GK,,80000.0,0
+1053,215363,L. Montipò,74,80,25,191,82,Hellas Verona,Italian Serie A,2022,Right,,,,,,,GK,,5000000.0,0
+1054,212067,C. Vargas,77,77,32,187,82,Club Atlas,Mexican Liga MX,2024,Left,,,,,,,GK,,5000000.0,0
+1055,223249,G. Arias,79,79,33,188,82,Racing Club,Argentina Primera División,2023,Right,,,,,,,GK,,5500000.0,0
+1056,244654,K. Osako,67,74,21,187,86,Sanfrecce Hiroshima,Japanese J. League Division 1,2022,Right,,,,,,,GK,,1800000.0,0
+1057,257439,R. Ofori,74,77,27,185,79,Orlando Pirates,South African Premier Division,2023,Right,,,,,,,GK,,4100000.0,0
+1058,202810,S. McDermott,70,73,28,185,83,Kristiansund BK,Norwegian Eliteserien,2021,Right,,,,,,,GK,,1500000.0,0
+1059,224322,K. Haug,61,71,23,187,85,Vålerenga Fotball,Norwegian Eliteserien,2022,Right,,,,,,,GK,,625000.0,0
+1060,202215,J. Willis,66,66,32,196,84,Nashville SC,USA Major League Soccer,2021,Left,,,,,,,GK,,425000.0,0
+1061,261687,S. Breza,58,65,23,193,87,Club de Foot Montréal,USA Major League Soccer,2021,Right,,,,,,,GK,,350000.0,0
+1062,229542,A. Desmas,72,74,27,196,87,Clermont Foot 63,French Ligue 1,2023,Right,,,,,,,GK,,2100000.0,0
+1063,239364,P. Köhn,67,73,23,190,80,FC Red Bull Salzburg,Austrian Football Bundesliga,2025,Right,,,,,,,GK,,1300000.0,0
+1064,192984,K. Casteels,86,87,29,197,86,VfL Wolfsburg,German 1. Bundesliga,2024,Left,,,,,,,GK,,,0
+1065,220820,M. Diaw,70,72,28,198,98,FC Lausanne-Sport,Swiss Super League,2022,Right,,,,,,,GK,,1400000.0,0
+1066,110606,A. Mannus,65,65,39,188,94,Shamrock Rovers,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,80000.0,0
+1067,161663,S. Viera,74,74,38,184,84,Junior FC,Colombian Liga Postobón,2022,Right,,,,,,,GK,,475000.0,0
+1068,244020,André Ferreira,65,71,25,193,79,FC Paços de Ferreira,Portuguese Liga ZON SAGRES,2024,Right,,,,,,,GK,,875000.0,0
+1069,200698,N. Marsman,71,71,30,188,88,Inter Miami CF,USA Major League Soccer,2021,Right,,,,,,,GK,,1200000.0,0
+1070,253672,A. Singh,56,65,23,181,69,Odisha FC,Indian Super League,2022,Right,,,,,,,GK,,275000.0,0
+1071,250939,D. Stipica,71,71,30,189,79,Pogoń Szczecin,Polish T-Mobile Ekstraklasa,2024,Right,,,,,,,GK,,1200000.0,0
+1072,207935,M. Dituro,75,75,34,191,86,RC Celta de Vigo,Spain Primera Division,2024,Right,,,,,,,GK,,950000.0,0
+1073,258885,Luiz Júnior,66,78,20,194,88,Futebol Clube de Famalicão,Portuguese Liga ZON SAGRES,2026,Right,,,,,,,GK,,1800000.0,0
+1074,178283,R. Boffin,71,71,33,196,86,Antalyaspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,600000.0,0
+1075,176389,Jung Sung Ryong,69,69,36,191,91,Kawasaki Frontale,Japanese J. League Division 1,2022,Right,,,,,,,GK,,150000.0,0
+1076,228232,D. Azcona,67,67,37,184,81,Club River Plate Asunción,Paraguayan Primera División,2021,Right,,,,,,,GK,,110000.0,0
+1077,199339,M. Riemann,74,74,32,186,83,VfL Bochum 1848,German 1. Bundesliga,2023,Right,,,,,,,GK,,2100000.0,0
+1078,255494,J. Tånnander,60,73,20,195,80,HJK Helsinki,Finnish Veikkausliiga,2021,Left,,,,,,,GK,,525000.0,0
+1079,211348,S. Dimitrievski,75,79,27,188,84,Rayo Vallecano,Spain Primera Division,2024,Right,,,,,,,GK,,6000000.0,0
+1080,234717,S. Pérez,69,69,30,180,76,Universidad Católica,Chilian Campeonato Nacional,2023,Right,,,,,,,GK,,925000.0,0
+1081,199007,M. McGinley,58,58,31,185,86,Finn Harps,Rep. Ireland Airtricity League,2021,Right,,,,,,,GK,,110000.0,0
+1082,244656,Y. Takaoka,69,72,25,181,72,Yokohama F. Marinos,Japanese J. League Division 1,2022,Right,,,,,,,GK,,1400000.0,0
+1083,250797,P. Ortíz,71,71,31,187,80,CS Emelec,Ecuadorian Serie A,2024,Right,,,,,,,GK,,1000000.0,0
+1084,204349,I. Šehić,70,70,32,190,79,İttifak Holding Konyaspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,800000.0,0
+1085,215123,A. Aguerre,74,74,30,181,76,Newell's Old Boys,Argentina Primera División,2022,Right,,,,,,,GK,,2800000.0,0
+1086,229956,L. Zigi,70,78,24,188,87,FC St. Gallen 1879,Swiss Super League,2023,Right,,,,,,,GK,,3100000.0,0
+1087,178571,Bracali,71,71,40,185,78,Boavista FC,Portuguese Liga ZON SAGRES,2022,Right,,,,,,,GK,,210000.0,0
+1088,216033,J. Broun,74,74,35,190,90,Rosario Central,Argentina Primera División,2022,Right,,,,,,,GK,,475000.0,0
+1089,188278,M. Birighitti,68,68,30,189,84,Central Coast Mariners,Australian Hyundai A-League,2023,Right,,,,,,,GK,,800000.0,0
+1090,176384,M. Gostomski,64,64,32,195,90,Górnik Łęczna,Polish T-Mobile Ekstraklasa,2023,Right,,,,,,,GK,,300000.0,0
+1091,212442,José Sá,79,81,28,192,84,Wolverhampton Wanderers,English Premier League,2026,Right,,,,,,,GK,,,0
+1092,235141,P. Menzel,65,71,22,192,84,SK Austria Klagenfurt,Austrian Football Bundesliga,2022,Right,,,,,,,GK,,925000.0,0
+1093,259904,G. Valle,64,70,25,185,85,Guayaquil City FC,Ecuadorian Serie A,2022,Right,,,,,,,GK,,725000.0,0
+1094,201353,J. Kempin,62,63,28,185,78,D.C. United,USA Major League Soccer,2021,Right,,,,,,,GK,,325000.0,0
+1095,199482,A. Lopes,82,83,30,184,81,Olympique Lyonnais,French Ligue 1,2023,Left,,,,,,,GK,,,0
+1096,192129,K. Nordfeldt,75,75,32,188,87,AIK,Swedish Allsvenskan,2021,Right,,,,,,,GK,,2800000.0,0
+1097,219244,D. von Ballmoos,76,80,26,192,90,BSC Young Boys,Swiss Super League,2025,Right,,,,,,,GK,,8000000.0,0
+1098,223686,T. Wellenreuther,70,74,25,188,80,Willem II,Holland Eredivisie,2022,Right,,,,,,,GK,,1700000.0,0
+1099,251136,H. Moldovan,63,73,23,189,81,Rapid București,Romanian Liga I,2022,Right,,,,,,,GK,,925000.0,0
+1100,144172,S. Kırıntılı,70,70,36,185,78,Aytemiz Alanyaspor,Turkish Süper Lig,2022,Right,,,,,,,GK,,180000.0,0
+1101,245074,Choi Young Eun,58,63,25,189,78,Daegu FC,Korean K League 1,2022,Right,,,,,,,GK,,240000.0,0
+1102,220932,L. Kalinić,73,73,31,201,96,Hajduk Split,Croatian Prva HNL,2023,Left,,,,,,,GK,,1600000.0,0
+1103,225149,J. Butez,72,76,26,188,70,Royal Antwerp FC,Belgian Jupiler Pro League,2024,Right,,,,,,,GK,,2500000.0,0
+1104,220383,Aarón,70,75,25,185,71,Granada CF,Spain Primera Division,2023,Right,,,,,,,GK,,1900000.0,0
+1105,191655,Kim Seung Gyu,69,69,30,187,84,Kashiwa Reysol,Japanese J. League Division 1,2022,Right,,,,,,,GK,,925000.0,0
