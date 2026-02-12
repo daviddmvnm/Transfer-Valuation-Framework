@@ -1,6 +1,6 @@
 # FIFA Player Valuation & Development Framework ⚽
 
-A data-driven framework for identifying undervalued football players and quantifying the financial returns of targeted skill development. Originally developed as a technical case study presented to senior data scientists and data science managers in a stakeholder simulation exercise for a major payments company. (I did pass the technical but sold the bag on the final round </3)
+A data-driven framework for identifying undervalued football players and quantifying the financial returns of targeted skill development. Originally developed as a technical case study presented to senior data scientists and data science managers in a stakeholder simulation exercise for a major payments company. ( I did pass the technical but sold the bag on the final round 💔 )
 
 ## Key Findings
 
